@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>第1章 危険物に関する法令</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="chapter">第1章</p>
+        <h1>危険物に関する法令</h1>
+      </div>
+      <div class="counter" id="counter"></div>
+    </header>
+
+    <main class="layout">
+      <nav class="item-nav" aria-label="項目一覧">
+        <div class="nav-title">項目一覧</div>
+        <div id="itemList" class="item-list"></div>
+      </nav>
+
+      <section class="reader">
+        <div class="reader-head">
+          <div>
+            <p class="item-no" id="itemNo"></p>
+            <h2 id="itemTitle"></h2>
+          </div>
+          <div class="pager">
+            <button type="button" id="prevBtn" title="前の項目">‹</button>
+            <button type="button" id="nextBtn" title="次の項目">›</button>
+          </div>
+        </div>
+
+        <div class="tabs" role="tablist">
+          <button type="button" class="active" data-tab="intro">導入</button>
+          <button type="button" data-tab="body">本文</button>
+          <button type="button" data-tab="questions">参考問題</button>
+        </div>
+
+        <div class="tools" aria-label="表示切替">
+          <button type="button" id="redMarkerToggle">赤を隠す</button>
+          <button type="button" id="blueMarkerToggle">青を隠す</button>
+          <label><input type="checkbox" id="boostBold" /> 太字を強調</label>
+        </div>
+
+        <article id="content" class="content"></article>
+      </section>
+    </main>
+
+    <script src="law_chapter_01_items.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
