@@ -89,7 +89,8 @@ function richTextHtml(text) {
       i = table.nextIndex;
       continue;
     }
-    blocks.push(`<p>${markdownInlineToHtml(line)}</p>`);
+    const isSubheading = /^<strong class="body-subheading">/.test(line.trim());
+    blocks.push(`<p${isSubheading ? ' class="body-subheading"' : ""}>${markdownInlineToHtml(line)}</p>`);
     i += 1;
   }
   return blocks.join("");

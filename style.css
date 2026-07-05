@@ -301,6 +301,13 @@ h2 {
   margin-bottom: 0;
 }
 
+.body-subheading {
+  font-weight: 700;
+  margin-top: 1.1em;
+  margin-bottom: 0.35em;
+  line-height: 1.6;
+}
+
 .content table {
   width: 100%;
   margin: 0 0 1rem;
