@@ -1,0 +1,1123 @@
+[
+  {
+    "id": "chem-001",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 1,
+    "title": "燃焼の化学",
+    "intro": "燃焼と聞くと、単に「ものが燃えること」と考えがちである。しかし試験では、燃焼を<strong>可燃物・酸素供与体・点火源</strong>という三つの条件で説明できることが出発点になる。この三つのうち一つでも欠けると燃焼は成立しないため、燃焼の理解はそのまま<strong>消火方法の理解</strong>にもつながる。",
+    "body": "燃焼の３要素\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m001\">可燃物</span></strong>は酸化される物質。ガソリン・灯油等の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m002\">蒸気</span></strong>が当たる。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m003\">酸素供与体</span></strong>は通常、空気中の酸素（約21vol％）。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m004\">点火源</span></strong>は燃焼を開始させるエネルギー。静電気の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m005\">放電火花</span></strong>等。\n・3要素のどれかを除けば燃焼は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m006\">止まる</span></strong>。除去・窒息・冷却消火の原理になる。\n燃焼の継続（連鎖反応）\n・三要素に加え「燃焼の継続（連鎖反応）」を第4の要素とする考え方もある。\n・連鎖反応を止める消火法を<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m007\">抑制効果（負触媒効果）</span></strong>という。\n酸化反応と還元反応\n・燃焼は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m008\">酸化反応</span></strong>の一種。\n・酸素と結合する反応が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m009\">酸化</span></strong>、酸素を失う反応が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m010\">還元</span></strong>。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-001-m011\">酸化反応</span></strong>は必ずしも燃焼を<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-001-m012\">伴わない</span></strong>。鉄が錆びる酸化は熱や光を<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-001-m013\">伴わない</span></strong>。",
+    "questions": [
+      {
+        "id": "chem-001-q001",
+        "questionNo": 1,
+        "question": "燃焼の三要素のうち、いずれか1つを取り除くことで消火が成立する理由として、正しいものはどれか。",
+        "choices": [
+          "三要素はすべて同時に存在しなくても燃焼が継続するため。",
+          "三要素のいずれか1つでも欠けると、燃焼反応自体が成立しなくなるため。",
+          "三要素は燃焼開始時のみ必要で、継続には不要であるため。",
+          "三要素という概念は消火理論には適用されない。"
+        ],
+        "answer": 2,
+        "explanation": "燃焼は、<strong>可燃物・酸素供与体・点火源</strong>の三要素がすべて揃うことで成立する反応であり、<strong>いずれか1つでも欠けると燃焼反応自体が成立しません</strong>。選択肢1・3は、三要素が継続的に必要であることを否定しており誤りです。選択肢4は、消火理論の基礎として三要素が用いられているため誤りです。"
+      },
+      {
+        "id": "chem-001-q002",
+        "questionNo": 2,
+        "question": "燃焼の三要素に加えて、近年の理論で第4の要素とされるものとして、正しいものはどれか。",
+        "choices": [
+          "燃焼範囲",
+          "燃焼の継続（連鎖反応）",
+          "燃焼速度",
+          "燃焼温度"
+        ],
+        "answer": 2,
+        "explanation": "燃焼の三要素に加えて、<strong>燃焼の継続（連鎖反応）</strong>を第4の要素とする考え方があります。この連鎖反応を阻害する消火法が抑制消火（負触媒効果）です。選択肢1・3・4は、いずれも燃焼の性質を表す指標であり、「要素」として三要素と並列に扱われるものではないため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-002",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 2,
+    "title": "燃焼の区分",
+    "intro": "ものの燃え方は、気体・液体・固体のどの状態で燃えるかによって名前が変わる。乙4で特に大事なのは、第4類危険物では<strong>液体そのものではなく、液面から蒸発した蒸気が燃える</strong>という点である。ここを押さえておくと、<strong>引火点・燃焼範囲・蒸気比重</strong>の話がひとつにつながって見えやすくなる。",
+    "body": "気体の燃焼\n・拡散燃焼は、ガスが空気中に拡散しながら燃える。ガスバーナーの炎が例。\n・予混合燃焼は、ガスと空気が予め混ざった状態で燃える。ガソリンエンジンが例。\n液体の燃焼（蒸発燃焼）\n・第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m001\">4</span></strong>類危険物のほとんどは<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m002\">蒸発燃焼</span></strong>。\n・液体そのものではなく、液面から蒸発した<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m003\">蒸気</span></strong>が燃える。\n・「<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m004\">蒸気</span></strong>が燃えている」という理解が、引火点・燃焼範囲の前提になる。\n固体の燃焼\n・表面燃焼はガスを発生せず<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m005\">固体表面</span></strong>で燃える。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-002-m006\">木炭</span></strong>、<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-002-m007\">コークス</span></strong>が例。\n・分解燃焼は分解して<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m008\">ガス</span></strong>を出し、それが燃える。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-002-m009\">木材</span></strong>、紙が例。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m010\">蒸発燃焼</span></strong>（固体）は溶融・蒸発した蒸気が燃える。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-002-m011\">硫黄</span></strong>、ろうが例。\n・自己燃焼は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m012\">物質自体の酸素</span></strong>で燃える。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-002-m013\">ニトロセルロース</span></strong>（第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m014\">5</span></strong>類）が例。\n・第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m015\">4</span></strong>類危険物の燃焼形式は「<strong><span class=\"marker marker-red\" data-marker-id=\"chem-002-m016\">蒸発燃焼</span></strong>」。これを確実に覚える。",
+    "questions": [
+      {
+        "id": "chem-002-q003",
+        "questionNo": 3,
+        "question": "拡散燃焼と予混合燃焼の違いに関する記述として、正しいものはどれか。",
+        "choices": [
+          "拡散燃焼は、可燃性ガスと空気が予め混合された状態で燃焼する。",
+          "予混合燃焼は、可燃性ガスが空気中に拡散しながら燃焼する。",
+          "拡散燃焼の例としてろうそくの炎、予混合燃焼の例としてガソリンエンジン内の燃焼が挙げられる。",
+          "拡散燃焼と予混合燃焼は、固体の燃焼形式の分類である。"
+        ],
+        "answer": 3,
+        "explanation": "拡散燃焼の例として<strong>ろうそくの炎</strong>、予混合燃焼の例として<strong>ガソリンエンジン内の燃焼</strong>が挙げられます。選択肢1・2は、それぞれの定義が逆になっており誤りです。選択肢4は、拡散燃焼・予混合燃焼は<strong>気体</strong>の燃焼形式の分類であるため誤りです。"
+      },
+      {
+        "id": "chem-002-q004",
+        "questionNo": 4,
+        "question": "固体の燃焼形式のうち、木炭の燃焼に該当するものとして、正しいものはどれか。",
+        "choices": [
+          "分解燃焼",
+          "表面燃焼",
+          "蒸発燃焼",
+          "自己燃焼"
+        ],
+        "answer": 2,
+        "explanation": "木炭は、可燃性ガスを発生せず<strong>固体表面で酸素と反応</strong>して燃える「<strong>表面燃焼</strong>」です。選択肢1（分解燃焼）は木材等、選択肢3（蒸発燃焼）は硫黄等、選択肢4（自己燃焼）は第5類危険物等の燃焼形式であり、いずれも木炭の燃焼形式とは異なるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-003",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 3,
+    "title": "燃焼の難易",
+    "intro": "同じように見える物質でも、燃えやすいものと燃えにくいものがある。この違いは、酸化されやすさ、熱の逃げやすさ、空気との触れやすさなどで決まる。特に「<strong>熱伝導率が大きいほど燃えやすい</strong>」と考えてしまうと逆なので、<strong>熱が逃げるか、たまるか</strong>というイメージで判断すると間違えにくい。",
+    "body": "燃えやすい条件\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-003-m001\">酸化されやすい</span></strong>こと。\n・熱伝導率が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-003-m002\">小さい</span></strong>こと（熱が逃げにくく蓄熱しやすい）。\n・発熱量（燃焼熱）が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m003\">大きい</span></strong>こと。\n・周囲の温度が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m004\">高い</span></strong>こと。\n・乾燥していること（含水率が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m005\">低い</span></strong>）。\n・比表面積が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m006\">大きい</span></strong>こと（粉状・薄い形状ほど燃えやすい）。\n・空気との接触面積が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m007\">大きい</span></strong>こと（多孔質・粉末状ほど燃えやすい）。\n燃えにくい条件\n・上記の逆。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m008\">酸化されにくい</span></strong>、熱伝導率が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m009\">大きい</span></strong>、発熱量が小さい等。\n・熱伝導率が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m010\">大きい</span></strong>物質ほど燃えにくい。熱が拡散し<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-003-m011\">蓄熱しにくい</span></strong>ため。\n・感覚的には逆に思えるため、誤りの選択肢として頻出する。",
+    "questions": [
+      {
+        "id": "chem-003-q005",
+        "questionNo": 5,
+        "question": "物質が燃えにくくなる条件として、正しいものはどれか。",
+        "choices": [
+          "比表面積が大きいこと",
+          "周囲の温度が高いこと",
+          "熱伝導率が大きいこと",
+          "乾燥していること"
+        ],
+        "answer": 3,
+        "explanation": "<strong>熱伝導率が大きい</strong>物質は、熱が周囲に逃げやすく蓄熱しにくいため<strong>燃えにくく</strong>なります。選択肢1（比表面積が大きい）、選択肢2（周囲の温度が高い）、選択肢4（乾燥している）は、いずれも燃え<strong>やすく</strong>なる条件であるため誤りです。"
+      },
+      {
+        "id": "chem-003-q006",
+        "questionNo": 6,
+        "question": "比表面積が燃焼の難易に与える影響として、正しいものはどれか。",
+        "choices": [
+          "比表面積が大きいほど、空気との接触面積が小さくなり燃えにくい。",
+          "比表面積が大きいほど、空気との接触面積が大きくなり燃えやすい。",
+          "比表面積は燃焼の難易に影響しない。",
+          "比表面積は液体にのみ適用される概念である。"
+        ],
+        "answer": 2,
+        "explanation": "比表面積（表面積/体積の比）が<strong>大きい</strong>ほど、空気との接触面積が大きくなり、<strong>燃えやすく</strong>なります（粉状・薄い形状ほど燃えやすい）。選択肢1は関係が逆であり誤りです。選択肢3は影響しないとしており誤りです。選択肢4は、比表面積は固体にも適用される概念であるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-004",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 4,
+    "title": "引火と発火",
+    "intro": "引火点と発火点は、どちらも危険物が燃え始める温度に関係するため混同しやすい。大きな違いは、火花などの<strong>点火源が必要かどうか</strong>である。<strong>引火点は「火を近づければ燃える準備ができる温度」、発火点は「火を近づけなくても自ら燃え始める温度」</strong>と分けて考えると整理しやすい。",
+    "body": "引火点\n・引火点は、蒸気が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m001\">点火源</span></strong>があれば燃え始める<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m002\">最低</span></strong>の液温。\n・点火源が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m003\">必要</span></strong>。火花等がなければ自然には燃えない。\n・引火点が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m004\">低い</span></strong>ほど危険性が高い。\n発火点\n・発火点は、点火源がなくても<strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m005\">自ら発火</span></strong>する<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m006\">最低</span></strong>温度。\n・点火源は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m007\">不要</span></strong>。「引火点＝<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m008\">必要</span></strong>」「発火点＝<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m009\">不要</span></strong>」と対比して覚える。\n引火点と発火点の関係\n・発火点は引火点より必ず<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m010\">高い</span></strong>\n| 物質 | 引火点の目安 | 発火点の目安 |\n| --- | --- | --- |\n| ガソリン | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m011\">-40℃以下</span></strong> | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m012\">約300℃</span></strong> |\n| 二硫化炭素 | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m013\">約-30℃</span></strong> | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m014\">約90℃</span></strong> |\n| ジエチルエーテル | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m015\">約-45℃</span></strong> | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m016\">約160℃</span></strong> |\n| 灯油 | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m017\">40〜60℃</span></strong> | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m018\">約220℃</span></strong> |\n| 軽油 | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m019\">45℃以上</span></strong> | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m020\">約220℃</span></strong> |\n| 重油 | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-004-m021\">60〜150℃</span></strong> | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-004-m022\">約250〜380℃</span></strong> |",
+    "questions": [
+      {
+        "id": "chem-004-q007",
+        "questionNo": 7,
+        "question": "引火点の定義として、正しいものはどれか。",
+        "choices": [
+          "点火源がなくても自然に燃焼を開始する最低の温度",
+          "可燃性液体の表面から発生する蒸気が、点火源によって燃焼することができる最低の液温",
+          "可燃性液体が完全に蒸発し終える温度",
+          "可燃性液体が沸騰を開始する温度"
+        ],
+        "answer": 2,
+        "explanation": "引火点は、可燃性液体の表面から発生する蒸気が、<strong>点火源によって燃焼することができる最低の液温</strong>です。選択肢1は発火点の定義であり誤りです。選択肢3・4は、それぞれ蒸発の完了や沸点に関する記述であり、引火点の定義とは異なるため誤りです。"
+      },
+      {
+        "id": "chem-004-q008",
+        "questionNo": 8,
+        "question": "ジエチルエーテルとガソリンの引火点を比較した記述として、正しいものはどれか（ジエチルエーテルの引火点は約−45℃、ガソリンの引火点は約−40℃以下とする）。",
+        "choices": [
+          "ジエチルエーテルの引火点は、ガソリンより高い。",
+          "ジエチルエーテルの引火点は、ガソリンよりわずかに低い。",
+          "両者の引火点は完全に同一である。",
+          "ガソリンには引火点という概念が存在しない。"
+        ],
+        "answer": 2,
+        "explanation": "ジエチルエーテルの引火点（約−45℃）は、ガソリンの引火点（約−40℃以下）よりも<strong>わずかに低い</strong>といえます。選択肢1は大小関係が逆であり誤りです。選択肢3は、両者に差があるため誤りです。選択肢4は、ガソリンにも引火点が存在するため誤りです。"
+      },
+      {
+        "id": "chem-004-q009",
+        "questionNo": 9,
+        "question": "発火点に関する記述として、誤っているものはどれか。",
+        "choices": [
+          "点火源がなくても自然に燃焼を開始する最低の温度である。",
+          "同一物質において、発火点は必ず引火点より高い。",
+          "二硫化炭素の発火点は約90℃と、特殊引火物の中でも特異に低い。",
+          "すべての第4類危険物の発火点は500℃以上である。"
+        ],
+        "answer": 4,
+        "explanation": "第4類危険物の発火点は物質によって大きく異なり、<strong>二硫化炭素（約90℃）</strong>のように500℃を大幅に下回るものも存在します。選択肢4はこの点で誤りです（＝適切でないものとして正解）。選択肢1・2・3は、いずれも正しい記述です。"
+      }
+    ]
+  },
+  {
+    "id": "chem-005",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 5,
+    "title": "燃焼範囲",
+    "intro": "可燃性蒸気は、空気中に少しでもあれば必ず燃えるわけではない。薄すぎれば燃える材料が足りず、濃すぎれば酸素が足りないため、<strong>燃えることができる濃度には一定の幅</strong>がある。この幅が<strong>燃焼範囲</strong>であり、第4類危険物の爆発危険を考えるうえで中心になる。",
+    "body": "燃焼範囲とは\n・燃焼範囲は、燃焼が起こり得る蒸気の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-005-m001\">濃度範囲</span></strong>。単位は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m002\">vol％</span></strong>。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-005-m003\">下限値</span></strong>から<strong><span class=\"marker marker-red\" data-marker-id=\"chem-005-m004\">上限値</span></strong>までの範囲で表す。\n・「○vol％」は、混合気体全体に対する可燃性蒸気の濃度を指す。\n・例：下限2vol％・上限8vol％なら、混合気体100L中に蒸気が2〜8L。\n燃焼範囲の外側で燃えない理由\n・下限値未満は蒸気が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m005\">薄すぎ</span></strong>て燃焼を維持できない。\n・上限値超は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m006\">酸素が不足</span></strong>して燃焼を維持できない。\n引火点と燃焼範囲の関係\n・液温が引火点に達すると、蒸気濃度は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-005-m007\">燃焼下限値</span></strong>に<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m008\">等しく</span></strong>なる。\n・頻出問題：引火点＝<strong><span class=\"marker marker-red\" data-marker-id=\"chem-005-m009\">燃焼下限値</span></strong>に達する温度、という関係を問う。\n危険性の判断\n・燃焼範囲が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m010\">広い</span></strong>ほど危険性が高い。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-005-m011\">燃焼下限値</span></strong>が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m012\">低い</span></strong>ほど危険性が高い。\n・下限値が同じなら、範囲が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m013\">広い</span></strong>方が危険性が大きい。\n第4類の主な物質の燃焼範囲（目安）\n| 物質 | 燃焼範囲の目安 |\n| --- | --- |\n| ガソリン | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-005-m014\">約1.4〜7.6vol%</span></strong> |\n| ジエチルエーテル | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-005-m015\">約1.9〜36vol%</span></strong> |\n| アセトン | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m016\">約2.5〜13vol%</span></strong> |\n| エタノール | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m017\">約3.3〜19vol%</span></strong> |\n| 灯油 | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-005-m018\">約1.1〜6.0vol%</span></strong> |",
+    "questions": [
+      {
+        "id": "chem-005-q010",
+        "questionNo": 10,
+        "question": "燃焼範囲が広い物質ほど危険性が高いとされる理由として、正しいものはどれか。",
+        "choices": [
+          "燃焼が起こり得る濃度の幅が広く、様々な状況で燃焼条件が成立しやすいため。",
+          "燃焼範囲が広いほど、引火点が必ず高くなるため。",
+          "燃焼範囲の広さは、危険性とは無関係であるため。",
+          "燃焼範囲が広いほど、発火点が必ず低くなるため。"
+        ],
+        "answer": 1,
+        "explanation": "燃焼範囲が広い物質は、<strong>燃焼が起こり得る濃度の幅が広く</strong>、様々な状況（薄い場合・濃い場合）で燃焼条件が成立しやすいため、危険性が高いとされます。選択肢2・4は、燃焼範囲の広さと引火点・発火点の高低に直接的な因果関係があるとは言えないため誤りです。選択肢3は、危険性と無関係としており誤りです。"
+      },
+      {
+        "id": "chem-005-q011",
+        "questionNo": 11,
+        "question": "燃焼下限値が低い物質の危険性に関する記述として、正しいものはどれか。",
+        "choices": [
+          "燃焼下限値が低いほど、わずかな蒸気の存在でも燃焼条件が成立しやすく、危険性が高い。",
+          "燃焼下限値が低いほど、燃焼条件が成立しにくく、危険性が低い。",
+          "燃焼下限値の高低は、危険性の判断には使用されない。",
+          "燃焼下限値は、常に燃焼上限値より大きい。"
+        ],
+        "answer": 1,
+        "explanation": "燃焼下限値が<strong>低い</strong>物質ほど、わずかな蒸気の存在でも燃焼条件が成立しやすく、<strong>危険性が高い</strong>といえます。選択肢2は関係が逆であり誤りです。選択肢3は、危険性の判断に使用されないとしており誤りです。選択肢4は、燃焼下限値は燃焼上限値より常に<strong>小さい</strong>ため誤りです。"
+      },
+      {
+        "id": "chem-005-q012",
+        "questionNo": 12,
+        "question": "燃焼範囲が約1.9〜36vol%である物質として、最も適切なものはどれか。",
+        "choices": [
+          "ガソリン",
+          "ジエチルエーテル",
+          "灯油",
+          "エタノール"
+        ],
+        "answer": 2,
+        "explanation": "<strong>ジエチルエーテル</strong>の燃焼範囲は約1.9〜36vol%と、第4類の中でも非常に広い範囲を持ちます。選択肢1（ガソリン：約1.4〜7.6vol%）、選択肢3（灯油：約1.1〜6.0vol%）、選択肢4（エタノール：約3.3〜19vol%）は、いずれも燃焼範囲がジエチルエーテルより狭いため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-006",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 6,
+    "title": "自然発火",
+    "intro": "自然発火は、外から火をつけていないのに<strong>物質が自分で発熱し、その熱がたまって発火する</strong>現象である。日常の感覚では起こりにくそうに見えるが、油の染みた布を積んでおくような場面では現実に問題になる。乙4では、アマニ油などの<strong>乾性油と酸化熱</strong>を結びつけて覚えることがポイントになる。",
+    "body": "自然発火とは\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m001\">外部からの加熱なし</span></strong>に<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m002\">常温で発熱</span></strong>し、<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m003\">熱が蓄積</span></strong>して発火点に達する現象。\n自然発火の主な原因\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m004\">酸化熱</span></strong>：酸素と反応して生じる熱。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-006-m005\">乾性油を含む布</span></strong>等が例。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m006\">分解熱</span></strong>：物質が分解する際の熱。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-006-m007\">セルロイド</span></strong>等が例。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m008\">吸着熱</span></strong>：多孔質物質が気体を吸着する際の熱。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-006-m009\">活性炭</span></strong>等。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m010\">発酵熱</span></strong>：微生物の発酵による発熱。堆肥、ゴミ。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m011\">重合熱</span></strong>：重合反応による発熱。一部のモノマー。\n動植物油類の自然発火\n・動植物油類（特に<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m012\">乾性油</span></strong>）は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m013\">自然発火</span></strong>の典型例。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m014\">ヨウ素価</span></strong>が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-006-m015\">大きい</span></strong>ほど酸化されやすく、<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m016\">自然発火</span></strong><strong><span class=\"marker marker-blue\" data-marker-id=\"chem-006-m017\">しやすい</span></strong>。\n・油染みの布等を<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m018\">通気性の悪い場所</span></strong>に積むと<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m019\">自然発火</span></strong>のおそれ。\n・乾燥機にかけることも酸化を促進し危険。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m020\">ヨウ素価</span></strong>は油脂100gが吸収するヨウ素のグラム数。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m021\">乾性油</span></strong><strong>＞</strong><strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m022\">半乾性油</span></strong><strong>＞</strong><strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m023\">不乾性油</span></strong>の順に<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m024\">自然発火</span></strong>の危険性が下がる。\n自然発火を防ぐ方法\n・通気・換気をよくし、熱を蓄積させない。\n・油染みの布は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-006-m025\">密閉した金属製容器</span></strong>で保管する。\n・低温で保管し、周囲温度の上昇を避ける。",
+    "questions": [
+      {
+        "id": "chem-006-q013",
+        "questionNo": 13,
+        "question": "自然発火の原因のうち、「分解熱」が原因となる物質として、正しいものはどれか。",
+        "choices": [
+          "アマニ油",
+          "セルロイド",
+          "活性炭",
+          "堆肥"
+        ],
+        "answer": 2,
+        "explanation": "<strong>セルロイド</strong>は、物質が分解する際に生じる「<strong>分解熱</strong>」によって自然発火することがある代表的な物質です。選択肢1（アマニ油）は酸化熱、選択肢3（活性炭）は吸着熱、選択肢4（堆肥）は発酵熱が主な原因であり、いずれも分解熱とは異なるため誤りです。"
+      },
+      {
+        "id": "chem-006-q014",
+        "questionNo": 14,
+        "question": "自然発火を防止する方法として、誤っているものはどれか。",
+        "choices": [
+          "通気・換気をよくして、熱が蓄積しないようにする。",
+          "油の染みた布等は、密閉した金属製の容器に入れて保管する。",
+          "物質を高温で保管し、酸化を促進させて一気に消費する。",
+          "物質を低温で保管し、周囲温度の上昇を避ける。"
+        ],
+        "answer": 3,
+        "explanation": "物質を<strong>高温で保管し酸化を促進させる</strong>ことは、自然発火のリスクを<strong>高める</strong>行為であり、防止策としては不適切です。選択肢3はこの点で誤りです（＝適切でないものとして正解）。選択肢1・2・4は、いずれも正しい自然発火の防止方法です。"
+      }
+    ]
+  },
+  {
+    "id": "chem-007",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 7,
+    "title": "粉じん爆発",
+    "intro": "粉じん爆発は、第4類危険物そのものの話ではないが、燃焼の基礎として出題されることがある。<strong>粉末は細かくなるほど空気に触れる面積が増え</strong>、空気中に舞った状態で点火源があると、一気に燃え広がる危険がある。「<strong>細かい粉が空気中に浮いている状態が危ない</strong>」とイメージしておくとよい。",
+    "body": "粉じん爆発とは\n・可燃性の粉が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-007-m001\">空気中に浮遊</span></strong>し、点火源で爆発的に燃える現象。\n・気体と同様、粉じんにも爆発が起こる濃度範囲がある。\n粉じん爆発が起こりやすい条件\n・粒子が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-007-m002\">小さい</span></strong>ほど爆発しやすい。\n・水分が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-007-m003\">少ない</span></strong>ほど爆発しやすい。\n・適度な濃度で浮遊している状態（<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-007-m004\">濃すぎても薄すぎても</span></strong>爆発しない）。\n・第4類危険物は液体のため<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-007-m005\">直接の対象ではない</span></strong>が、基礎理論として出題される。",
+    "questions": [
+      {
+        "id": "chem-007-q015",
+        "questionNo": 15,
+        "question": "粉じん爆発に関する記述として、正しいものはどれか。",
+        "choices": [
+          "粉じんの水分が多いほど爆発しやすい。",
+          "粉じんの濃度が高ければ高いほど、常に爆発しやすくなる。",
+          "粉じんには気体と同様、爆発が起こり得る濃度範囲が存在する。",
+          "粉じん爆発は、液体にのみ生じる現象である。"
+        ],
+        "answer": 3,
+        "explanation": "粉じんにも、気体の燃焼範囲と同様に<strong>爆発が起こり得る濃度範囲</strong>が存在し、薄すぎても濃すぎても爆発は起こりません。選択肢1は、水分が多いほど爆発しにくくなるため誤りです。選択肢2は、濃すぎる場合は爆発しないため誤りです。選択肢4は、粉じん爆発は固体（粉末）に生じる現象であるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-008",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 8,
+    "title": "消火と消火剤",
+    "intro": "消火は、燃えているものに何かをかける作業として覚えるより、<strong>燃焼に必要な条件をどれか一つ崩す</strong>ことだと考えると分かりやすい。可燃物をなくす、酸素を遮る、温度を下げる、連鎖反応を止めるという考え方が、除去消火・窒息消火・冷却消火・抑制消火につながる。第4類では、<strong>水が不適な場面</strong>がある点も重要になる。",
+    "body": "消火の三要素（除去・窒息・冷却）\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m001\">除去消火</span></strong>：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m002\">可燃物</span></strong>を取り除く。ガスの元弁を閉める等。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m003\">窒息消火</span></strong>：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m004\">酸素の供給</span></strong>を断つ。泡消火剤、二酸化炭素消火剤等。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m005\">冷却消火</span></strong>：温度を下げ<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m006\">発火点未満</span></strong>にする。水による冷却等。\n第4の消火法：抑制消火（負触媒効果）\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m007\">連鎖反応</span></strong>を阻害する消火法。<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m008\">ハロゲン化物消火剤</span></strong>等が持つ効果。\n主な消火剤と第4類火災への適否\n| 消火剤 | 消火原理 | 第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m009\">4</span></strong>類火災への適否 |\n| --- | --- | --- |\n| 水（棒状・霧状） | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m010\">冷却</span></strong> | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m011\">不適</span></strong> |\n| 強化液（棒状） | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m012\">冷却</span></strong> | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m013\">不適</span></strong> |\n| 強化液（霧状） | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m014\">冷却</span></strong>＋<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m015\">抑制</span></strong> | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m016\">適切</span></strong> |\n| 泡消火剤 | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m017\">窒息</span></strong> | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m018\">適切</span></strong> |\n| 二酸化炭素 | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m019\">窒息</span></strong> | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m020\">適切</span></strong> |\n| ハロゲン化物 | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m021\">窒息</span></strong>＋<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m022\">抑制</span></strong> | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m023\">適切</span></strong> |\n| 粉末 | <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m024\">窒息</span></strong>＋<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m025\">抑制</span></strong> | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-008-m026\">適切</span></strong> |\n動植物油類の火災に水をかける危険性\n・油温は300℃以上になりやすい。水をかけると<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-008-m027\">水蒸気爆発</span></strong>のおそれ。",
+    "questions": [
+      {
+        "id": "chem-008-q016",
+        "questionNo": 16,
+        "question": "消火の三要素（除去・窒息・冷却）に加えて、第4の消火法として位置付けられるものはどれか。",
+        "choices": [
+          "希釈消火",
+          "抑制消火（負触媒消火）",
+          "拡散消火",
+          "蒸発消火"
+        ],
+        "answer": 2,
+        "explanation": "燃焼の連鎖反応を阻害することで消火する方法を「<strong>抑制消火（負触媒消火）</strong>」といい、ハロゲン化物消火剤等がこの効果を持ちます。選択肢1・3・4は、いずれも一般的に確立された消火法の名称としては不適切であり誤りです。"
+      },
+      {
+        "id": "chem-008-q017",
+        "questionNo": 17,
+        "question": "強化液消火剤（棒状）と強化液消火剤（霧状）の、第4類危険物の火災への適否に関する記述として、正しいものはどれか。",
+        "choices": [
+          "棒状・霧状ともに第4類火災に適している。",
+          "棒状は不適だが、霧状は第4類火災に適している。",
+          "棒状は適しているが、霧状は不適である。",
+          "棒状・霧状ともに第4類火災には使用できない。"
+        ],
+        "answer": 2,
+        "explanation": "強化液消火剤は、<strong>棒状では不適</strong>（油が水に浮いて拡大するため）ですが、<strong>霧状では第4類火災に適している</strong>（冷却＋抑制効果があり、油面を覆いやすいため）という違いがあります。選択肢1・3・4は、いずれもこの棒状・霧状の違いを正しく反映していないため誤りです。"
+      },
+      {
+        "id": "chem-008-q018",
+        "questionNo": 18,
+        "question": "動植物油類の火災に水をかけることが危険である理由として、正しいものはどれか。",
+        "choices": [
+          "水と油が結合して、より燃えやすい物質に変化するため。",
+          "高温の油に水が触れることで、急激な水蒸気の発生により油が飛散するため。",
+          "水をかけると、油の引火点が急激に低下するため。",
+          "水と油が中和反応を起こし、爆発するため。"
+        ],
+        "answer": 2,
+        "explanation": "動植物油類の火災では油温が非常に高くなっており、そこに水をかけると、水が<strong>急激に沸騰・気化</strong>し、<strong>水蒸気爆発的に燃えている油を周囲に飛散させる</strong>ため危険です。選択肢1は、水と油が結合して別の物質に変化するという記述が誤りです。選択肢3は、引火点が水によって低下するという機序が誤りです。選択肢4は、中和反応は酸と塩基の反応であり、油と水の関係とは異なるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-009",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 9,
+    "title": "電気の計算／電池",
+    "intro": "電気の計算は、乙4の中心分野ではないが、基本式を知っていれば対応できる問題がある。<strong>電圧・電流・抵抗・電力</strong>の関係は、難しい理論としてではなく、<strong>式に当てはめる道具</strong>として押さえればよい。電池については、酸化還元反応とつながる基礎知識として確認しておく。",
+    "body": "オームの法則・電力の計算\n・<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-009-m001\">V＝IR</span></strong>（電圧＝電流×抵抗）。\n・<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-009-m002\">P＝VI＝I²R</span></strong>（電力＝電圧×電流）。\n直列・並列接続\n・直列接続：合成抵抗は各抵抗の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-009-m003\">和</span></strong>。電流はどこでも<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-009-m004\">同じ</span></strong>。\n・並列接続：合成抵抗の逆数は各抵抗の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-009-m005\">逆数の和</span></strong>。電圧はどこでも<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-009-m006\">同じ</span></strong>。\n電池の基礎\n・電池は化学反応で電気を作る装置。<strong><span class=\"marker marker-red\" data-marker-id=\"chem-009-m007\">正極で還元、負極で酸化</span></strong>。\n・乙4で電池自体は問われにくいが、酸化還元の基礎として関連する。",
+    "questions": [
+      {
+        "id": "chem-009-q019",
+        "questionNo": 19,
+        "question": "抵抗5Ωと抵抗10Ωを直列に接続した場合の合成抵抗として、正しいものはどれか。",
+        "choices": [
+          "5Ω",
+          "10Ω",
+          "15Ω",
+          "50Ω"
+        ],
+        "answer": 3,
+        "explanation": "直列接続の合成抵抗は、各抵抗の<strong>和</strong>で求められるため、 となります。選択肢1・2は一方の抵抗のみの値、選択肢4は誤って積を計算したものです。"
+      },
+      {
+        "id": "chem-009-q020",
+        "questionNo": 20,
+        "question": "電力10W、電圧5Vの回路に流れる電流として、正しいものはどれか。",
+        "choices": [
+          "0.5A",
+          "2A",
+          "5A",
+          "50A"
+        ],
+        "answer": 2,
+        "explanation": "電力の式  より、 となります。選択肢1は逆数の計算、選択肢3・4は単位を誤って計算したものです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-010",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 10,
+    "title": "静電気",
+    "intro": "第4類危険物では、静電気は単なる身近な現象ではなく、<strong>火災や爆発の点火源</strong>になり得る重要な危険要因である。ガソリンなどの多くは電気を逃がしにくいため、流動・ろ過・注入の場面で静電気がたまりやすい。<strong>発生させないこと、ためないこと、逃がすこと</strong>を一連の対策として覚えると整理しやすい。",
+    "body": "静電気の発生原理\n・物質の接触・分離・摩擦や液体の流動で、電子の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-010-m001\">移動</span></strong>により発生する。\n・第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-010-m002\">4</span></strong>類危険物の多くは<strong><span class=\"marker marker-red\" data-marker-id=\"chem-010-m003\">不導体</span></strong>であり電荷が拡散しにくく、静電気が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-010-m004\">蓄積しやすい</span></strong>。\n静電気が発生しやすい状況\n・危険物を流動・移送させるとき。\n・危険物をろ過するとき。\n・落差をつけてタンクに注入するとき。\n・化学繊維の衣服が摩擦するとき。\n・空気が乾燥しているとき。\n静電気災害の防止策\n・設備・容器・配管を<strong><span class=\"marker marker-red\" data-marker-id=\"chem-010-m005\">接地（アース）</span></strong>する。\n・室内の湿度を<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-010-m006\">高く</span></strong>保つ。\n・注入時の流速を<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-010-m007\">遅く</span></strong>する。\n・導電性の<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-010-m008\">高い</span></strong>材料（<strong><span class=\"marker marker-red\" data-marker-id=\"chem-010-m009\">帯電防止靴</span></strong>等）を使う。\n・木綿等、帯電しにくい衣服を選ぶ。\n・注入管の先端をタンク底部に<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-010-m010\">着け</span></strong>、落差を<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-010-m011\">小さく</span></strong>する。\n・頻出：湿度が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-010-m012\">高い</span></strong>ほど静電気は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-010-m013\">溜まりにくい</span></strong>。金属製タンクは<strong><span class=\"marker marker-red\" data-marker-id=\"chem-010-m014\">必ず接地</span></strong>する。\n静電気の蓄積と放電火花\n・蓄積した静電気は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-010-m015\">放電火花</span></strong>を生じる。\n・この火花が第4類危険物の蒸気の点火源になる。",
+    "questions": [
+      {
+        "id": "chem-010-q021",
+        "questionNo": 21,
+        "question": "静電気が発生しやすい状況として、誤っているものはどれか。",
+        "choices": [
+          "危険物を高速で流動・移送させるとき",
+          "危険物をろ過するとき",
+          "湿度が高く、雨が降っているとき",
+          "化学繊維の衣服を着用しているとき"
+        ],
+        "answer": 3,
+        "explanation": "<strong>湿度が高い</strong>環境では、静電気が漏えいしやすく<strong>蓄積しにくく</strong>なります。選択肢3はこの点で、静電気が発生しやすい状況として誤り（＝適切でないものとして正解）です。選択肢1・2・4は、いずれも静電気が発生しやすい状況として正しいものです。"
+      },
+      {
+        "id": "chem-010-q022",
+        "questionNo": 22,
+        "question": "タンクへの危険物の注入時における静電気対策として、正しいものはどれか。",
+        "choices": [
+          "注入管の先端を液面の高い位置に保持し、落差をつけて注入する。",
+          "注入管の先端をタンクの底部付近に保持し、流速を遅くする。",
+          "注入速度をできるだけ速くし、短時間で作業を終える。",
+          "静電気対策は、注入作業には特に必要ない。"
+        ],
+        "answer": 2,
+        "explanation": "静電気対策として、<strong>注入管の先端をタンクの底部付近に保持</strong>し、<strong>流速を遅く</strong>することが推奨されます。選択肢1は、落差をつけることが静電気の発生を助長するため誤りです。選択肢3は、速度を上げることが静電気対策に反するため誤りです。選択肢4は、対策が不要としており誤りです。"
+      },
+      {
+        "id": "chem-010-q023",
+        "questionNo": 23,
+        "question": "静電気の蓄積を抑えるための対策として、誤っているものはどれか。",
+        "choices": [
+          "設備を接地（アース）する。",
+          "導電性の高い帯電防止靴を使用する。",
+          "化学繊維の衣服を着用する。",
+          "室内の湿度を高く保つ。"
+        ],
+        "answer": 3,
+        "explanation": "<strong>化学繊維の衣服</strong>は静電気を帯びやすいため、静電気対策としては<strong>木綿等の帯電しにくい素材</strong>を選ぶことが推奨されます。選択肢3はこの点で誤りです（＝適切でないものとして正解）。選択肢1・2・4は、いずれも正しい静電気対策です。"
+      }
+    ]
+  },
+  {
+    "id": "chem-011",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 11,
+    "title": "電気分解",
+    "intro": "電気分解は、<strong>電流によって物質を分解する化学変化</strong>である。乙4で細かい計算まで深く問われることは多くないが、<strong>陽極では酸化、陰極では還元</strong>が起こるという関係は、酸化還元の理解にもつながる。電池とは反対向きに電気を使って反応を進めるイメージで捉えるとよい。",
+    "body": "電気分解の基礎\n・電解質溶液に直流電流を流し、分解反応を起こす現象。\n・陽極で<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-011-m001\">酸化反応</span></strong><strong>、</strong>陰極で<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-011-m002\">還元反応</span></strong>が起こる。\nファラデーの法則\n・生成・析出する物質の量は、流れた電気量に比例する。",
+    "questions": [
+      {
+        "id": "chem-011-q024",
+        "questionNo": 24,
+        "question": "電気分解における陽極での反応として、正しいものはどれか。",
+        "choices": [
+          "還元反応が起こる。",
+          "酸化反応が起こる。",
+          "何の反応も起こらない。",
+          "中和反応が起こる。"
+        ],
+        "answer": 2,
+        "explanation": "電気分解では、<strong>陽極</strong>で<strong>酸化反応</strong>、<strong>陰極</strong>で<strong>還元反応</strong>が起こります。選択肢1は電極が逆であり誤りです。選択肢3は反応が起こらないとしており誤りです。選択肢4は中和反応としており、電気分解の基本的な反応とは異なるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-012",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 12,
+    "title": "物質の三態",
+    "intro": "物質は、温度や圧力によって<strong>固体・液体・気体</strong>の状態を変える。この変化は身近な水の氷・水・水蒸気で考えると分かりやすい。乙4では、<strong>蒸発・沸騰・凝縮・昇華</strong>といった言葉の意味を押さえておくと、引火性液体の蒸気の話にもつながる。",
+    "body": "固体・液体・気体\n・固体→液体は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-012-m001\">融解</span></strong>。\n・液体→固体は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-012-m002\">凝固</span></strong>。\n・液体→気体は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-012-m003\">蒸発（気化）</span></strong>。\n・気体→液体は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-012-m004\">凝縮（液化）</span></strong>。\n・固体→気体、気体→固体は、どちらも<strong><span class=\"marker marker-red\" data-marker-id=\"chem-012-m005\">昇華</span></strong>。\n融点・沸点\n・融点は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-012-m006\">固体が液体</span></strong>になる温度（<strong><span class=\"marker marker-red\" data-marker-id=\"chem-012-m007\">凝固</span></strong>点と同じ）。\n・沸点は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-012-m008\">液体が気体</span></strong>になる温度。",
+    "questions": [
+      {
+        "id": "chem-012-q025",
+        "questionNo": 25,
+        "question": "気体から固体への状態変化の名称として、正しいものはどれか。",
+        "choices": [
+          "融解",
+          "蒸発",
+          "凝華（昇華の逆過程）",
+          "凝縮"
+        ],
+        "answer": 3,
+        "explanation": "気体から固体へ直接変化する現象は、一般に<strong>凝華</strong>（昇華の逆過程）と呼ばれます。固体から気体への変化を昇華と呼び、気体から液体への変化は凝縮（または凝結）です。選択肢1（融解）は固体から液体、選択肢2（蒸発）は液体から気体、選択肢4（凝縮）は気体から液体への変化であり、いずれも誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-013",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 13,
+    "title": "沸点と飽和蒸気圧",
+    "intro": "液体は、温度が上がるほど蒸発しやすくなり、容器内の蒸気の圧力も高くなる。このとき出てくるのが<strong>飽和蒸気圧</strong>であり、沸点はその圧力が外の圧力とつり合う温度である。高山で水が低い温度で沸騰する例を思い浮かべると、<strong>圧力と沸点の関係</strong>を理解しやすい。",
+    "body": "飽和蒸気圧\n・気液平衡の状態における蒸気の圧力を<strong><span class=\"marker marker-red\" data-marker-id=\"chem-013-m001\">飽和蒸気圧</span></strong>という。\n・液温が高いほど<strong><span class=\"marker marker-red\" data-marker-id=\"chem-013-m002\">飽和蒸気圧</span></strong>は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-013-m003\">大きい</span></strong>。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-013-m004\">飽和蒸気圧</span></strong>が大きい物質ほど蒸発<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-013-m005\">しやすい</span></strong>（引火点も<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-013-m006\">低い</span></strong>傾向）。\n沸点と圧力の関係\n・沸点は、<strong><span class=\"marker marker-red\" data-marker-id=\"chem-013-m007\">飽和蒸気圧</span></strong>が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-013-m008\">外気圧</span></strong>と等しくなる温度。\n・外圧が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-013-m009\">低い</span></strong>と沸点は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-013-m010\">低く</span></strong>なる（高山で水が早く沸く）。\n・外圧が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-013-m011\">高い</span></strong>と沸点は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-013-m012\">高く</span></strong>なる（圧力鍋）。",
+    "questions": [
+      {
+        "id": "chem-013-q026",
+        "questionNo": 26,
+        "question": "飽和蒸気圧に関する記述として、正しいものはどれか。",
+        "choices": [
+          "液温が高くなるほど、飽和蒸気圧は小さくなる。",
+          "液温が高くなるほど、飽和蒸気圧は大きくなる。",
+          "飽和蒸気圧は、液体の種類に関係なく一定である。",
+          "飽和蒸気圧は、揮発性の低い物質ほど大きくなる。"
+        ],
+        "answer": 2,
+        "explanation": "液温が<strong>高くなる</strong>ほど、飽和蒸気圧は<strong>大きく</strong>なります。選択肢1は関係が逆であり誤りです。選択肢3は、液体の種類によって飽和蒸気圧は異なるため誤りです。選択肢4は、飽和蒸気圧が大きい物質ほど揮発性が<strong>高い</strong>ため、関係が逆で誤りです。"
+      },
+      {
+        "id": "chem-013-q027",
+        "questionNo": 27,
+        "question": "高山で水の沸点が100℃より低くなる理由として、正しいものはどれか。",
+        "choices": [
+          "高山では気圧（外圧）が高くなるため。",
+          "高山では気圧（外圧）が低くなるため。",
+          "高山では水の比重が変化するため。",
+          "高山と平地で沸点に差は生じない。"
+        ],
+        "answer": 2,
+        "explanation": "高山では<strong>気圧（外圧）が低くなる</strong>ため、水の飽和蒸気圧が外圧と等しくなる温度（沸点）も低くなります。選択肢1は気圧の変化が逆であり誤りです。選択肢3は、比重の変化が沸点低下の直接の原因ではないため誤りです。選択肢4は、実際には差が生じるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-014",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 14,
+    "title": "比重と蒸気比重",
+    "intro": "第4類危険物を扱うときは、<strong>液体が水に浮くのか沈むのか、蒸気が空気より上に行くのか下にたまるのか</strong>が重要になる。そこで使うのが、液体では水を基準にした比重、蒸気では空気を基準にした蒸気比重である。多くの第4類は水に浮き、蒸気は低所にたまりやすいと押さえると、消火や換気の話にもつながる。",
+    "body": "比重（液比重）\n・比重は水（4℃）の質量を基準（1）にした比。\n・第4類危険物の多くは比重<strong><span class=\"marker marker-red\" data-marker-id=\"chem-014-m001\">1未満</span></strong>で水に<strong><span class=\"marker marker-red\" data-marker-id=\"chem-014-m002\">浮く</span></strong>。\n| 物質 | 比重の目安 |\n| --- | --- |\n| ガソリン | 約0.65〜0.75 |\n| 灯油 | 約0.80 |\n| 軽油 | 約0.85 |\n| 重油 | 約0.90〜1.00 |\n| 二硫化炭素 | <strong><span class=\"marker marker-red\" data-marker-id=\"chem-014-m003\">約1.26</span></strong> |\n| エタノール | 約0.79 |\n蒸気比重\n・蒸気比重は空気（約29）を基準（1）にした分子量の比。\n・第4類の蒸気はほぼすべて<strong><span class=\"marker marker-red\" data-marker-id=\"chem-014-m004\">1より大きい</span></strong>（空気より<strong><span class=\"marker marker-red\" data-marker-id=\"chem-014-m005\">重い</span></strong>）。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-014-m006\">低所</span></strong>に滞留しやすいため、低い場所の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-014-m007\">換気</span></strong>が重要になる。",
+    "questions": [
+      {
+        "id": "chem-014-q028",
+        "questionNo": 28,
+        "question": "第4類危険物のうち、比重が水より大きい（水に沈む）物品の組み合わせとして、正しいものはどれか。",
+        "choices": [
+          "ガソリン、灯油",
+          "二硫化炭素、酢酸",
+          "メタノール、エタノール",
+          "重油、軽油"
+        ],
+        "answer": 2,
+        "explanation": "<strong>二硫化炭素</strong>（約1.26）と<strong>酢酸</strong>（約1.05）は、いずれも比重が1以上で、第4類の中でも例外的に水より重い物品です。選択肢1（ガソリン・灯油）、選択肢3（メタノール・エタノール）、選択肢4（重油・軽油）は、いずれも比重が1未満で水に浮く物品の組み合わせであるため誤りです。"
+      },
+      {
+        "id": "chem-014-q029",
+        "questionNo": 29,
+        "question": "蒸気比重が1より大きいことが意味する内容として、正しいものはどれか。",
+        "choices": [
+          "その蒸気は空気より軽く、高所に滞留しやすい。",
+          "その蒸気は空気より重く、低所に滞留しやすい。",
+          "蒸気比重と滞留位置には関係がない。",
+          "その蒸気は必ず水に溶ける。"
+        ],
+        "answer": 2,
+        "explanation": "蒸気比重が1より大きいことは、その<strong>蒸気が空気より重く、低所に滞留しやすい</strong>ことを意味します。選択肢1は関係が逆であり誤りです。選択肢3は関係がないとしており誤りです。選択肢4は、蒸気比重と水溶性は別の指標であるため誤りです。"
+      },
+      {
+        "id": "chem-014-q030",
+        "questionNo": 30,
+        "question": "ある危険物の蒸気の分子量が58で、空気の平均分子量を29とした場合の蒸気比重として、正しいものはどれか。",
+        "choices": [
+          "0.5",
+          "1.0",
+          "2.0",
+          "29"
+        ],
+        "answer": 3,
+        "explanation": "蒸気比重は「物質の分子量 ÷ 空気の平均分子量」で求められるため、 となります。選択肢1は逆数の計算、選択肢2・4は計算を誤ったものです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-015",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 15,
+    "title": "ボイルの法則／シャルルの法則／ドルトンの法則",
+    "intro": "気体は目に見えにくいが、<strong>温度・圧力・体積</strong>の関係に従って膨張したり圧縮されたりする。危険物の蒸気も気体としてふるまうため、温度が上がると膨張し、圧力が変わるという感覚を持っておくことが大切である。細かい計算よりも、<strong>温度・圧力・体積</strong>が<strong>どの向きに変化するか</strong>を判断できるようにしておきたい。",
+    "body": "ボイルの法則\n・温度が一定なら、体積は圧力に<strong><span class=\"marker marker-red\" data-marker-id=\"chem-015-m001\">反比例</span></strong>する。P₁V₁＝P₂V₂。\nシャルルの法則\n・圧力が一定なら、体積は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-015-m002\">絶対温度</span></strong>に<strong><span class=\"marker marker-red\" data-marker-id=\"chem-015-m003\">比例</span></strong>する。V₁／T₁＝V₂／T₂。\nボイル・シャルルの法則\n・両法則を組み合わせた式。P₁V₁／T₁＝P₂V₂／T₂。\nドルトンの分圧の法則\n・混合気体の全圧は、各成分の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-015-m004\">分圧の和</span></strong>。P全＝P₁＋P₂＋…。\n・計算問題では<strong><span class=\"marker marker-red\" data-marker-id=\"chem-015-m005\">絶対温度</span></strong>（<strong><span class=\"marker marker-red\" data-marker-id=\"chem-015-m006\">K＝℃＋273</span></strong>）に注意する。",
+    "questions": [
+      {
+        "id": "chem-015-q031",
+        "questionNo": 31,
+        "question": "圧力が一定のとき、気体の体積と絶対温度の関係を表す法則として、正しいものはどれか。",
+        "choices": [
+          "ボイルの法則",
+          "シャルルの法則",
+          "ドルトンの法則",
+          "ファラデーの法則"
+        ],
+        "answer": 2,
+        "explanation": "圧力が一定のとき、気体の体積は絶対温度に<strong>比例</strong>するという法則は「<strong>シャルルの法則</strong>」です（）。選択肢1（ボイルの法則）は温度が一定のときの体積と圧力の関係であり誤りです。選択肢3（ドルトンの法則）は混合気体の分圧の法則であり誤りです。選択肢4（ファラデーの法則）は電気分解の法則であり誤りです。"
+      },
+      {
+        "id": "chem-015-q032",
+        "questionNo": 32,
+        "question": "混合気体の全圧と各成分気体の分圧の関係を表す法則として、正しいものはどれか。",
+        "choices": [
+          "ボイルの法則",
+          "シャルルの法則",
+          "ドルトンの分圧の法則",
+          "ボイル・シャルルの法則"
+        ],
+        "answer": 3,
+        "explanation": "混合気体の全圧は、各成分気体の分圧の<strong>和</strong>に等しいという法則は「<strong>ドルトンの分圧の法則</strong>」です。選択肢1・2・4は、いずれも圧力・体積・温度の関係を表す別の法則であり、分圧の関係を直接表すものではないため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-016",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 16,
+    "title": "熱量と比熱",
+    "intro": "同じように熱を加えても、物質によって温まりやすさは異なる。この違いを表すのが<strong>比熱</strong>であり、熱量の計算では質量・<strong>比熱</strong>・温度変化を組み合わせて考える。乙4では、<strong>水は比熱が大きく温度が上がりにくい</strong>から冷却に向いている、という消火のイメージと結びつけると理解しやすい。",
+    "body": "熱量の単位・比熱\n・熱量の単位は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-016-m001\">ジュール［J］</span></strong>。<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-016-m002\">1cal≒4.2J</span></strong>。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-016-m003\">比熱</span></strong>は物質<strong><span class=\"marker marker-red\" data-marker-id=\"chem-016-m004\">1gを1℃</span></strong>上げるのに必要な熱量［J/(g・K)］。\n熱量の計算式\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-016-m005\">Q＝mcΔT</span></strong>（Q：熱量、m：質量、c：比熱、ΔT：温度変化）。\n・例：水500gを20℃から80℃に上げる熱量は126,000J（126kJ）。\n・比熱が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-016-m006\">大きい</span></strong>ほど温度が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-016-m007\">上昇しにくい</span></strong>。水がその代表例。",
+    "questions": [
+      {
+        "id": "chem-016-q033",
+        "questionNo": 33,
+        "question": "比熱が大きい物質の性質に関する記述として、正しいものはどれか。",
+        "choices": [
+          "同じ熱量を加えた場合、温度が上昇しやすい。",
+          "同じ熱量を加えた場合、温度が上昇しにくい（温まりにくく、冷めにくい）。",
+          "比熱の大小は、温度変化のしやすさに影響しない。",
+          "比熱が大きい物質は、必ず比重も大きい。"
+        ],
+        "answer": 2,
+        "explanation": "比熱が<strong>大きい</strong>物質は、同じ熱量を加えても<strong>温度が上昇しにくく</strong>（温まりにくく、冷めにくい）なります。水はこの代表例であり、冷却消火に水が用いられる理由の一つです。選択肢1は関係が逆であり誤りです。選択肢3は影響しないとしており誤りです。選択肢4は、比熱と比重は別の物理量であり、必然的な関係はないため誤りです。 # 参考問題【網羅版】第2章　基礎的な物理・化学（2/2）"
+      }
+    ]
+  },
+  {
+    "id": "chem-017",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 17,
+    "title": "熱の移動",
+    "intro": "熱は、温度の高いところから低いところへ移動する。この移動の仕方には、<strong>伝導・対流・放射</strong>という三つの形がある。火災では、炎に触れていなくても熱が伝わって別の物が燃え始めることがあるため、<strong>熱がどのように移動するのか</strong>をイメージしておくことが重要になる。",
+    "body": "伝導\n・分子・原子の振動が伝わり、物質内部を熱が移動する現象。\n・固体（特に金属）は熱伝導率が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-017-m001\">大きく</span></strong>、熱がよく伝わる。\n・熱伝導率が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-017-m002\">大きい</span></strong>ほど燃えにくいのは、熱が拡散するため（3節）。\n対流\n・流体が温度差で流動し、熱を運ぶ現象。\n・温かい流体は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-017-m003\">上昇</span></strong>し、冷たい流体は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-017-m004\">下降</span></strong>する（自然対流）。\n放射（輻射）\n・熱が電磁波として空間を伝わる現象。物質を<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-017-m005\">介さない</span></strong>。\n・太陽熱が宇宙空間を通って届くのは放射による。\n・火災の延焼には対流と放射熱の両方が関係する。",
+    "questions": [
+      {
+        "id": "chem-017-q034",
+        "questionNo": 34,
+        "question": "熱の伝導に関する記述として、正しいものはどれか。",
+        "choices": [
+          "流体の移動によって熱が運ばれる現象である。",
+          "物質を構成する分子・原子の振動が次々と伝わることで熱が移動する現象である。",
+          "電磁波として熱が空間を伝わる現象である。",
+          "固体では熱伝導は起こらない。"
+        ],
+        "answer": 2,
+        "explanation": "伝導は、<strong>物質を構成する分子・原子の振動が次々と伝わる</strong>ことで熱が物質内部を移動する現象です。選択肢1は対流の説明であり誤りです。選択肢3は放射の説明であり誤りです。選択肢4は、固体（特に金属）は熱伝導率が大きく、よく熱が伝わるため誤りです。"
+      },
+      {
+        "id": "chem-017-q035",
+        "questionNo": 35,
+        "question": "火災の延焼における対流と放射の役割に関する記述として、正しいものはどれか。",
+        "choices": [
+          "対流は熱気流の上昇に関係し、放射は隣接建物への輻射熱による引火に関係する。",
+          "対流のみが火災の延焼に関係し、放射は無関係である。",
+          "放射のみが火災の延焼に関係し、対流は無関係である。",
+          "対流と放射は、いずれも火災の延焼には無関係である。"
+        ],
+        "answer": 1,
+        "explanation": "火災の延焼においては、<strong>対流による熱気流の上昇</strong>と、<strong>放射熱による隣接建物への引火（輻射熱による類焼）</strong>の両方が関係します。選択肢2・3は、いずれか一方のみが関係するとしており誤りです。選択肢4は、いずれも無関係としており誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-018",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 18,
+    "title": "熱膨張",
+    "intro": "物質は、温度が上がると一般に体積が大きくなる。これが<strong>熱膨張</strong>であり、危険物を入れた容器やタンクでは、液体や気体が膨張することで圧力上昇や漏えいの原因になることがある。温度変化は、単に熱い・冷たいだけでなく、<strong>体積や圧力の変化</strong>にもつながると考えておくとよい。",
+    "body": "熱膨張とは\n・温度上昇により体積が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-018-m001\">増加</span></strong>する性質。\n・<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-018-m002\">気体</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-018-m003\">液体</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-018-m004\">固体</span></strong>の順に熱膨張率が大きい。\n危険物施設における熱膨張への対策\n・タンクに危険物を<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-018-m005\">満タン</span></strong>に注入しない。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-018-m006\">通気管</span></strong>を設け、蒸気圧の変化に対応する。\n・移動貯蔵タンクにも安全装置・通気管がある。\n・夏季の温度上昇を考慮し、注入時は余裕を持たせる。",
+    "questions": [
+      {
+        "id": "chem-018-q036",
+        "questionNo": 36,
+        "question": "気体・液体・固体の熱膨張率の大小関係として、正しいものはどれか。",
+        "choices": [
+          "気体＞液体＞固体",
+          "固体＞液体＞気体",
+          "液体＞気体＞固体",
+          "三者の熱膨張率は常に等しい"
+        ],
+        "answer": 1,
+        "explanation": "一般に、熱膨張率は<strong>気体＞液体＞固体</strong>の順に大きくなります。選択肢2・3は順序が誤りです。選択肢4は、三者の熱膨張率が等しいとしており誤りです。"
+      },
+      {
+        "id": "chem-018-q037",
+        "questionNo": 37,
+        "question": "屋外タンク貯蔵所のタンクに通気管を設ける目的として、正しいものはどれか。",
+        "choices": [
+          "タンク内部の蒸気圧変化に対応するため。",
+          "タンクの外観を美しくするため。",
+          "危険物の色を識別するため。",
+          "タンクの強度を高めるため。"
+        ],
+        "answer": 1,
+        "explanation": "通気管は、温度変化に伴う<strong>タンク内部の蒸気圧変化</strong>（熱膨張による圧力上昇等）に対応するために設けられます。選択肢2・3・4は、いずれも通気管の本来の目的とは異なるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-019",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 19,
+    "title": "物理変化と化学変化",
+    "intro": "物質の変化には、形や状態が変わるだけのものと、別の物質に変わるものがある。氷が水になるのは<strong>物理変化</strong>であり、燃焼やさびは<strong>化学変化</strong>である。この区別は、燃焼を「物がなくなる現象」ではなく「<strong>別の物質に変わる反応</strong>」と理解するための土台になる。",
+    "body": "物理変化\n・分子構造は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-019-m001\">変化せず</span></strong>、状態や形だけが変わる変化。\n・例：<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-019-m002\">融解</span></strong>、<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-019-m003\">気化</span></strong>、<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-019-m004\">粉砕</span></strong>、<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-019-m005\">溶解</span></strong>。\n化学変化\n・分子構造が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-019-m006\">変化し</span></strong>、新しい物質ができる変化。\n・例：<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-019-m007\">燃焼</span></strong>、<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-019-m008\">酸化</span></strong>、<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-019-m009\">中和反応</span></strong>、<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-019-m010\">電気分解</span></strong>。\n区別のポイント\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-019-m011\">物理変化</span></strong>は分子構造が不変で新しい物質も生成しない。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-019-m012\">化学変化</span></strong>は分子構造が変化し新しい物質が生成する。\n・燃焼は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-019-m013\">化学変化</span></strong>（二酸化炭素や水が生成するため）。\n・ドライアイスの昇華は状態変化のみで<strong><span class=\"marker marker-red\" data-marker-id=\"chem-019-m014\">物理変化</span></strong>。",
+    "questions": [
+      {
+        "id": "chem-019-q038",
+        "questionNo": 38,
+        "question": "次のうち、物理変化に分類されるものとして、正しいものはどれか。",
+        "choices": [
+          "鉄が錆びる。",
+          "紙が燃える。",
+          "ドライアイスが昇華して気体の二酸化炭素になる。",
+          "中和反応が起こる。"
+        ],
+        "answer": 3,
+        "explanation": "ドライアイスが昇華する現象は、<strong>分子構造は変化せず状態のみが変化する物理変化</strong>です。選択肢1（鉄が錆びる）、選択肢2（紙が燃える）、選択肢4（中和反応）は、いずれも新しい物質が生成される<strong>化学変化</strong>であるため誤りです。"
+      },
+      {
+        "id": "chem-019-q039",
+        "questionNo": 39,
+        "question": "物理変化と化学変化を区別する基準として、正しいものはどれか。",
+        "choices": [
+          "物質の色が変化するかどうかで判断する。",
+          "物質の分子構造が変化し、新しい物質が生成するかどうかで判断する。",
+          "物質の温度が変化するかどうかで判断する。",
+          "物質の質量が変化するかどうかで判断する。"
+        ],
+        "answer": 2,
+        "explanation": "物理変化と化学変化は、<strong>物質の分子構造が変化し、新しい物質が生成するかどうか</strong>によって区別されます（化学変化では生成する、物理変化では生成しない）。選択肢1・3・4は、いずれも区別の直接的な基準としては不正確です（色や温度の変化は物理変化でも起こり得ます）。"
+      }
+    ]
+  },
+  {
+    "id": "chem-020",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 20,
+    "title": "単体・化合物・混合物",
+    "intro": "物質を分類するときは、一つの元素だけでできているのか、複数の元素が結びついているのか、いくつかの物質が混ざっているだけなのかを分けて考える。<strong>単体・化合物・混合物</strong>の区別ができると、ガソリンのような<strong>混合物</strong>と、水のような<strong>化合物</strong>を取り違えにくくなる。",
+    "body": "単体\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m001\">１</span></strong>種類の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m002\">元素のみ</span></strong>からできた物質。\n・例：酸素（O₂）、水素（H₂）、鉄（Fe）、硫黄（S）、炭素（C）。\n化合物\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m003\">２</span></strong>種類以上の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m004\">元素が結合</span></strong>した物質。組成比は一定。\n・例：水（H₂O）、二酸化炭素（CO₂）、エタノール（C₂H₅OH）、塩化ナトリウム（NaCl）。\n・メタノール・エタノール・ベンゼン・トルエン・アセトン・二硫化炭素は単一の化合物。\n混合物\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m005\">２</span></strong>種類以上の物質が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m006\">化学結合</span></strong><strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m007\">せず</span></strong>混じり合ったもの。組成比は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-020-m008\">一定でない</span></strong>。\n・例：空気、ガソリン、軽油・灯油・重油、原油、海水。\n・ガソリン・灯油・軽油・重油は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m009\">混合物</span></strong>。沸点や引火点に幅がある。\n純物質と混合物\n・単体と化合物を合わせて<strong><span class=\"marker marker-red\" data-marker-id=\"chem-020-m010\">純物質</span></strong>と呼ぶ。固有の融点・沸点を持つ。\n・混合物は融点・沸点が一定の値にならず、<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-020-m011\">範囲</span></strong>を持つ。",
+    "questions": [
+      {
+        "id": "chem-020-q040",
+        "questionNo": 40,
+        "question": "次のうち、化合物に分類されるものとして、正しいものはどれか。",
+        "choices": [
+          "空気",
+          "ガソリン",
+          "水（H₂O）",
+          "海水"
+        ],
+        "answer": 3,
+        "explanation": "<strong>水（H₂O）</strong>は、2種類の元素（水素と酸素）が化学的に結合してできた<strong>化合物</strong>です。選択肢1（空気）、選択肢2（ガソリン）、選択肢4（海水）は、いずれも複数の物質が化学的に結合せず混じり合った<strong>混合物</strong>であるため誤りです。"
+      },
+      {
+        "id": "chem-020-q041",
+        "questionNo": 41,
+        "question": "単体に分類されるものとして、正しいものはどれか。",
+        "choices": [
+          "二酸化炭素",
+          "硫黄",
+          "塩化ナトリウム",
+          "エタノール"
+        ],
+        "answer": 2,
+        "explanation": "<strong>硫黄（S）</strong>は、1種類の元素のみからできている<strong>単体</strong>です。選択肢1（二酸化炭素）、選択肢3（塩化ナトリウム）、選択肢4（エタノール）は、いずれも2種類以上の元素が結合した<strong>化合物</strong>であるため誤りです。"
+      },
+      {
+        "id": "chem-020-q042",
+        "questionNo": 42,
+        "question": "ガソリンが単一の沸点を持たず、沸騰範囲を持つ理由として、正しいものはどれか。",
+        "choices": [
+          "ガソリンが化合物であるため。",
+          "ガソリンが多種類の炭化水素からなる混合物であるため。",
+          "ガソリンが単体であるため。",
+          "ガソリンには沸点という概念が存在しないため。"
+        ],
+        "answer": 2,
+        "explanation": "ガソリンは<strong>多種類の炭化水素からなる混合物</strong>であり、各成分がそれぞれ異なる温度で蒸発するため、単一の沸点ではなく<strong>沸騰範囲（ある程度の幅）</strong>を持ちます。選択肢1・3は、ガソリンの分類（混合物）を誤って説明しています。選択肢4は、沸点（範囲）の概念が存在しないとしており誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-021",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 21,
+    "title": "化学の基礎",
+    "intro": "<strong>化学式</strong>や原子量・分子量は、細かく見えるが物質の性質を表す基本の言葉である。乙4では高度な計算よりも、物質が何からできているか、<strong>反応式が何を表しているか</strong>を読む力が大切になる。<strong>化学式</strong>は暗号ではなく、物質の中身を短く表した記号だと考えると入りやすい。",
+    "body": "原子・分子・イオン\n・原子は物質を構成する最小の粒子。\n・分子は原子が結合した、性質を示す最小単位。\n・イオンは電子を失う（陽イオン）か得る（陰イオン）粒子。\n原子量・分子量・モル\n・原子量は原子の相対質量（炭素12が基準）。\n・分子量は分子を構成する原子量の合計。\n・モルは物質量の単位。1molはアボガドロ数（約6.0×10²³個）。\n化学式と化学反応式\n・反応式は両辺で原子数が変わらないよう<strong><span class=\"marker marker-red\" data-marker-id=\"chem-021-m001\">係数</span></strong>を調整する（質量保存の法則）。\n・例（メタンの完全燃焼）：CH₄＋2O₂→CO₂＋2H₂O。",
+    "questions": [
+      {
+        "id": "chem-021-q043",
+        "questionNo": 43,
+        "question": "原子・分子・イオンに関する記述として、正しいものはどれか。",
+        "choices": [
+          "原子が電子を失うと陰イオンになる。",
+          "原子が電子を得ると陽イオンになる。",
+          "原子が電子を失うと陽イオンになる。",
+          "原子はイオンになることができない。"
+        ],
+        "answer": 3,
+        "explanation": "原子が<strong>電子を失う</strong>と、正の電荷を帯びた<strong>陽イオン</strong>になります。選択肢1・2は、電子の増減とイオンの種類の関係が逆になっており誤りです。選択肢4は、原子がイオンになり得ることを否定しており誤りです。"
+      },
+      {
+        "id": "chem-021-q044",
+        "questionNo": 44,
+        "question": "化学反応式における質量保存の法則に関する記述として、正しいものはどれか。",
+        "choices": [
+          "反応前と反応後で、各原子の数は変化しない。",
+          "反応前と反応後で、各原子の数は必ず増加する。",
+          "反応前と反応後で、物質の質量は変化してもよい。",
+          "質量保存の法則は気体反応にのみ適用される。"
+        ],
+        "answer": 1,
+        "explanation": "化学反応式は、<strong>反応前（左辺）と反応後（右辺）で各原子の数が変わらない</strong>ように係数を調整して表されます（質量保存の法則）。選択肢2は原子数が増加するとしており誤りです。選択肢3は質量が変化してもよいとしており誤りです。選択肢4は、質量保存の法則は気体反応に限らずすべての化学反応に適用されるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-022",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 22,
+    "title": "反応速度と化学平衡",
+    "intro": "化学反応は、条件によって速く進んだり遅く進んだりする。<strong>温度が高い、濃度が高い、表面積が大きい</strong>といった条件は、燃焼のしやすさとも関係する。また、正反応と逆反応がつり合う化学平衡は、<strong>反応が完全に止まるという意味ではない</strong>点に注意したい。",
+    "body": "反応速度に影響する要因\n・温度が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-022-m001\">高い</span></strong>ほど速くなる（10℃上昇で2〜3倍とされる）。\n・濃度が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-022-m002\">高い</span></strong>ほど速くなる。\n・触媒は速度を変化させる（自身は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-022-m003\">変化しない</span></strong>）。\n・圧力が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-022-m004\">高い</span></strong>ほど速くなる傾向。\n・表面積が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-022-m005\">大きい</span></strong>ほど速くなる。\n化学平衡\n・正反応と逆反応の速度が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-022-m006\">等しく</span></strong>、見かけ上止まった状態を化学平衡という。",
+    "questions": [
+      {
+        "id": "chem-022-q045",
+        "questionNo": 45,
+        "question": "化学平衡の状態に関する記述として、正しいものはどれか。",
+        "choices": [
+          "正反応のみが進行し、逆反応は完全に停止している状態である。",
+          "正反応の速度と逆反応の速度が等しくなり、見かけ上反応が止まったように見える状態である。",
+          "すべての反応物が完全に消費された状態である。",
+          "化学平衡は、不可逆反応にのみ生じる現象である。"
+        ],
+        "answer": 2,
+        "explanation": "化学平衡は、可逆反応において<strong>正反応の速度と逆反応の速度が等しくなり</strong>、見かけ上反応が止まったように見える状態です。選択肢1は、逆反応が停止しているとしており誤りです（実際には両方の反応が継続している）。選択肢3は、反応物が完全に消費されるとしており誤りです。選択肢4は、化学平衡は<strong>可逆反応</strong>で生じる現象であり、不可逆反応では生じないため誤りです。"
+      },
+      {
+        "id": "chem-022-q046",
+        "questionNo": 46,
+        "question": "反応速度を速くする要因の一つである「触媒」に関する記述として、正しいものはどれか。",
+        "choices": [
+          "触媒は、反応の前後で自身も変化する。",
+          "触媒は、反応の前後で自身は変化しない。",
+          "触媒を加えると、反応速度は必ず遅くなる。",
+          "触媒は、温度の影響を完全に無効化する。"
+        ],
+        "answer": 2,
+        "explanation": "触媒は、反応速度を変化させる物質ですが、<strong>自身は反応の前後で変化しません</strong>。選択肢1は、自身も変化するとしており誤りです。選択肢3は、触媒は一般に反応速度を<strong>速くする</strong>ために用いられるため誤りです。選択肢4は、触媒が温度の影響を無効化するという記述が誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-023",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 23,
+    "title": "酸と塩基（アルカリ）",
+    "intro": "酸と塩基は、危険物そのものだけでなく、薬品の性質を理解するための基本である。<strong>酸は水素イオン、塩基は水酸化物イオン</strong>と関係し、互いに反応すると<strong>中和</strong>が起こる。乙4では、酸性・アルカリ性という言葉を、物質の危険性や反応性を判断する手がかりとして押さえておく。",
+    "body": "酸と塩基の定義\n・酸は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m001\">水素イオン（H⁺）</span></strong>を放出する物質。<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m002\">青色</span></strong>リトマス紙を<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m003\">赤</span></strong>に変える。\n・塩基は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m004\">水酸化物イオン（OH⁻）</span></strong>を放出する物質。<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m005\">赤色</span></strong>リトマス紙を<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m006\">青</span></strong>に変える。\npH（水素イオン指数）\n・pH7未満は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m007\">酸性</span></strong>。値が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-023-m008\">小さい</span></strong>ほど強い。\n・pH7は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m009\">中性</span></strong>。\n・pH7超は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m010\">アルカリ性</span></strong>。値が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-023-m011\">大きい</span></strong>ほど強い。\n中和反応\n・酸と塩基が反応し、<strong><span class=\"marker marker-red\" data-marker-id=\"chem-023-m012\">塩と水</span></strong>を生成する反応。\n・例：HCl＋NaOH→NaCl＋H₂O。",
+    "questions": [
+      {
+        "id": "chem-023-q047",
+        "questionNo": 47,
+        "question": "中和反応に関する記述として、正しいものはどれか。",
+        "choices": [
+          "酸と塩基が反応して、塩と水を生成する反応である。",
+          "酸と酸化剤が反応して、新たな酸を生成する反応である。",
+          "中和反応では、必ず気体が発生する。",
+          "中和反応は、化学変化ではなく物理変化に分類される。"
+        ],
+        "answer": 1,
+        "explanation": "中和反応は、酸と塩基が反応して<strong>塩（えん）と水</strong>を生成する反応です。選択肢2は、酸と酸化剤の反応という説明が誤りです。選択肢3は、中和反応で必ず気体が発生するわけではないため誤りです。選択肢4は、中和反応は新しい物質が生成される<strong>化学変化</strong>であるため誤りです。"
+      },
+      {
+        "id": "chem-023-q048",
+        "questionNo": 48,
+        "question": "pHが7の水溶液の性質として、正しいものはどれか。",
+        "choices": [
+          "強い酸性を示す。",
+          "中性を示す。",
+          "強いアルカリ性（塩基性）を示す。",
+          "pHの値だけでは、酸性・アルカリ性を判断できない。"
+        ],
+        "answer": 2,
+        "explanation": "pHが<strong>7</strong>の水溶液は<strong>中性</strong>を示します。選択肢1（酸性）はpHが7より小さい場合、選択肢3（アルカリ性）はpHが7より大きい場合であり、いずれも誤りです。選択肢4は、pHの値によって酸性・アルカリ性・中性を判断できるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-024",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 24,
+    "title": "酸化と還元",
+    "intro": "燃焼を化学反応として見ると、中心にあるのは<strong>酸化</strong>である。<strong>酸化</strong>は酸素と結びつく反応として覚えるのが入り口だが、電子を失う反応としても説明される。還元はその逆の反応であり、<strong>酸化と還元は必ず相手を伴って起こる</strong>ものとして理解すると整理しやすい。",
+    "body": "酸化と還元の定義\n・酸素：酸化は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-024-m001\">結合する</span></strong>、還元は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-024-m002\">失う</span></strong>。\n・水素：酸化は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-024-m003\">失う</span></strong>、還元は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-024-m004\">結合する</span></strong>。\n・電子：酸化は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-024-m005\">失う</span></strong>、還元は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-024-m006\">受け取る</span></strong>。\n酸化剤と還元剤\n・酸化剤は他を酸化させ<strong><span class=\"marker marker-red\" data-marker-id=\"chem-024-m007\">自身は還元</span></strong>される物質。\n・還元剤は他を還元させ<strong><span class=\"marker marker-red\" data-marker-id=\"chem-024-m008\">自身は酸化</span></strong>される物質。\n・酸化反応と還元反応は必ず同時に起こる。\n燃焼における酸化還元\n・燃焼は可燃物が<strong><span class=\"marker marker-red\" data-marker-id=\"chem-024-m009\">酸化</span></strong>され酸素が還元される反応。\n・第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-024-m010\">1</span></strong>類・第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-024-m011\">6</span></strong>類は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-024-m012\">強力な酸化剤</span></strong>。第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-024-m013\">4</span></strong>類と混合すると<strong><span class=\"marker marker-red\" data-marker-id=\"chem-024-m014\">発火・爆発</span></strong>の危険。",
+    "questions": [
+      {
+        "id": "chem-024-q049",
+        "questionNo": 49,
+        "question": "還元反応の説明として、正しいものはどれか。",
+        "choices": [
+          "物質が酸素と結合する反応である。",
+          "物質が水素を失う反応である。",
+          "物質が酸素を失う反応である。",
+          "物質が電子を失う反応である。"
+        ],
+        "answer": 3,
+        "explanation": "還元とは、物質が<strong>酸素を失う</strong>、<strong>水素と結合する</strong>、または<strong>電子を受け取る</strong>反応です。選択肢3はこのうち酸素の観点から正しく説明しています。選択肢1・2・4は、いずれも酸化の説明（酸素と結合、水素を失う、電子を失う）であり誤りです。"
+      },
+      {
+        "id": "chem-024-q050",
+        "questionNo": 50,
+        "question": "燃焼が酸化還元反応の一種であるとされる理由として、正しいものはどれか。",
+        "choices": [
+          "燃焼では、可燃物が還元され、酸素（酸化剤）が酸化されるため。",
+          "燃焼では、可燃物が酸化され、酸素（酸化剤）が還元されるため。",
+          "燃焼は酸化還元反応とは無関係な、独立した現象であるため。",
+          "燃焼では、酸化反応のみが起こり、還元反応は起こらないため。"
+        ],
+        "answer": 2,
+        "explanation": "燃焼は、<strong>可燃物が酸化され、酸素（または酸化剤）が還元される</strong>酸化還元反応の一種です。選択肢1は酸化・還元の対象が逆であり誤りです。選択肢3は無関係としており誤りです。選択肢4は、酸化反応と還元反応は必ず同時に起こるため、還元反応が起こらないとする記述は誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-025",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 25,
+    "title": "混合危険",
+    "intro": "危険物は、単独では安定していても、別の物質と混ざることで急に危険になることがある。これが<strong>混合危険</strong>であり、酸化性物質と可燃物、酸と塩基、水と禁水性物質などの組合せが代表例である。試験では「<strong>何と何を混ぜると危ないか</strong>」を、性質の組合せとして判断することが大切になる。",
+    "body": "混合危険とは\n・特定の組み合わせで混合すると、<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m001\">発熱</span></strong><strong>・</strong><strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m002\">発火</span></strong><strong>・</strong><strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m003\">爆発</span></strong>を起こすこと。\n混合危険が生じる主な組み合わせ\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m004\">酸化剤</span></strong>（第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m005\">1</span></strong>類・第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m006\">6</span></strong>類等）と<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m007\">還元剤</span></strong>（第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m008\">4</span></strong>類等）：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m009\">発火・爆発</span></strong>のおそれ。\n・酸と塩基：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m010\">中和熱</span></strong>が発生する。\n・禁水性物質（第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m011\">3</span></strong>類）と<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m012\">水</span></strong>：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m013\">可燃性ガス</span></strong>の発生、発火。\n第4類危険物の運搬基準における混載禁止\n・類を異にする危険物の混載禁止は、<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m014\">混合危険</span></strong>を防ぐための規定（第1章）。\n・第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m015\">4</span></strong>類は第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m016\">1</span></strong>類・第<strong><span class=\"marker marker-red\" data-marker-id=\"chem-025-m017\">6</span></strong>類との混載が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-025-m018\">原則禁止</span></strong>。",
+    "questions": [
+      {
+        "id": "chem-025-q051",
+        "questionNo": 51,
+        "question": "禁水性物質と水の接触によって生じる危険として、正しいものはどれか。",
+        "choices": [
+          "中和反応により、無害な塩が生成される。",
+          "可燃性ガスの発生や発火が起こるおそれがある。",
+          "何の反応も起こらず、安全に処理できる。",
+          "禁水性物質は、水と接触しても性質が変化しない。"
+        ],
+        "answer": 2,
+        "explanation": "禁水性物質（第3類の一部）が水と接触すると、<strong>可燃性ガスの発生や発火</strong>が起こるおそれがあります。選択肢1は中和反応としており、禁水性物質の反応とは異なるため誤りです。選択肢3は反応が起こらないとしており誤りです。選択肢4は、性質が変化しないとしており誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-026",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 26,
+    "title": "元素の分類",
+    "intro": "元素は、<strong>金属・非金属・希ガス</strong>などに分類して考えると性質をつかみやすい。すべてを詳しく覚える必要はないが、金属は電気を通しやすい、非金属には燃焼や酸化に関係するものが多い、といった<strong>大まかな特徴</strong>を押さえておくと、後の化学分野が理解しやすくなる。",
+    "body": "金属元素と非金属元素\n・金属元素は金属光沢を持ち、電気・熱を良く伝える。鉄、銅等。\n・非金属元素はこの性質を持たない。酸素、窒素等。\n周期表の基礎\n・元素は原子番号順に並べた周期表で整理される。\n・同じ族の元素は似た性質を持つ傾向がある。",
+    "questions": [
+      {
+        "id": "chem-026-q052",
+        "questionNo": 52,
+        "question": "非金属元素の例として、正しいものはどれか。",
+        "choices": [
+          "鉄",
+          "銅",
+          "酸素",
+          "ナトリウム"
+        ],
+        "answer": 3,
+        "explanation": "<strong>酸素</strong>は非金属元素です。選択肢1（鉄）、選択肢2（銅）、選択肢4（ナトリウム）は、いずれも金属元素（金属光沢を持ち、電気・熱を良く伝え、展性・延性を持つ）であるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-027",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 27,
+    "title": "イオン化傾向",
+    "intro": "金属には、イオンになりやすいものとなりにくいものがある。この並びを<strong>イオン化傾向</strong>という。<strong>イオン化傾向</strong>が大きい金属ほど反応しやすく、腐食や水との反応にも関係するため、単なる暗記表としてではなく「<strong>金属の反応しやすさの順番</strong>」として捉えるとよい。",
+    "body": "イオン化傾向とは\n・金属が水溶液中で<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m001\">陽イオン</span></strong>になろうとする性質の強さの順列。\n・順列：<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m002\">K</span></strong><strong>＞</strong><strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m003\">Ca</span></strong><strong>＞</strong><strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m004\">Na</span></strong><strong>＞</strong><strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m005\">Mg</span></strong>＞<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m006\">Al</span></strong>＞<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m007\">Zn</span></strong>＞<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m008\">Fe</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m009\">Ni</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m010\">Sn</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m011\">Pb</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m012\">(H₂)</span></strong>＞<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m013\">Cu</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m014\">Hg</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m015\">Ag</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m016\">Pt</span></strong>＞<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m017\">Au</span></strong>。\n・語呂合わせ：貸そうかな、まああてにすんな、ひどすぎる借金。\n| 元素 | 語呂 |\n| --- | --- |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m018\">K</span></strong> | 貸 |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m019\">Ca</span></strong> | か |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m020\">Na</span></strong> | な |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m021\">Mg</span></strong> | ま |\n| <strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m022\">Al</span></strong> | あ:<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m023\">アルミニウム</span></strong> |\n| <strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m024\">Zn</span></strong> | あ：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m025\">亜鉛</span></strong> |\n| <strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m026\">Fe</span></strong> | て：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m027\">鉄</span></strong> |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m028\">Ni</span></strong> | に |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m029\">Sn</span></strong> | すん：スズ |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m030\">Pb</span></strong> | な：鉛 |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m031\">H₂</span></strong> | ひ：水素 |\n| <strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m032\">Cu</span></strong> | ど：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m033\">銅</span></strong> |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m034\">Hg</span></strong> | すい：水銀 |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m035\">Ag</span></strong> | ぎん：銀 |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m036\">Pt</span></strong> | 白金 |\n| <strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m037\">Au</span></strong> | 金 |\nイオン化傾向と金属の反応性\n・傾向が大きい（左側）金属ほど<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-027-m038\">酸化されやすく</span></strong><strong><span class=\"marker marker-red\" data-marker-id=\"chem-027-m039\">腐食しやすい</span></strong>。",
+    "questions": [
+      {
+        "id": "chem-027-q053",
+        "questionNo": 53,
+        "question": "イオン化傾向の順列（イオン化列）において、最もイオン化傾向が大きい（陽イオンになりやすい）金属として、正しいものはどれか。",
+        "choices": [
+          "金（Au）",
+          "銀（Ag）",
+          "カリウム（K）",
+          "銅（Cu）"
+        ],
+        "answer": 3,
+        "explanation": "イオン化傾向の順列では、<strong>カリウム（K）</strong>が最もイオン化傾向が大きい（陽イオンになりやすい）金属です。選択肢1（金）、選択肢2（銀）、選択肢4（銅）は、いずれもイオン化列の中で比較的イオン化傾向が小さい（陽イオンになりにくい）金属であるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-028",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 28,
+    "title": "金属の腐食",
+    "intro": "金属の<strong>腐食</strong>は、金属が周囲の酸素や水分などと反応して、表面から変化していく現象である。鉄がさびる例が代表的だが、これは<strong>ゆっくり進む酸化反応</strong>と考えることができる。燃焼のように炎を出すわけではないが、酸化という点では同じ仲間である。",
+    "body": "腐食とは\n・金属が酸素・水分・酸等と反応し劣化する現象。\n腐食が進みやすい条件\n・異種金属の接触（イオン化傾向の<strong><span class=\"marker marker-red\" data-marker-id=\"chem-028-m001\">大きい方</span></strong>が早く腐食する）。\n・湿度が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-028-m002\">高い</span></strong>、または水分がある環境。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-028-m003\">酸性</span></strong>の環境。\n・温度が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-028-m004\">高い</span></strong>環境。\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-028-m005\">塩分</span></strong>を含む環境（海水等）。\n第4類危険物施設における腐食対策\n・地下タンク・配管に<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-028-m006\">防食塗装</span></strong>や<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-028-m007\">電気防食</span></strong>を施す。\n・移動タンク貯蔵所の外部にも<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-028-m008\">防食塗装</span></strong>を行う。\n・酢酸等を扱う設備には耐酸性の材質を使う。",
+    "questions": [
+      {
+        "id": "chem-028-q054",
+        "questionNo": 54,
+        "question": "異種金属の接触によって生じる腐食（ガルバニ腐食）に関する記述として、正しいものはどれか。",
+        "choices": [
+          "異種金属を接触させても、腐食には影響しない。",
+          "電解質（水分等）を介して異種金属が接触すると、イオン化傾向の大きい金属が早く腐食する。",
+          "電解質を介して異種金属が接触すると、イオン化傾向の小さい金属が早く腐食する。",
+          "ガルバニ腐食は、同種金属同士の接触でのみ発生する。"
+        ],
+        "answer": 2,
+        "explanation": "イオン化傾向の異なる金属が電解質（水分等）を介して接触すると、電池反応（ガルバニ腐食）が起こり、<strong>イオン化傾向の大きい金属が早く腐食</strong>します。選択肢1は影響しないとしており誤りです。選択肢3は腐食する金属が逆であり誤りです。選択肢4は、ガルバニ腐食は<strong>異種</strong>金属の接触で発生する現象であるため誤りです。"
+      },
+      {
+        "id": "chem-028-q055",
+        "questionNo": 55,
+        "question": "地下タンク・配管の腐食対策として、正しいものはどれか。",
+        "choices": [
+          "防食塗装や電気防食を施す。",
+          "腐食対策は不要であり、自然に放置してよい。",
+          "異種金属を積極的に組み合わせて使用する。",
+          "海水を用いて配管を洗浄する。"
+        ],
+        "answer": 1,
+        "explanation": "地下タンク・配管等の鋼製設備には、<strong>防食塗装</strong>や<strong>電気防食</strong>等の対策を施すことが推奨されます。選択肢2は対策が不要としており誤りです。選択肢3は、異種金属の組み合わせがガルバニ腐食を招くため、積極的に行うべきではなく誤りです。選択肢4は、海水（塩分を含む電解質）は腐食を促進するため、洗浄に用いることは不適切であり誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-029",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 29,
+    "title": "有機化合物",
+    "intro": "第4類危険物の多くは、<strong>炭素を含む有機化合物</strong>である。ガソリン・灯油・アルコール類などは名前が違っても、燃えると<strong>二酸化炭素や水</strong>を生じるという共通点がある。有機化合物は、乙4の物理化学と性質・消火をつなぐ分野として押さえておきたい。",
+    "body": "有機化合物とは\n・基本的に<strong><span class=\"marker marker-red\" data-marker-id=\"chem-029-m001\">炭素（C）</span></strong>を含む化合物の総称。\n・一酸化炭素・二酸化炭素等の単純な炭素化合物は<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-029-m002\">例外</span></strong>（無機化合物）。\n炭化水素の分類\n・飽和炭化水素（アルカン）：単結合のみ。メタン、プロパン。\n・不飽和炭化水素：二重・三重結合を含む。エチレン、アセチレン。\n・芳香族炭化水素：ベンゼン環を持つ。ベンゼン、トルエン。\n・脂肪族炭化水素：ベンゼン環を持たない。メタン、ヘキサン等。\n官能基による分類\n・−OH（ヒドロキシ基）：アルコール。メタノール、エタノール。\n・−CHO（アルデヒド基）：アルデヒド。アセトアルデヒド。\n・−COOH（カルボキシ基）：カルボン酸。酢酸、ギ酸。\n・＞C＝O（カルボニル基）：ケトン。アセトン。\n・−O−（エーテル結合）：エーテル。ジエチルエーテル。\n・−COO−（エステル結合）：エステル。酢酸エチル。",
+    "questions": [
+      {
+        "id": "chem-029-q056",
+        "questionNo": 56,
+        "question": "次のうち、有機化合物の例外として無機化合物に分類されるものはどれか。",
+        "choices": [
+          "メタノール",
+          "二酸化炭素",
+          "ベンゼン",
+          "酢酸"
+        ],
+        "answer": 2,
+        "explanation": "<strong>二酸化炭素</strong>は炭素を含む化合物ですが、構造が単純であるため、例外的に<strong>無機化合物</strong>に分類されます。選択肢1（メタノール）、選択肢3（ベンゼン）、選択肢4（酢酸）は、いずれも典型的な<strong>有機化合物</strong>であるため誤りです。"
+      },
+      {
+        "id": "chem-029-q057",
+        "questionNo": 57,
+        "question": "芳香族炭化水素に分類される物質として、正しいものはどれか。",
+        "choices": [
+          "メタン",
+          "プロパン",
+          "ベンゼン",
+          "エチレン"
+        ],
+        "answer": 3,
+        "explanation": "<strong>ベンゼン</strong>は、ベンゼン環を持つ<strong>芳香族炭化水素</strong>です。選択肢1（メタン）、選択肢2（プロパン）は飽和炭化水素（アルカン）、選択肢4（エチレン）は不飽和炭化水素（アルケン）であり、いずれも芳香族炭化水素ではないため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-030",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 30,
+    "title": "高分子材料",
+    "intro": "高分子材料は、<strong>小さな分子が多数つながってできた大きな分子</strong>をもつ材料である。プラスチックやゴムなどが代表例で、燃えると<strong>有毒ガスや黒煙</strong>を発生するものもある。乙4の中心ではないが、固体の燃焼や有機化合物の理解と関係する補助的な知識として見ておくとよい。",
+    "body": "高分子化合物とは\n・多数の<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-030-m001\">単量体（モノマー）</span></strong>が<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-030-m002\">重合反応</span></strong>で連結した巨大な分子。\n天然高分子と合成高分子\n・天然高分子：セルロース、デンプン、タンパク質、天然ゴム等。\n・合成高分子：プラスチック、合成繊維、合成ゴム等。\n危険物施設における高分子材料\n・容器・タンクの内張りやパッキンに、耐薬品性の合成高分子（フッ素樹脂等）を使う。",
+    "questions": [
+      {
+        "id": "chem-030-q058",
+        "questionNo": 58,
+        "question": "天然高分子に分類されるものとして、正しいものはどれか。",
+        "choices": [
+          "プラスチック",
+          "合成ゴム",
+          "セルロース",
+          "合成繊維"
+        ],
+        "answer": 3,
+        "explanation": "<strong>セルロース</strong>は、天然に存在する<strong>天然高分子</strong>の代表例です。選択肢1（プラスチック）、選択肢2（合成ゴム）、選択肢4（合成繊維）は、いずれも人工的に合成された<strong>合成高分子</strong>であるため誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "chem-031",
+    "chapter": 2,
+    "chapterTitle": "基礎的な物理・化学",
+    "itemNo": 31,
+    "title": "主な気体の特性",
+    "intro": "気体は、色やにおいがないものも多く、目に見えないまま危険を生じることがある。<strong>酸素は燃焼を助け、二酸化炭素は消火に使われ、一酸化炭素は有毒</strong>であるというように、気体ごとの役割は大きく異なる。主な気体は、<strong>燃焼・消火・中毒</strong>のどれに関係するかで整理すると覚えやすい。",
+    "body": "空気の組成\n・窒素<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m001\">約78vol％</span></strong>、酸素<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m002\">約21vol％</span></strong>、その他<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m003\">約1vol％</span></strong>の混合物。\n主な気体の性質\n・酸素（O₂）：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m004\">助燃性</span></strong>。自身は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m005\">燃えない</span></strong>が燃焼を<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m006\">助ける</span></strong>。\n・窒素（N₂）：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m007\">不燃性</span></strong>、不活性。\n・二酸化炭素（CO₂）：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m008\">不燃性</span></strong>。空気より<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m009\">重い</span></strong>。<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m010\">窒息消火剤</span></strong>に利用。\n・水素（H₂）：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m011\">可燃性</span></strong>。空気より<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-031-m012\">軽く</span></strong>、燃焼範囲が非常に<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-031-m013\">広い</span></strong>。\n・一酸化炭素（CO）：<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m014\">可燃性</span></strong>、<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m015\">有毒</span></strong>。空気と<strong><span class=\"marker marker-blue\" data-marker-id=\"chem-031-m016\">ほぼ同じ</span></strong>重さ。\n不完全燃焼と一酸化炭素\n・<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m017\">酸素不足</span></strong>で燃焼すると、有毒な<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m018\">一酸化炭素（CO）</span></strong>が発生する。\n・密閉空間の火災や換気不良時に問題となる。\n消火剤としての不活性ガス\n・二酸化炭素・窒素は<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m019\">酸素濃</span></strong><strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m020\">度</span></strong>を下げ、<strong><span class=\"marker marker-red\" data-marker-id=\"chem-031-m021\">窒息消火</span></strong>の効果を発揮する。",
+    "questions": [
+      {
+        "id": "chem-031-q059",
+        "questionNo": 59,
+        "question": "空気の組成に関する記述として、正しいものはどれか。",
+        "choices": [
+          "窒素が約78vol%、酸素が約21vol%を占める。",
+          "酸素が約78vol%、窒素が約21vol%を占める。",
+          "二酸化炭素が主成分である。",
+          "空気はすべて窒素から構成される。"
+        ],
+        "answer": 1,
+        "explanation": "空気は主に<strong>窒素（約78vol%）、酸素（約21vol%）</strong>から構成される混合物です。選択肢2は窒素と酸素の割合が逆であり誤りです。選択肢3は、二酸化炭素は空気中にごくわずかしか存在しないため誤りです。選択肢4は、窒素以外（酸素等）も含まれるため誤りです。"
+      },
+      {
+        "id": "chem-031-q060",
+        "questionNo": 60,
+        "question": "二酸化炭素消火剤が第4類危険物の消火に適している理由として、正しいものはどれか。",
+        "choices": [
+          "二酸化炭素が可燃性であり、燃焼を助けるため。",
+          "二酸化炭素が不燃性・不活性であり、酸素濃度を低下させて窒息効果を発揮するため。",
+          "二酸化炭素が冷却効果のみを持ち、窒息効果は持たないため。",
+          "二酸化炭素は水に溶けやすく、油と反応するため。"
+        ],
+        "answer": 2,
+        "explanation": "二酸化炭素は<strong>不燃性・不活性</strong>なガスであり、燃焼に必要な<strong>酸素濃度を希釈・低下させる</strong>ことで窒息消火の効果を発揮します。選択肢1は、二酸化炭素が可燃性であるとしており誤りです。選択肢3は、窒息効果を持たないとしており誤りです。選択肢4は、二酸化炭素消火剤の消火原理として不適切な説明であり誤りです。"
+      }
+    ]
+  }
+]
