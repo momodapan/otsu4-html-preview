@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="乙4暗記アプリ用教材のスマホ表示確認用静的HTML">
+<title>乙4教材スマホ表示プレビュー</title><link rel="stylesheet" href="assets/style.css"></head>
+<body><header class="site-header" id="page-top">
+      <div class="header-inner">
+        <a class="brand" href="index.html">乙4 教材プレビュー</a>
+        <nav aria-label="ページ切替">
+          <a class="active" href="index.html">案内</a>
+          <a class="" href="text.html">本文</a>
+          <a class="" href="questions.html">問題</a>
+        </nav>
+      </div>
+    </header><main class="page"><section class="hero">
+      <p class="eyebrow">0712 暫定アプリ用</p><h1>乙4 教材スマホ表示プレビュー</h1>
+      <p>導入＋本文と問題を、スマホで内容と強調表示を確認しやすい静的HTMLに変換しました。</p>
+      <div class="notice">アプリ本体への実装・JSON化・新たなマーカー選定は行っていません。答えは問題カード内の「答え・解説を表示」から確認できます。</div>
+      <div class="summary-grid"><div class="summary"><b>3章</b><span>導入＋本文</span></div><div class="summary"><b>47節</b><span>本文の見出し</span></div><div class="summary"><b>207問</b><span>問題カード</span></div></div>
+      <div class="link-grid"><a class="page-link" href="text.html"><strong>導入＋本文を見る</strong><span>赤・青マーカーの表示切替、表のカード表示</span></a><a class="page-link" href="questions.html"><strong>問題を見る</strong><span>第1章100問・第2章60問・第3章47問</span></a></div>
+    </section>
+    <section class="hero"><h2>変換の見方</h2><p><span class="marker-red">赤</span>は名称・用語・代表物質側、<span class="marker-blue">青</span>は数値・条件・性質・作用・対象・比較側の元データ文字色を再現しています。</p><p><strong>太字</strong>は重要表示として維持していますが、赤・青マーカーには置き換えていません。</p><p>Word内の1セル表は、横スクロールを避けるため縦長の参考カードへ変換しています（合計89カード）。</p></section></main>
+<footer class="site-footer">スマホ表示確認用・静的HTMLプレビュー</footer>
+<script>
+document.querySelectorAll('[data-marker]').forEach(function(button){
+  button.addEventListener('click', function(){
+    var kind = button.dataset.marker;
+    var hidden = document.body.classList.toggle('hide-' + kind);
+    button.setAttribute('aria-pressed', String(!hidden));
+    button.textContent = (kind === 'red' ? '赤マーカー ' : '青マーカー ') + (hidden ? 'OFF' : 'ON');
+  });
+});
+</script></body></html>
