@@ -13,7 +13,7 @@
       {
         "id": "law-001-q001",
         "questionNo": 1,
-        "question": "<p>指定数量未満の危険物の貯蔵・取扱いに関する規制として、正しいものはどれか。</p>",
+        "question": "<p><strong>指定数量未満の危険物の貯蔵・取扱いに関する規制として、正しいものはどれか。</strong></p>",
         "choices": [
           "国の法令（消防法等）による規制を受ける。",
           "市町村条例による規制を受ける。",
@@ -26,7 +26,7 @@
       {
         "id": "law-001-q002",
         "questionNo": 2,
-        "question": "<p>消防法上の危険物の定義に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>消防法上の危険物の定義に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "消防法別表第一に掲げる物品で、定める性状を有するもの。",
           "危険性が高いと一般に認識されているすべての物質。",
@@ -39,7 +39,7 @@
       {
         "id": "law-001-q003",
         "questionNo": 3,
-        "question": "<p>第1類及び第6類危険物に共通する性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>第1類及び第6類危険物に共通する性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "いずれも自身が燃える可燃性の物質である。",
           "いずれも自身は不燃であり、他の物質の燃焼を促進する酸化性の物質である。",
@@ -52,7 +52,7 @@
       {
         "id": "law-001-q004",
         "questionNo": 4,
-        "question": "<p>第2類、第4類、第5類に共通する性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>第2類、第4類、第5類に共通する性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "いずれも酸化性で、自身は燃えない。",
           "いずれも可燃性（自己反応性を含む）の性質を持つ。",
@@ -65,7 +65,7 @@
       {
         "id": "law-001-q005",
         "questionNo": 5,
-        "question": "<p>消防法上の危険物の分類として、正しいものはどれか。</p>",
+        "question": "<p><strong>消防法上の危険物の分類として、正しいものはどれか。</strong></p>",
         "choices": [
           "第１類は可燃性液体、第４類は酸化性固体である。",
           "第４類は引火性液体であり、乙４の中心となる。",
@@ -78,7 +78,7 @@
       {
         "id": "law-001-q006",
         "questionNo": 6,
-        "question": "<p>第５類危険物の性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>第５類危険物の性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "外部から酸素を供給しなければ燃焼しない。",
           "物質自体に酸素を含み、自己燃焼するものがある。",
@@ -104,7 +104,7 @@
       {
         "id": "law-002-q001",
         "questionNo": 7,
-        "question": "<p>第4類危険物に共通する性質として、誤っているものはどれか。</p>",
+        "question": "<p><strong>第4類危険物に共通する性質として、誤っているものはどれか。</strong></p>",
         "choices": [
           "常温（20℃）で液体である。",
           "蒸気は空気より重く、低所に滞留しやすい。",
@@ -117,7 +117,7 @@
       {
         "id": "law-002-q002",
         "questionNo": 8,
-        "question": "<p>水溶性と非水溶性の区別が指定数量及び消火方法に与える影響として、正しいものはどれか。</p>",
+        "question": "<p><strong>水溶性と非水溶性の区別が指定数量及び消火方法に与える影響として、正しいものはどれか。</strong></p>",
         "choices": [
           "水溶性の危険物は、非水溶性のものより指定数量が小さい。",
           "水溶性の危険物は、非水溶性のものより指定数量が大きく、また泡消火剤の選択に注意を要する。",
@@ -130,7 +130,7 @@
       {
         "id": "law-002-q003",
         "questionNo": 9,
-        "question": "<p>第4類危険物のアルコール類の除外規定に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>第4類危険物のアルコール類の除外規定に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "水溶液中のアルコール濃度が60％未満のものは、アルコール類から除外される場合がある。",
           "アルコール類には除外規定が一切存在しない。",
@@ -143,7 +143,7 @@
       {
         "id": "law-002-q004",
         "questionNo": 10,
-        "question": "<p>指定数量の倍数の計算に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>指定数量の倍数の計算に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "複数の危険物を貯蔵する場合、最も指定数量の小さい危険物のみで判断する。",
           "複数の危険物を貯蔵する場合、各危険物の倍数を合計して判断する。",
@@ -156,7 +156,7 @@
       {
         "id": "law-002-q005",
         "questionNo": 11,
-        "question": "<p>灯油500Lと軽油500Lを同一の場所で貯蔵している場合の指定数量の倍数として、正しいものはどれか。</p>",
+        "question": "<p><strong>灯油500Lと軽油500Lを同一の場所で貯蔵している場合の指定数量の倍数として、正しいものはどれか。</strong></p>",
         "choices": [
           "0.5倍",
           "0倍",
@@ -169,7 +169,7 @@
       {
         "id": "law-002-q006",
         "questionNo": 12,
-        "question": "<p>第4類危険物のうち、指定数量が最も小さい品名として、正しいものはどれか。</p>",
+        "question": "<p><strong>第4類危険物のうち、指定数量が最も小さい品名として、正しいものはどれか。</strong></p>",
         "choices": [
           "アルコール類",
           "第1石油類（非水溶性）",
@@ -182,7 +182,7 @@
       {
         "id": "law-002-q007",
         "questionNo": 13,
-        "question": "<p>次の危険物を同一の場所で貯蔵する場合、指定数量の倍数の合計として正しいものはどれか。二硫化炭素（特殊引火物）25L、アセトン（第1石油類・水溶性）200L、メタノール（アルコール類）200L。</p>",
+        "question": "<p><strong>次の危険物を同一の場所で貯蔵する場合、指定数量の倍数の合計として正しいものはどれか。二硫化炭素（特殊引火物）25L、アセトン（第1石油類・水溶性）200L、メタノール（アルコール類）200L。</strong></p>",
         "choices": [
           "0倍",
           "5倍",
@@ -203,12 +203,12 @@
     "intro": "<p><strong>まず押さえる：</strong>指定数量以上の危険物を扱う場所は、原則として製造所等として規制されます。製造所等は、危険物を作る、貯める、給油する、販売する、移送するなど、用途に応じて分けられた施設の総称です。</p><p><strong>試験では：</strong>施設名から用途を判断し、施設ごとの代表的な設備基準を選ぶ問題が出ます。</p><p><strong>本文の焦点：</strong>すべての数値を一度に覚えるのではなく、施設名・用途・その施設らしい基準を一組で押さえます。</p>",
     "introImage": "images/law-003.png",
     "introImageAlt": "製造所等の区分と主な設備基準を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\">製造所</strong></p><p>危険物を製造する施設である。</p><p>危険物を取り扱う建築物は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m001\">地階（地下室）</span>を有しない。</p><p>液状の危険物を取り扱う場所の床は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m002\">危険物が浸透しない</span>構造とする。</p><p>床には適当な<span class=\"marker marker-blue\" data-marker-id=\"law-003-m003\">傾斜をつけ</span>、漏れた危険物をためる<span class=\"marker marker-blue\" data-marker-id=\"law-003-m004\">貯留設備</span>を設ける。</p><p><strong class=\"body-subheading\">屋内貯蔵所</strong></p><p>危険物を建築物内で貯蔵する施設である。</p><p>原則として、独立した専用の平家建の建築物とする。</p><p>床は地盤面以上に設ける。（<span class=\"marker marker-red\" data-marker-id=\"law-003-m005\">地下室</span>を設けてはいけない）</p><p>屋根は<span class=\"marker marker-red\" data-marker-id=\"law-003-m006\">不燃材料</span>で造り、金属板などの軽量な<span class=\"marker marker-red\" data-marker-id=\"law-003-m007\">不燃材料</span>でふく。</p><p>原則として、<span class=\"marker marker-red\" data-marker-id=\"law-003-m008\">天井</span>は設けない。</p><p><strong class=\"body-subheading\">屋外貯蔵所</strong></p><p>危険物を屋外の区画で貯蔵する施設である。</p><p>貯蔵できる危険物の種類には制限がある。</p><p>第4類では、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m009\">引火点が0℃以上の</span>第1石油類、アルコール類、第2石油類、第3石油類、第4石油類、動植物油類を貯蔵できる。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m010\">特殊引火物</span>と、<span class=\"marker marker-red\" data-marker-id=\"law-003-m011\">引火点が0℃未満の第1石油類</span>は貯蔵できない。</p><p><strong class=\"body-subheading\">屋内タンク貯蔵所</strong></p><p>危険物を建築物内に設置したタンクで貯蔵する施設である。</p><p>タンクと壁の間、タンク相互の間は、原則として<span class=\"marker marker-blue\" data-marker-id=\"law-003-m012\">0.5m以上</span>あける。</p><p>第4石油類と動植物油類を除き、同一のタンク専用室に設けるタンクの容量の合計は、指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-003-m013\">40倍</span>以下かつ<span class=\"marker marker-blue\" data-marker-id=\"law-003-m014\">20,000 L</span>以下とする。</p><p>出入口には、原則として高さ<span class=\"marker marker-blue\" data-marker-id=\"law-003-m015\">0.2m以上</span>の敷居を設ける。</p><p><strong class=\"body-subheading\">屋外タンク貯蔵所</strong></p><p>危険物を屋外に設置したタンクで貯蔵する施設である。</p><p>タンクの周囲には、漏れた危険物の流出を防ぐため、<span class=\"marker marker-red\" data-marker-id=\"law-003-m016\">防油堤</span>を設ける。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m017\">防油堤</span>の容量は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m018\">最大タンク容量</span>の<span class=\"marker marker-red\" data-marker-id=\"law-003-m019\">110％</span>以上とする。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m020\">防油堤</span>の高さは、<span class=\"marker marker-red\" data-marker-id=\"law-003-m021\">0.5m</span>以上とする。</p><p><strong class=\"body-subheading\">地下タンク貯蔵所</strong></p><p>危険物を<span class=\"marker marker-blue\" data-marker-id=\"law-003-m022\">地盤面下に設置したタンクで貯蔵する</span>施設である。</p><p>タンクの頂部は、原則として<span class=\"marker marker-blue\" data-marker-id=\"law-003-m023\">地盤面から0.6m以上低く</span>する。</p><p><strong class=\"body-subheading\">簡易タンク貯蔵所</strong></p><p>危険物を簡易タンクで貯蔵する施設である。</p><p>一つの簡易タンクの容量は、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m024\">600 L以下</span>とする。</p><p>一つの簡易タンク貯蔵所に設置できるタンクは、<span class=\"marker marker-red\" data-marker-id=\"law-003-m025\">3基</span>以下である。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-003-m026\">同一品質の危険物</span>を貯蔵するタンクは、<span class=\"marker marker-red\" data-marker-id=\"law-003-m027\">2基</span>以上設置できない。</p><p><strong class=\"body-subheading\">移動タンク貯蔵所</strong></p><p>タンクローリーなど、車両に固定したタンクで危険物を移送する施設である。</p><p>移動貯蔵タンクの容量は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m028\">30,000 L</span>以下とする。</p><p>タンクの内部には、容量<span class=\"marker marker-red\" data-marker-id=\"law-003-m029\">4,000 L</span>以下ごとに完全な<span class=\"marker marker-blue\" data-marker-id=\"law-003-m030\">間仕切り</span>を設ける。</p><p>容量<span class=\"marker marker-blue\" data-marker-id=\"law-003-m031\">2,000 L</span>以上のタンク室には、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m032\">防波板</span>を設ける。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-003-m033\">底弁</span>などの安全設備を設ける。</p><p>車両の前後に、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m034\">黒地に黄色</span>の反射塗料などで「<span class=\"marker marker-red\" data-marker-id=\"law-003-m035\">危</span>」と表示した標識を掲げる。</p><p>移送する危険物を取り扱える<span class=\"marker marker-red\" data-marker-id=\"law-003-m036\">危険物取扱者</span>が乗車する。</p><p>乗車する危険物取扱者は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m037\">免状</span>を携帯する。</p><p>危険物取扱者は、運転者でなくてもよい。</p><p>ガソリンなどを移動貯蔵タンクへ注入するときは、車両の原動機を<span class=\"marker marker-red\" data-marker-id=\"law-003-m038\">停止</span>する。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m039\">定期点検</span>が必要である。</p><p><strong class=\"body-subheading\">給油取扱所</strong></p><p>危険物を自動車等の燃料タンクに、固定給油設備を使って直接給油する施設である。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m040\">給油空地</span>は、原則として間口<span class=\"marker marker-red\" data-marker-id=\"law-003-m041\">10m</span>以上、奥行<span class=\"marker marker-red\" data-marker-id=\"law-003-m042\">6m</span>以上とする。</p><p>給油中は、自動車等の原動機を<span class=\"marker marker-red\" data-marker-id=\"law-003-m043\">停止</span>する。</p><p>顧客が自ら給油する給油取扱所では、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m044\">監視、緊急停止、自動停止などの設備</span>が必要である。</p><p>顧客が使用する固定給油設備などには、油種を誤らないよう表示する。</p><p>ガソリンは種類に応じて<span class=\"marker marker-red\" data-marker-id=\"law-003-m045\">赤または黄</span>、軽油は<span class=\"marker marker-red\" data-marker-id=\"law-003-m046\">緑</span>、灯油は<span class=\"marker marker-red\" data-marker-id=\"law-003-m047\">青</span>で識別する。</p><p><strong class=\"body-subheading\">販売取扱所</strong></p><p>容器に入った危険物を店舗で販売する施設である。</p><p>原則として、建築物の<span class=\"marker marker-red\" data-marker-id=\"law-003-m048\">1階</span>に設置する。</p><p>取り扱う危険物の数量により、第1種販売取扱所と第2種販売取扱所に分かれる。</p><p>第1種販売取扱所：指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-003-m049\">15倍以下</span>の危険物を取り扱う。</p><p>第2種販売取扱所：指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-003-m050\">15倍を超え、40倍以下</span>の危険物を取り扱う。</p><p><strong class=\"body-subheading\">移送取扱所</strong></p><p>危険物を配管やポンプによって移送する施設である。</p><p>車両に固定したタンクで危険物を運ぶ移動タンク貯蔵所と、配管で危険物を送る移送取扱所を混同しない。</p><p><strong class=\"body-subheading\">　「移送」と「運搬」の違い</strong></p><p>移送とは、<span class=\"marker marker-red\" data-marker-id=\"law-003-m051\">移動タンク貯蔵所</span>によって危険物を運ぶことである。</p><p>運搬とは、危険物を<span class=\"marker marker-red\" data-marker-id=\"law-003-m052\">容器</span>に入れ、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m053\">トラックなどで運ぶ</span>ことである。</p><p>移送取扱所は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m054\">配管やポンプ</span>によって<span class=\"marker marker-blue\" data-marker-id=\"law-003-m055\">危険物を送る</span>施設である。</p><p><strong class=\"body-subheading\">一般取扱所</strong></p><p>製造所、給油取扱所、販売取扱所、移送取扱所以外の方法で危険物を取り扱う施設である。</p><p>危険物を使用して塗装、洗浄、ボイラーの燃料供給などを行う施設が該当する。</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">製造所</mark></strong></p><p>危険物を製造する施設である。</p><p>危険物を取り扱う建築物は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m001\">地階（地下室）</span>を有しない。</p><p>液状の危険物を取り扱う場所の床は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m002\">危険物が浸透しない</span>構造とする。</p><p>床には適当な<span class=\"marker marker-blue\" data-marker-id=\"law-003-m003\">傾斜をつけ</span>、漏れた危険物をためる<span class=\"marker marker-blue\" data-marker-id=\"law-003-m004\">貯留設備</span>を設ける。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">屋内貯蔵所</mark></strong></p><p>危険物を建築物内で貯蔵する施設である。</p><p>原則として、独立した専用の平家建の建築物とする。</p><p>床は地盤面以上に設ける。（<span class=\"marker marker-red\" data-marker-id=\"law-003-m005\">地下室</span>を設けてはいけない）</p><p>屋根は<span class=\"marker marker-red\" data-marker-id=\"law-003-m006\">不燃材料</span>で造り、金属板などの軽量な<span class=\"marker marker-red\" data-marker-id=\"law-003-m007\">不燃材料</span>でふく。</p><p>原則として、<span class=\"marker marker-red\" data-marker-id=\"law-003-m008\">天井</span>は設けない。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">屋外貯蔵所</mark></strong></p><p>危険物を屋外の区画で貯蔵する施設である。</p><p>貯蔵できる危険物の種類には制限がある。</p><p>第4類では、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m009\">引火点が0℃以上の</span>第1石油類、アルコール類、第2石油類、第3石油類、第4石油類、動植物油類を貯蔵できる。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m010\">特殊引火物</span>と、<span class=\"marker marker-red\" data-marker-id=\"law-003-m011\">引火点が0℃未満の第1石油類</span>は貯蔵できない。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">屋内タンク貯蔵所</mark></strong></p><p>危険物を建築物内に設置したタンクで貯蔵する施設である。</p><p>タンクと壁の間、タンク相互の間は、原則として<span class=\"marker marker-blue\" data-marker-id=\"law-003-m012\">0.5m以上</span>あける。</p><p>第4石油類と動植物油類を除き、同一のタンク専用室に設けるタンクの容量の合計は、指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-003-m013\">40倍</span>以下かつ<span class=\"marker marker-blue\" data-marker-id=\"law-003-m014\">20,000 L</span>以下とする。</p><p>出入口には、原則として高さ<span class=\"marker marker-blue\" data-marker-id=\"law-003-m015\">0.2m以上</span>の敷居を設ける。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">屋外タンク貯蔵所</mark></strong></p><p>危険物を屋外に設置したタンクで貯蔵する施設である。</p><p>タンクの周囲には、漏れた危険物の流出を防ぐため、<span class=\"marker marker-red\" data-marker-id=\"law-003-m016\">防油堤</span>を設ける。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m017\">防油堤</span>の容量は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m018\">最大タンク容量</span>の<span class=\"marker marker-red\" data-marker-id=\"law-003-m019\">110％</span>以上とする。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m020\">防油堤</span>の高さは、<span class=\"marker marker-red\" data-marker-id=\"law-003-m021\">0.5m</span>以上とする。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">地下タンク貯蔵所</mark></strong></p><p>危険物を<span class=\"marker marker-blue\" data-marker-id=\"law-003-m022\">地盤面下に設置したタンクで貯蔵する</span>施設である。</p><p>タンクの頂部は、原則として<span class=\"marker marker-blue\" data-marker-id=\"law-003-m023\">地盤面から0.6m以上低く</span>する。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">簡易タンク貯蔵所</mark></strong></p><p>危険物を簡易タンクで貯蔵する施設である。</p><p>一つの簡易タンクの容量は、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m024\">600 L以下</span>とする。</p><p>一つの簡易タンク貯蔵所に設置できるタンクは、<span class=\"marker marker-red\" data-marker-id=\"law-003-m025\">3基</span>以下である。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-003-m026\">同一品質の危険物</span>を貯蔵するタンクは、<span class=\"marker marker-red\" data-marker-id=\"law-003-m027\">2基</span>以上設置できない。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">移動タンク貯蔵所</mark></strong></p><p>タンクローリーなど、車両に固定したタンクで危険物を移送する施設である。</p><p>移動貯蔵タンクの容量は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m028\">30,000 L</span>以下とする。</p><p>タンクの内部には、容量<span class=\"marker marker-red\" data-marker-id=\"law-003-m029\">4,000 L</span>以下ごとに完全な<span class=\"marker marker-blue\" data-marker-id=\"law-003-m030\">間仕切り</span>を設ける。</p><p>容量<span class=\"marker marker-blue\" data-marker-id=\"law-003-m031\">2,000 L</span>以上のタンク室には、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m032\">防波板</span>を設ける。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-003-m033\">底弁</span>などの安全設備を設ける。</p><p>車両の前後に、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m034\">黒地に黄色</span>の反射塗料などで「<span class=\"marker marker-red\" data-marker-id=\"law-003-m035\">危</span>」と表示した標識を掲げる。</p><p>移送する危険物を取り扱える<span class=\"marker marker-red\" data-marker-id=\"law-003-m036\">危険物取扱者</span>が乗車する。</p><p>乗車する危険物取扱者は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m037\">免状</span>を携帯する。</p><p>危険物取扱者は、運転者でなくてもよい。</p><p>ガソリンなどを移動貯蔵タンクへ注入するときは、車両の原動機を<span class=\"marker marker-red\" data-marker-id=\"law-003-m038\">停止</span>する。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m039\">定期点検</span>が必要である。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">給油取扱所</mark></strong></p><p>危険物を自動車等の燃料タンクに、固定給油設備を使って直接給油する施設である。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-003-m040\">給油空地</span>は、原則として間口<span class=\"marker marker-red\" data-marker-id=\"law-003-m041\">10m</span>以上、奥行<span class=\"marker marker-red\" data-marker-id=\"law-003-m042\">6m</span>以上とする。</p><p>給油中は、自動車等の原動機を<span class=\"marker marker-red\" data-marker-id=\"law-003-m043\">停止</span>する。</p><p>顧客が自ら給油する給油取扱所では、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m044\">監視、緊急停止、自動停止などの設備</span>が必要である。</p><p>顧客が使用する固定給油設備などには、油種を誤らないよう表示する。</p><p>ガソリンは種類に応じて<span class=\"marker marker-red\" data-marker-id=\"law-003-m045\">赤または黄</span>、軽油は<span class=\"marker marker-red\" data-marker-id=\"law-003-m046\">緑</span>、灯油は<span class=\"marker marker-red\" data-marker-id=\"law-003-m047\">青</span>で識別する。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">販売取扱所</mark></strong></p><p>容器に入った危険物を店舗で販売する施設である。</p><p>原則として、建築物の<span class=\"marker marker-red\" data-marker-id=\"law-003-m048\">1階</span>に設置する。</p><p>取り扱う危険物の数量により、第1種販売取扱所と第2種販売取扱所に分かれる。</p><p>第1種販売取扱所：指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-003-m049\">15倍以下</span>の危険物を取り扱う。</p><p>第2種販売取扱所：指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-003-m050\">15倍を超え、40倍以下</span>の危険物を取り扱う。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">移送取扱所</mark></strong></p><p>危険物を配管やポンプによって移送する施設である。</p><p>車両に固定したタンクで危険物を運ぶ移動タンク貯蔵所と、配管で危険物を送る移送取扱所を混同しない。</p><p><strong class=\"body-subheading\">　「移送」と「運搬」の違い</strong></p><p>移送とは、<span class=\"marker marker-red\" data-marker-id=\"law-003-m051\">移動タンク貯蔵所</span>によって危険物を運ぶことである。</p><p>運搬とは、危険物を<span class=\"marker marker-red\" data-marker-id=\"law-003-m052\">容器</span>に入れ、<span class=\"marker marker-blue\" data-marker-id=\"law-003-m053\">トラックなどで運ぶ</span>ことである。</p><p>移送取扱所は、<span class=\"marker marker-red\" data-marker-id=\"law-003-m054\">配管やポンプ</span>によって<span class=\"marker marker-blue\" data-marker-id=\"law-003-m055\">危険物を送る</span>施設である。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">一般取扱所</mark></strong></p><p>製造所、給油取扱所、販売取扱所、移送取扱所以外の方法で危険物を取り扱う施設である。</p><p>危険物を使用して塗装、洗浄、ボイラーの燃料供給などを行う施設が該当する。</p>",
     "questions": [
       {
         "id": "law-003-q001",
         "questionNo": 14,
-        "question": "<p>貯蔵所に分類される施設として、誤っているものはどれか（＝貯蔵所に該当しないものを選べ）。</p>",
+        "question": "<p><strong>貯蔵所に分類される施設として、誤っているものはどれか（＝貯蔵所に該当しないものを選べ）。</strong></p>",
         "choices": [
           "屋内貯蔵所",
           "簡易タンク貯蔵所",
@@ -221,7 +221,7 @@
       {
         "id": "law-003-q002",
         "questionNo": 15,
-        "question": "<p>取扱所に分類される施設の組み合わせとして、正しいものはどれか。</p>",
+        "question": "<p><strong>取扱所に分類される施設の組み合わせとして、正しいものはどれか。</strong></p>",
         "choices": [
           "給油取扱所、販売取扱所、移送取扱所、一般取扱所",
           "給油取扱所、屋内貯蔵所、移送取扱所、一般取扱所",
@@ -234,7 +234,7 @@
       {
         "id": "law-003-q003",
         "questionNo": 16,
-        "question": "<p>ガソリンスタンドに該当する施設の名称として、正しいものはどれか。</p>",
+        "question": "<p><strong>ガソリンスタンドに該当する施設の名称として、正しいものはどれか。</strong></p>",
         "choices": [
           "販売取扱所",
           "給油取扱所",
@@ -247,7 +247,7 @@
       {
         "id": "law-003-q004",
         "questionNo": 17,
-        "question": "<p>屋外タンク貯蔵所のタンクに関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>屋外タンク貯蔵所のタンクに関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "タンクは木製で造ることができる。",
           "タンクは原則として鋼板で造り、十分な強度を有すること。",
@@ -260,7 +260,7 @@
       {
         "id": "law-003-q005",
         "questionNo": 18,
-        "question": "<p>屋外タンク貯蔵所の防油堤に複数のタンクを設置する場合の容量の基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>屋外タンク貯蔵所の防油堤に複数のタンクを設置する場合の容量の基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "すべてのタンクの容量の合計の110％以上とする。",
           "最大のタンクの容量の110％以上とする。",
@@ -273,7 +273,7 @@
       {
         "id": "law-003-q006",
         "questionNo": 19,
-        "question": "<p>移動貯蔵タンクの間仕切りに関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>移動貯蔵タンクの間仕切りに関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "2,000Lごとに間仕切りを設ける。",
           "4,000Lごとに間仕切りを設ける。",
@@ -286,7 +286,7 @@
       {
         "id": "law-003-q007",
         "questionNo": 20,
-        "question": "<p>移動タンク貯蔵所に乗車する者に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>移動タンク貯蔵所に乗車する者に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "危険物取扱者である必要はなく、運転免許があればよい。",
           "当該タンクで貯蔵・取扱う危険物を取り扱うことができる危険物取扱者が乗車しなければならない。",
@@ -299,7 +299,7 @@
       {
         "id": "law-003-q008",
         "questionNo": 21,
-        "question": "<p>移動タンク貯蔵所の標識に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>移動タンク貯蔵所の標識に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "地は白色、文字は黒色とする。",
           "地は黒色、文字は黄色の反射塗料等とする。",
@@ -312,7 +312,7 @@
       {
         "id": "law-003-q009",
         "questionNo": 22,
-        "question": "<p>給油取扱所の給油空地に関する基準として、正しいものはどれか（おおむねの目安）。</p>",
+        "question": "<p><strong>給油取扱所の給油空地に関する基準として、正しいものはどれか（おおむねの目安）。</strong></p>",
         "choices": [
           "幅5m以上、奥行3m以上",
           "幅10m以上、奥行6m以上",
@@ -325,7 +325,7 @@
       {
         "id": "law-003-q010",
         "questionNo": 23,
-        "question": "<p>給油取扱所の周囲に設ける塀又は壁に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>給油取扱所の周囲に設ける塀又は壁に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "高さ1m以上の不燃材料の塀又は壁を設ける。",
           "高さ2m以上の耐火構造又は不燃材料の塀又は壁を設ける。",
@@ -338,7 +338,7 @@
       {
         "id": "law-003-q011",
         "questionNo": 24,
-        "question": "<p>セルフ型給油取扱所の固定給油設備に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>セルフ型給油取扱所の固定給油設備に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "自動停止装置の設置は任意である。",
           "ホースの直近に自動停止装置を備える。",
@@ -351,7 +351,7 @@
       {
         "id": "law-003-q012",
         "questionNo": 25,
-        "question": "<p>セルフ型給油取扱所における誤給油防止策として、正しいものはどれか。</p>",
+        "question": "<p><strong>セルフ型給油取扱所における誤給油防止策として、正しいものはどれか。</strong></p>",
         "choices": [
           "ガソリン用と軽油用のノズルの形状を同一にする。",
           "ガソリン用と軽油用のノズルの形状やレイアウトを工夫し、区別しやすくする。",
@@ -364,7 +364,7 @@
       {
         "id": "law-003-q013",
         "questionNo": 26,
-        "question": "<p>製造所の構造に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所の構造に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "地階を有することができる。",
           "床は危険物が浸透する構造とし、傾斜をつけなくてよい。",
@@ -377,7 +377,7 @@
       {
         "id": "law-003-q014",
         "questionNo": 27,
-        "question": "<p>製造所における可燃性蒸気・ガスへの対応として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所における可燃性蒸気・ガスへの対応として、正しいものはどれか。</strong></p>",
         "choices": [
           "可燃性蒸気が発生するおそれのある設備には、換気の設備を設ける。",
           "換気設備は、引火点の高低を問わず一律の基準で設置する。",
@@ -390,7 +390,7 @@
       {
         "id": "law-003-q015",
         "questionNo": 28,
-        "question": "<p>製造所における避雷設備の設置基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所における避雷設備の設置基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "指定数量の倍数が5以上の製造所に必要である。",
           "指定数量の倍数が10以上の製造所に必要である。",
@@ -403,7 +403,7 @@
       {
         "id": "law-003-q016",
         "questionNo": 29,
-        "question": "<p>屋内貯蔵所の構造に関する基準として、誤っているものはどれか。</p>",
+        "question": "<p><strong>屋内貯蔵所の構造に関する基準として、誤っているものはどれか。</strong></p>",
         "choices": [
           "独立した専用の建築物とする。",
           "地盤面から軒までの高さが6m未満の平屋建とすることが原則である。",
@@ -416,7 +416,7 @@
       {
         "id": "law-003-q017",
         "questionNo": 30,
-        "question": "<p>屋内タンク貯蔵所のタンクの容量に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>屋内タンク貯蔵所のタンクの容量に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "原則として指定数量の40倍以下かつ20,000L以下とする。",
           "容量の上限は一切設けられていない。",
@@ -429,7 +429,7 @@
       {
         "id": "law-003-q018",
         "questionNo": 31,
-        "question": "<p>地下タンク貯蔵所の漏えい対策に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>地下タンク貯蔵所の漏えい対策に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "漏えい検査管の設置は不要である。",
           "漏えい検査管を原則4箇所以上設置する。",
@@ -442,7 +442,7 @@
       {
         "id": "law-003-q019",
         "questionNo": 32,
-        "question": "<p>地下タンクの頂部の位置に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>地下タンクの頂部の位置に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "地盤面から0.3m以上下にあること。",
           "地盤面から0.6m以上下にあること。",
@@ -455,7 +455,7 @@
       {
         "id": "law-003-q020",
         "questionNo": 33,
-        "question": "<p>簡易タンク貯蔵所のタンクの構造試験に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>簡易タンク貯蔵所のタンクの構造試験に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "厚さ1.6mm以上の鋼板で造り、50kPaの圧力で5分間の水圧試験を行う。",
           "厚さ3.2mm以上の鋼板で造り、70kPaの圧力で10分間の水圧試験を行う。",
@@ -468,7 +468,7 @@
       {
         "id": "law-003-q021",
         "questionNo": 34,
-        "question": "<p>屋外貯蔵所で貯蔵することができる危険物として、正しいものはどれか。</p>",
+        "question": "<p><strong>屋外貯蔵所で貯蔵することができる危険物として、正しいものはどれか。</strong></p>",
         "choices": [
           "特殊引火物",
           "引火点が0℃未満の第1石油類（ガソリン等）",
@@ -481,7 +481,7 @@
       {
         "id": "law-003-q022",
         "questionNo": 35,
-        "question": "<p>屋外貯蔵所の貯蔵・取扱い面積に関する基準として、正しいものはどれか（原則の場合）。</p>",
+        "question": "<p><strong>屋外貯蔵所の貯蔵・取扱い面積に関する基準として、正しいものはどれか（原則の場合）。</strong></p>",
         "choices": [
           "50㎡以下",
           "100㎡以下",
@@ -494,7 +494,7 @@
       {
         "id": "law-003-q023",
         "questionNo": 36,
-        "question": "<p>販売取扱所の設置場所に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>販売取扱所の設置場所に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "建築物の2階以上に設置することができる。",
           "建築物の1階に設置する。",
@@ -507,7 +507,7 @@
       {
         "id": "law-003-q024",
         "questionNo": 37,
-        "question": "<p>販売取扱所における危険物の配合・詰め替え作業に関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>販売取扱所における危険物の配合・詰め替え作業に関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "店舗内のどこでも自由に配合・詰め替えを行うことができる。",
           "配合室以外で配合・詰め替えを行ってはならない。",
@@ -533,7 +533,7 @@
       {
         "id": "law-004-q001",
         "questionNo": 38,
-        "question": "<p>製造所等の設置許可から使用開始までの一般的な流れとして、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所等の設置許可から使用開始までの一般的な流れとして、正しいものはどれか。</strong></p>",
         "choices": [
           "許可申請 → 許可 → 完成検査 → 使用開始",
           "完成検査 → 許可申請 → 許可 → 使用開始",
@@ -546,7 +546,7 @@
       {
         "id": "law-004-q002",
         "questionNo": 39,
-        "question": "<p>製造所等の設置許可の権限者である「市町村長等」に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所等の設置許可の権限者である「市町村長等」に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "常に都道府県知事を指す。",
           "消防本部・消防署を有する市町村では市町村長、それ以外の地域では都道府県知事等を指す。",
@@ -559,7 +559,7 @@
       {
         "id": "law-004-q003",
         "questionNo": 40,
-        "question": "<p>完成検査前検査が必要となる場合として、正しいものはどれか。</p>",
+        "question": "<p><strong>完成検査前検査が必要となる場合として、正しいものはどれか。</strong></p>",
         "choices": [
           "すべての製造所等で必要となる。",
           "タンクを有する製造所等で、水圧試験等が必要な場合に行われる。",
@@ -572,7 +572,7 @@
       {
         "id": "law-004-q004",
         "questionNo": 41,
-        "question": "<p>仮使用に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>仮使用に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "変更工事に係る部分を含め、施設全体を使用できる制度である。",
           "変更工事に係る部分以外の部分を、市町村長等の承認を受けて使用する制度である。",
@@ -585,7 +585,7 @@
       {
         "id": "law-004-q005",
         "questionNo": 42,
-        "question": "<p>次の届出のうち、事前届出（変更しようとする日の10日前まで）に該当するものとして、正しいものはどれか。</p>",
+        "question": "<p><strong>次の届出のうち、事前届出（変更しようとする日の10日前まで）に該当するものとして、正しいものはどれか。</strong></p>",
         "choices": [
           "危険物保安監督者の選任",
           "製造所等の廃止",
@@ -598,7 +598,7 @@
       {
         "id": "law-004-q006",
         "questionNo": 43,
-        "question": "<p>危険物保安統括管理者を選任した場合の届出の時期として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物保安統括管理者を選任した場合の届出の時期として、正しいものはどれか。</strong></p>",
         "choices": [
           "選任しようとする日の10日前まで",
           "遅滞なく",
@@ -624,7 +624,7 @@
       {
         "id": "law-005-q001",
         "questionNo": 44,
-        "question": "<p>仮貯蔵・仮取扱いの制度に関する記述として、誤っているものはどれか。</p>",
+        "question": "<p><strong>仮貯蔵・仮取扱いの制度に関する記述として、誤っているものはどれか。</strong></p>",
         "choices": [
           "消防長または消防署長の承認を受ける。",
           "承認を受ければ、期間の制限なく仮の貯蔵・取扱いができる。",
@@ -645,12 +645,12 @@
     "intro": "<p><strong>まず押さえる：</strong>危険物取扱者は、危険物を安全に扱うための国家資格です。甲種・乙種・丙種では、自分で取り扱える危険物の範囲と、無資格者の作業に立ち会える範囲が異なります。乙４は、第4類危険物を扱うための資格です。</p><p><strong>試験では：</strong>甲種・乙種・丙種が取り扱える範囲と、無資格者の作業への立会いの可否を問います。</p><p><strong>本文の焦点：</strong>自分で取り扱える範囲と、他人の作業に立ち会える範囲を分け、特に乙種と丙種の違いを押さえます。</p>",
     "introImage": "images/law-006.png",
     "introImageAlt": "危険物取扱者を示すイラスト",
-    "body": "<p>危険物取扱者の免状をもたない者は、<span class=\"marker marker-red\" data-marker-id=\"law-006-m001\">甲種</span>危険物取扱者または<span class=\"marker marker-red\" data-marker-id=\"law-006-m002\">当該類の乙種</span>危険物取扱者が立ち会う場合に限り、危険物の取扱作業を行える。</p><p><strong class=\"body-subheading\">甲種</strong></p><p>甲種は、危険物を<span class=\"marker marker-red\" data-marker-id=\"law-006-m003\">すべての類</span>について取り扱える。</p><p>甲種は、無資格者の取扱作業に<span class=\"marker marker-red\" data-marker-id=\"law-006-m004\">すべての類</span>について立ち会える。</p><p><strong class=\"body-subheading\">乙種</strong></p><p>乙種は、危険物を<span class=\"marker marker-red\" data-marker-id=\"law-006-m005\">免状に指定された類</span>について取り扱える。</p><p>乙種は、無資格者の取扱作業に<span class=\"marker marker-red\" data-marker-id=\"law-006-m006\">免状に指定された類</span>について立ち会える。</p><p><strong class=\"body-subheading\">丙種</strong></p><p>取り扱える第4類：<span class=\"marker marker-red\" data-marker-id=\"law-006-m007\">ガソリン</span>、<span class=\"marker marker-red\" data-marker-id=\"law-006-m008\">灯油</span>、<span class=\"marker marker-red\" data-marker-id=\"law-006-m009\">軽油</span>、<span class=\"marker marker-blue\" data-marker-id=\"law-006-m010\">第三石油類</span>（<span class=\"marker marker-red\" data-marker-id=\"law-006-m011\">重油</span>、潤滑油及び引火点百三十度以上のものに限る。）、<span class=\"marker marker-blue\" data-marker-id=\"law-006-m012\">第四石油類及び動植物油類</span></p><p>無資格者の取扱作業には、<span class=\"marker marker-red\" data-marker-id=\"law-006-m013\">立ち会えない</span>。</p><p>取り扱える危険物の<span class=\"marker marker-red\" data-marker-id=\"law-006-m014\">定期点検</span>は、<span class=\"marker marker-red\" data-marker-id=\"law-006-m015\">自ら実施できる</span>。</p><p>無資格者がその<span class=\"marker marker-red\" data-marker-id=\"law-006-m016\">定期点検</span>を行う場合は、<span class=\"marker marker-red\" data-marker-id=\"law-006-m017\">立ち会える</span>。</p>",
+    "body": "<p>危険物取扱者の免状をもたない者は、<span class=\"marker marker-red\" data-marker-id=\"law-006-m001\">甲種</span>危険物取扱者または<span class=\"marker marker-red\" data-marker-id=\"law-006-m002\">当該類の乙種</span>危険物取扱者が立ち会う場合に限り、危険物の取扱作業を行える。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">甲種</mark></strong></p><p>甲種は、危険物を<span class=\"marker marker-red\" data-marker-id=\"law-006-m003\">すべての類</span>について取り扱える。</p><p>甲種は、無資格者の取扱作業に<span class=\"marker marker-red\" data-marker-id=\"law-006-m004\">すべての類</span>について立ち会える。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">乙種</mark></strong></p><p>乙種は、危険物を<span class=\"marker marker-red\" data-marker-id=\"law-006-m005\">免状に指定された類</span>について取り扱える。</p><p>乙種は、無資格者の取扱作業に<span class=\"marker marker-red\" data-marker-id=\"law-006-m006\">免状に指定された類</span>について立ち会える。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">丙種</mark></strong></p><p>取り扱える第4類：<span class=\"marker marker-red\" data-marker-id=\"law-006-m007\">ガソリン</span>、<span class=\"marker marker-red\" data-marker-id=\"law-006-m008\">灯油</span>、<span class=\"marker marker-red\" data-marker-id=\"law-006-m009\">軽油</span>、<span class=\"marker marker-blue\" data-marker-id=\"law-006-m010\">第三石油類</span>（<span class=\"marker marker-red\" data-marker-id=\"law-006-m011\">重油</span>、潤滑油及び引火点百三十度以上のものに限る。）、<span class=\"marker marker-blue\" data-marker-id=\"law-006-m012\">第四石油類及び動植物油類</span></p><p>無資格者の取扱作業には、<span class=\"marker marker-red\" data-marker-id=\"law-006-m013\">立ち会えない</span>。</p><p>取り扱える危険物の<span class=\"marker marker-red\" data-marker-id=\"law-006-m014\">定期点検</span>は、<span class=\"marker marker-red\" data-marker-id=\"law-006-m015\">自ら実施できる</span>。</p><p>無資格者がその<span class=\"marker marker-red\" data-marker-id=\"law-006-m016\">定期点検</span>を行う場合は、<span class=\"marker marker-red\" data-marker-id=\"law-006-m017\">立ち会える</span>。</p>",
     "questions": [
       {
         "id": "law-006-q001",
         "questionNo": 45,
-        "question": "<p>甲種危険物取扱者に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>甲種危険物取扱者に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "第4類危険物のみを取り扱うことができる。",
           "第1類から第6類まで、すべての危険物を取り扱うことができる。",
@@ -663,7 +663,7 @@
       {
         "id": "law-006-q002",
         "questionNo": 46,
-        "question": "<p>危険物取扱者免状を持たない者が、製造所等で第4類危険物を取り扱う場合に必要な対応として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物取扱者免状を持たない者が、製造所等で第4類危険物を取り扱う場合に必要な対応として、正しいものはどれか。</strong></p>",
         "choices": [
           "甲種または乙種第4類の危険物取扱者の立会いを受ける。",
           "丙種危険物取扱者の立会いを受ければよい。",
@@ -676,7 +676,7 @@
       {
         "id": "law-006-q003",
         "questionNo": 47,
-        "question": "<p>丙種危険物取扱者が取り扱うことができる危険物として、正しいものはどれか。</p>",
+        "question": "<p><strong>丙種危険物取扱者が取り扱うことができる危険物として、正しいものはどれか。</strong></p>",
         "choices": [
           "第4類危険物のすべて",
           "ガソリン、灯油、軽油等、指定された一部の物品",
@@ -697,12 +697,12 @@
     "intro": "<p><strong>まず押さえる：</strong>危険物取扱者免状は、記載内容や写真を最新の状態に保つ必要があります。氏名や本籍などの記載内容や写真を直す手続が書換えで、免状をなくしたり、汚したり、破ったりしたときに作り直す手続が再交付です。</p><p><strong>試験では：</strong>書換えと再交付の対象、写真の更新時期、旧免状を見つけた場合の扱いを問います。</p><p><strong>本文の焦点：</strong>変更は書換え、紛失・汚損・破損は再交付という基準で、二つの手続を区別します。</p>",
     "introImage": "images/law-007.png",
     "introImageAlt": "免状の書換え・再交付を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\">交付</strong></p><p>免状を交付するのは、<span class=\"marker marker-red\" data-marker-id=\"law-007-m001\">都道府県知事</span>である。</p><p><strong class=\"body-subheading\">書換え</strong></p><p><span class=\"marker marker-red\" data-marker-id=\"law-007-m002\">氏名</span>または<span class=\"marker marker-red\" data-marker-id=\"law-007-m003\">本籍の都道府県名</span>など、免状の記載事項に変更があったときは、<span class=\"marker marker-red\" data-marker-id=\"law-007-m004\">書換え</span>を申請する。</p><p>書換えが不要なのは、<span class=\"marker marker-blue\" data-marker-id=\"law-007-m005\">住所だけ</span>が変わった場合、本籍が<span class=\"marker marker-blue\" data-marker-id=\"law-007-m006\">同じ都道府県内</span>で変わった場合である。</p><p>写真は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m007\">10年に1回</span>、免状に表示された次回書換期限までに書き換える。</p><p>書換えの申請先は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m008\">居住地</span>・<span class=\"marker marker-red\" data-marker-id=\"law-007-m009\">勤務地</span>・<span class=\"marker marker-red\" data-marker-id=\"law-007-m010\">免状を交付した都道府県</span>である。</p><p><strong class=\"body-subheading\">再交付</strong></p><p>免状を<span class=\"marker marker-red\" data-marker-id=\"law-007-m011\">亡失・滅失・汚損・破損</span>した場合は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m012\">再交付</span>を申請する。</p><p>再交付の申請先は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m013\">免状を交付または書換えた都道府県</span>である。</p><p>亡失して再交付を受けた後に旧免状を発見したときは、<span class=\"marker marker-red\" data-marker-id=\"law-007-m014\">10日以内</span>に提出する。</p><p>旧免状の提出先は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m015\">再交付を受けた都道府県知事</span>である。</p><p><strong class=\"body-subheading\">返納命令</strong></p><p>法令違反などにより返納命令を出すことができるのは、原則として<span class=\"marker marker-red\" data-marker-id=\"law-007-m016\">免状を交付した都道府県知事</span>である。</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">交付</mark></strong></p><p>免状を交付するのは、<span class=\"marker marker-red\" data-marker-id=\"law-007-m001\">都道府県知事</span>である。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">書換え</mark></strong></p><p><span class=\"marker marker-red\" data-marker-id=\"law-007-m002\">氏名</span>または<span class=\"marker marker-red\" data-marker-id=\"law-007-m003\">本籍の都道府県名</span>など、免状の記載事項に変更があったときは、<span class=\"marker marker-red\" data-marker-id=\"law-007-m004\">書換え</span>を申請する。</p><p>書換えが不要なのは、<span class=\"marker marker-blue\" data-marker-id=\"law-007-m005\">住所だけ</span>が変わった場合、本籍が<span class=\"marker marker-blue\" data-marker-id=\"law-007-m006\">同じ都道府県内</span>で変わった場合である。</p><p>写真は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m007\">10年に1回</span>、免状に表示された次回書換期限までに書き換える。</p><p>書換えの申請先は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m008\">居住地</span>・<span class=\"marker marker-red\" data-marker-id=\"law-007-m009\">勤務地</span>・<span class=\"marker marker-red\" data-marker-id=\"law-007-m010\">免状を交付した都道府県</span>である。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">再交付</mark></strong></p><p>免状を<span class=\"marker marker-red\" data-marker-id=\"law-007-m011\">亡失・滅失・汚損・破損</span>した場合は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m012\">再交付</span>を申請する。</p><p>再交付の申請先は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m013\">免状を交付または書換えた都道府県</span>である。</p><p>亡失して再交付を受けた後に旧免状を発見したときは、<span class=\"marker marker-red\" data-marker-id=\"law-007-m014\">10日以内</span>に提出する。</p><p>旧免状の提出先は、<span class=\"marker marker-red\" data-marker-id=\"law-007-m015\">再交付を受けた都道府県知事</span>である。</p><p><strong class=\"body-subheading\">返納命令</strong></p><p>法令違反などにより返納命令を出すことができるのは、原則として<span class=\"marker marker-red\" data-marker-id=\"law-007-m016\">免状を交付した都道府県知事</span>である。</p>",
     "questions": [
       {
         "id": "law-007-q001",
         "questionNo": 48,
-        "question": "<p>免状の書換えが必要となる場合として、誤っているものはどれか。</p>",
+        "question": "<p><strong>免状の書換えが必要となる場合として、誤っているものはどれか。</strong></p>",
         "choices": [
           "氏名に変更があった場合",
           "本籍地の都道府県に変更があった場合",
@@ -715,7 +715,7 @@
       {
         "id": "law-007-q002",
         "questionNo": 49,
-        "question": "<p>免状の書換えの申請先として、正しいものはどれか。</p>",
+        "question": "<p><strong>免状の書換えの申請先として、正しいものはどれか。</strong></p>",
         "choices": [
           "免状の交付を受けた都道府県知事に限られる。",
           "免状の交付を受けた都道府県知事、居住地を管轄する都道府県知事、勤務地を管轄する都道府県知事のいずれか。",
@@ -728,7 +728,7 @@
       {
         "id": "law-007-q003",
         "questionNo": 50,
-        "question": "<p>免状の再交付の申請先として、正しいものはどれか。</p>",
+        "question": "<p><strong>免状の再交付の申請先として、正しいものはどれか。</strong></p>",
         "choices": [
           "免状の交付または書換えをした都道府県知事に限られる。",
           "居住地を管轄する都道府県知事であればどこでもよい。",
@@ -741,7 +741,7 @@
       {
         "id": "law-007-q004",
         "questionNo": 51,
-        "question": "<p>亡失した免状を発見した場合の対応として、正しいものはどれか。</p>",
+        "question": "<p><strong>亡失した免状を発見した場合の対応として、正しいものはどれか。</strong></p>",
         "choices": [
           "発見後、特に手続きは不要である。",
           "発見した日から10日以内に、再交付を受けた都道府県知事に提出する。",
@@ -754,7 +754,7 @@
       {
         "id": "law-007-q005",
         "questionNo": 52,
-        "question": "<p>危険物取扱者免状の返納に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物取扱者免状の返納に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "危険物取扱者が消防法令に違反したとき、免状を交付した都道府県知事が返納を命じることができる。",
           "免状の返納命令は、市町村長等が行う。",
@@ -780,7 +780,7 @@
       {
         "id": "law-008-q001",
         "questionNo": 53,
-        "question": "<p>保安講習の受講義務がある者として、正しいものはどれか。</p>",
+        "question": "<p><strong>保安講習の受講義務がある者として、正しいものはどれか。</strong></p>",
         "choices": [
           "危険物取扱者免状を持つすべての者",
           "製造所等において危険物の取扱作業に現に従事している危険物取扱者",
@@ -793,7 +793,7 @@
       {
         "id": "law-008-q002",
         "questionNo": 54,
-        "question": "<p>保安講習の受講頻度の原則として、正しいものはどれか。</p>",
+        "question": "<p><strong>保安講習の受講頻度の原則として、正しいものはどれか。</strong></p>",
         "choices": [
           "前回講習を受けた日以後の最初の4月1日から2年以内",
           "前回講習を受けた日以後の最初の4月1日から3年以内",
@@ -806,7 +806,7 @@
       {
         "id": "law-008-q003",
         "questionNo": 55,
-        "question": "<p>免状交付日から1年6か月後に、初めて危険物の取扱作業に従事することになった者の受講期限として、正しいものはどれか。</p>",
+        "question": "<p><strong>免状交付日から1年6か月後に、初めて危険物の取扱作業に従事することになった者の受講期限として、正しいものはどれか。</strong></p>",
         "choices": [
           "従事することとなった日から1年以内",
           "免状交付日以後の最初の4月1日から3年以内",
@@ -819,7 +819,7 @@
       {
         "id": "law-008-q004",
         "questionNo": 56,
-        "question": "<p>免状交付日から2年6か月後に、初めて危険物の取扱作業に従事することになった者の受講期限として、正しいものはどれか。</p>",
+        "question": "<p><strong>免状交付日から2年6か月後に、初めて危険物の取扱作業に従事することになった者の受講期限として、正しいものはどれか。</strong></p>",
         "choices": [
           "従事することとなった日から1年以内",
           "免状交付日以後の最初の4月1日から3年以内",
@@ -840,12 +840,12 @@
     "intro": "<p><strong>まず押さえる：</strong>危険物保安監督者は、施設で行う危険物の取扱作業を安全面から監督する人です。選任には、対応する危険物取扱者の資格だけでなく、実務経験も必要です。</p><p><strong>試験では：</strong>誰がなれるか、どの施設で選任が必要か、選任・解任時の届出を問います。</p><p><strong>本文の焦点：</strong>資格要件・選任対象施設・届出を結び付け、移動タンク貯蔵所では選任が不要である点も押さえます。</p>",
     "introImage": "images/law-009.png",
     "introImageAlt": "危険物保安監督者を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\"><strong>危険物保安監督者</strong></strong></p><p><strong class=\"body-subheading\">役割</strong></p><p>危険物の取扱作業に関する保安の<span class=\"marker marker-red\" data-marker-id=\"law-009-m001\">監督・指揮</span>を行う責任者である。</p><p><strong class=\"body-subheading\">資格要件</strong></p><p><span class=\"marker marker-red\" data-marker-id=\"law-009-m002\">甲種危険物取扱者</span>または<span class=\"marker marker-red\" data-marker-id=\"law-009-m003\">該当する類の乙種危険物取扱者</span>であること。</p><p>危険物の取扱いに関する実務経験が<span class=\"marker marker-red\" data-marker-id=\"law-009-m004\">6か月</span>以上あること。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-009-m005\">丙種危険物取扱者</span>は、危険物保安監督者になることができない。</p><p><strong class=\"body-subheading\">選任の要否</strong></p><p>原則として選任が必要な代表的な施設は、<span class=\"marker marker-red\" data-marker-id=\"law-009-m006\">製造所</span>、<span class=\"marker marker-red\" data-marker-id=\"law-009-m007\">屋外タンク貯蔵所</span>、<span class=\"marker marker-red\" data-marker-id=\"law-009-m008\">給油取扱所</span>および<span class=\"marker marker-red\" data-marker-id=\"law-009-m009\">移送取扱所</span>である。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-009-m010\">移動タンク貯蔵所</span>では、選任は不要である。</p><p>第1種販売取扱所および第2種販売取扱所では、引火点40℃以上の第4類危険物のみを取り扱う場合、選任は不要である。</p><p>その他の施設については、危険物の類、引火点、指定数量の倍数などにより選任の要否を判断する。第4類危険物のみを取り扱う場合でも、常に選任不要とは限らない。</p><p><strong class=\"body-subheading\">届出</strong></p><p><span class=\"marker marker-blue\" data-marker-id=\"law-009-m011\">選任または解任</span>をしたときは、<span class=\"marker marker-blue\" data-marker-id=\"law-009-m012\">遅滞なく</span><span class=\"marker marker-red\" data-marker-id=\"law-009-m013\">市町村長等</span>に届け出なければならない。</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\"><strong>危険物保安監督者</strong></mark></strong></p><p><strong class=\"body-subheading\">役割</strong></p><p>危険物の取扱作業に関する保安の<span class=\"marker marker-red\" data-marker-id=\"law-009-m001\">監督・指揮</span>を行う責任者である。</p><p><strong class=\"body-subheading\">資格要件</strong></p><p><span class=\"marker marker-red\" data-marker-id=\"law-009-m002\">甲種危険物取扱者</span>または<span class=\"marker marker-red\" data-marker-id=\"law-009-m003\">該当する類の乙種危険物取扱者</span>であること。</p><p>危険物の取扱いに関する実務経験が<span class=\"marker marker-red\" data-marker-id=\"law-009-m004\">6か月</span>以上あること。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-009-m005\">丙種危険物取扱者</span>は、危険物保安監督者になることができない。</p><p><strong class=\"body-subheading\">選任の要否</strong></p><p>原則として選任が必要な代表的な施設は、<span class=\"marker marker-red\" data-marker-id=\"law-009-m006\">製造所</span>、<span class=\"marker marker-red\" data-marker-id=\"law-009-m007\">屋外タンク貯蔵所</span>、<span class=\"marker marker-red\" data-marker-id=\"law-009-m008\">給油取扱所</span>および<span class=\"marker marker-red\" data-marker-id=\"law-009-m009\">移送取扱所</span>である。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-009-m010\">移動タンク貯蔵所</span>では、選任は不要である。</p><p>第1種販売取扱所および第2種販売取扱所では、引火点40℃以上の第4類危険物のみを取り扱う場合、選任は不要である。</p><p>その他の施設については、危険物の類、引火点、指定数量の倍数などにより選任の要否を判断する。第4類危険物のみを取り扱う場合でも、常に選任不要とは限らない。</p><p><strong class=\"body-subheading\">届出</strong></p><p><span class=\"marker marker-blue\" data-marker-id=\"law-009-m011\">選任または解任</span>をしたときは、<span class=\"marker marker-blue\" data-marker-id=\"law-009-m012\">遅滞なく</span><span class=\"marker marker-red\" data-marker-id=\"law-009-m013\">市町村長等</span>に届け出なければならない。</p>",
     "questions": [
       {
         "id": "law-009-q001",
         "questionNo": 57,
-        "question": "<p>危険物保安監督者の業務として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物保安監督者の業務として、正しいものはどれか。</strong></p>",
         "choices": [
           "製造所等全体の経営方針を決定する。",
           "危険物の取扱作業が技術上の基準等に適合するように作業者を監督する。",
@@ -858,7 +858,7 @@
       {
         "id": "law-009-q002",
         "questionNo": 58,
-        "question": "<p>危険物保安監督者が旅行、疾病等によって職務を行えない場合の対応として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物保安監督者が旅行、疾病等によって職務を行えない場合の対応として、正しいものはどれか。</strong></p>",
         "choices": [
           "その間、施設は使用を停止しなければならない。",
           "あらかじめ予防規程等で定めた代行者が職務を代行する。",
@@ -871,7 +871,7 @@
       {
         "id": "law-009-q003",
         "questionNo": 59,
-        "question": "<p>危険物保安監督者の選任が必要な施設として、誤っているものはどれか。</p>",
+        "question": "<p><strong>危険物保安監督者の選任が必要な施設として、誤っているものはどれか。</strong></p>",
         "choices": [
           "製造所",
           "屋外タンク貯蔵所",
@@ -892,12 +892,12 @@
     "intro": "<p><strong>まず押さえる：</strong>危険物保安統括管理者、危険物保安監督者、危険物施設保安員は、名前が似ていますが担当範囲が異なります。統括管理者は事業所全体の保安をまとめ、施設保安員は構造・設備に関する保安業務を担当します。</p><p><strong>試験では：</strong>それぞれの役割、選任が必要となる施設や倍数基準、資格要件を問います。</p><p><strong>本文の焦点：</strong>事業所全体、危険物の取扱作業、施設・設備のどこを担当するかで区別し、統括管理者と施設保安員は免状を資格要件としないことも押さえます。</p>",
     "introImage": "images/law-010.png",
     "introImageAlt": "統括管理者・施設保安員を示すイラスト",
-    "body": "<p><strong>危険物保安統括管理者</strong></p><p>役割</p><p>大量の危険物を取り扱う<span class=\"marker marker-blue\" data-marker-id=\"law-010-m001\">大規模な事業所</span>において、事業所全体の危険物保安業務を<span class=\"marker marker-red\" data-marker-id=\"law-010-m002\">統括・管理する最高責任者</span>である。</p><p>資格要件</p><p>危険物取扱者免状は、<span class=\"marker marker-red\" data-marker-id=\"law-010-m003\">資格要件とされていない</span>。</p><p>選任の要否</p><p>第4類危険物を取り扱う<span class=\"marker marker-red\" data-marker-id=\"law-010-m004\">製造所</span>または<span class=\"marker marker-red\" data-marker-id=\"law-010-m005\">一般取扱所</span>で、指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-010-m006\">3,000倍</span>以上を取り扱う場合は、原則として選任が必要である。</p><p>第4類危険物を取り扱う<span class=\"marker marker-red\" data-marker-id=\"law-010-m007\">移送取扱所</span>で、<span class=\"marker marker-blue\" data-marker-id=\"law-010-m008\">指定数量</span>以上を取り扱う場合は、原則として選任が必要である。</p><p><strong>危険物施設保安員</strong></p><p>役割</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-010-m009\">一定規模以上</span>の危険物施設において、施設の構造や設備の<span class=\"marker marker-red\" data-marker-id=\"law-010-m010\">点検・維持管理</span>を専門的に行う実務担当者である。</p><p>資格要件</p><p>危険物取扱者免状は、<span class=\"marker marker-red\" data-marker-id=\"law-010-m011\">資格要件とされていない</span>。</p><p>選任の要否</p><p><span class=\"marker marker-red\" data-marker-id=\"law-010-m012\">製造所</span>または<span class=\"marker marker-red\" data-marker-id=\"law-010-m013\">一般取扱所</span>で、指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-010-m014\">100倍</span>以上を取り扱う場合は、原則として選任が必要である。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-010-m015\">移送取扱所</span>では、原則として選任が必要である。</p>",
+    "body": "<p><mark class=\"marker-yellow\"><strong>危険物保安統括管理者</strong></mark></p><p>役割</p><p>大量の危険物を取り扱う<span class=\"marker marker-blue\" data-marker-id=\"law-010-m001\">大規模な事業所</span>において、事業所全体の危険物保安業務を<span class=\"marker marker-red\" data-marker-id=\"law-010-m002\">統括・管理する最高責任者</span>である。</p><p>資格要件</p><p>危険物取扱者免状は、<span class=\"marker marker-red\" data-marker-id=\"law-010-m003\">資格要件とされていない</span>。</p><p>選任の要否</p><p>第4類危険物を取り扱う<span class=\"marker marker-red\" data-marker-id=\"law-010-m004\">製造所</span>または<span class=\"marker marker-red\" data-marker-id=\"law-010-m005\">一般取扱所</span>で、指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-010-m006\">3,000倍</span>以上を取り扱う場合は、原則として選任が必要である。</p><p>第4類危険物を取り扱う<span class=\"marker marker-red\" data-marker-id=\"law-010-m007\">移送取扱所</span>で、<span class=\"marker marker-blue\" data-marker-id=\"law-010-m008\">指定数量</span>以上を取り扱う場合は、原則として選任が必要である。</p><p><mark class=\"marker-yellow\"><strong>危険物施設保安員</strong></mark></p><p>役割</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-010-m009\">一定規模以上</span>の危険物施設において、施設の構造や設備の<span class=\"marker marker-red\" data-marker-id=\"law-010-m010\">点検・維持管理</span>を専門的に行う実務担当者である。</p><p>資格要件</p><p>危険物取扱者免状は、<span class=\"marker marker-red\" data-marker-id=\"law-010-m011\">資格要件とされていない</span>。</p><p>選任の要否</p><p><span class=\"marker marker-red\" data-marker-id=\"law-010-m012\">製造所</span>または<span class=\"marker marker-red\" data-marker-id=\"law-010-m013\">一般取扱所</span>で、指定数量の<span class=\"marker marker-blue\" data-marker-id=\"law-010-m014\">100倍</span>以上を取り扱う場合は、原則として選任が必要である。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-010-m015\">移送取扱所</span>では、原則として選任が必要である。</p>",
     "questions": [
       {
         "id": "law-010-q001",
         "questionNo": 60,
-        "question": "<p>危険物保安統括管理者の選任が義務付けられる事業所の規模に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物保安統括管理者の選任が義務付けられる事業所の規模に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "すべての製造所等に選任が義務付けられる。",
           "第4類危険物を大量に取り扱う、一定規模以上の事業所（製造所・一般取扱所等）に選任が義務付けられる。",
@@ -910,7 +910,7 @@
       {
         "id": "law-010-q002",
         "questionNo": 61,
-        "question": "<p>危険物施設保安員の業務として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物施設保安員の業務として、正しいものはどれか。</strong></p>",
         "choices": [
           "製造所等の構造及び設備が技術上の基準に適合するよう、巡視・点検及び記録の保存を行う。",
           "危険物取扱者免状の交付申請を行う。",
@@ -936,7 +936,7 @@
       {
         "id": "law-011-q001",
         "questionNo": 62,
-        "question": "<p>予防規程が必要となる施設の規模基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>予防規程が必要となる施設の規模基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "指定数量の倍数が10以上の製造所",
           "指定数量の倍数が5以上の製造所",
@@ -949,7 +949,7 @@
       {
         "id": "law-011-q002",
         "questionNo": 63,
-        "question": "<p>給油取扱所における予防規程の必要性に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>給油取扱所における予防規程の必要性に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "指定数量の倍数が10以上の場合のみ必要である。",
           "指定数量の倍数を問わず、原則すべての給油取扱所で必要である。",
@@ -962,7 +962,7 @@
       {
         "id": "law-011-q003",
         "questionNo": 64,
-        "question": "<p>予防規程の制定及び変更の手続きとして、正しいものはどれか。</p>",
+        "question": "<p><strong>予防規程の制定及び変更の手続きとして、正しいものはどれか。</strong></p>",
         "choices": [
           "制定時は認可が必要だが、変更時は届出でよい。",
           "制定時・変更時のいずれも市町村長等の認可が必要である。",
@@ -975,7 +975,7 @@
       {
         "id": "law-011-q004",
         "questionNo": 65,
-        "question": "<p>予防規程に定める事項として、正しいものはどれか。</p>",
+        "question": "<p><strong>予防規程に定める事項として、正しいものはどれか。</strong></p>",
         "choices": [
           "従業員の給与に関する事項",
           "自衛消防組織に関する事項",
@@ -996,12 +996,12 @@
     "intro": "<p><strong>まず押さえる：</strong>危険物施設は、完成時に確認すれば終わりではありません。完成後も基準に合う状態を保ち、定期的に確認し、必要な施設では行政による検査も受けます。維持管理、定期点検、保安検査は、それぞれ役割の異なる制度です。</p><p><strong>試験では：</strong>各制度について、誰が、何を、いつ確認するか、定期点検の実施時期や記録の保存期間を問います。</p><p><strong>本文の焦点：</strong>日常的に状態を保つ維持管理、事業者側の定期点検、行政上の保安検査を区別します。</p>",
     "introImage": "images/law-012.png",
     "introImageAlt": "維持管理・定期点検・保安検査を示すイラスト",
-    "body": "<p>維持管理・定期点検・保安検査は、誰が、何を、いつ確認する制度かを区別する。</p><p><strong class=\"body-subheading\">維持管理</strong></p><p><span class=\"marker marker-red\" data-marker-id=\"law-012-m001\">所有者・管理者・占有者</span>は、製造所等の位置・構造・設備を<span class=\"marker marker-blue\" data-marker-id=\"law-012-m002\">技術上の基準</span>に適合するよう維持する。</p><p>基準に適合しない製造所等について、<span class=\"marker marker-red\" data-marker-id=\"law-012-m003\">市町村長等</span>は、<span class=\"marker marker-blue\" data-marker-id=\"law-012-m004\">修理・改造・移転を命じる</span>ことができる。</p><p><strong class=\"body-subheading\">定期点検</strong></p><p><strong class=\"body-subheading\">主な対象</strong></p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m005\">地下タンク貯蔵所</span>・<span class=\"marker marker-blue\" data-marker-id=\"law-012-m006\">移動タンク貯蔵所</span>：<span class=\"marker marker-red\" data-marker-id=\"law-012-m007\">すべて対象</span>。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m008\">移送取扱所</span>：<span class=\"marker marker-red\" data-marker-id=\"law-012-m009\">原則対象</span>。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m010\">給油取扱所</span>：<span class=\"marker marker-red\" data-marker-id=\"law-012-m011\">地下タンク</span>を有するもの。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m012\">製造所</span>・<span class=\"marker marker-blue\" data-marker-id=\"law-012-m013\">一般取扱所</span>：指定数量の<span class=\"marker marker-red\" data-marker-id=\"law-012-m014\">10倍</span>以上、または<span class=\"marker marker-red\" data-marker-id=\"law-012-m015\">地下タンク</span>を有するもの。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m016\">屋内貯蔵所</span>：指定数量の<span class=\"marker marker-red\" data-marker-id=\"law-012-m017\">150倍</span>以上。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m018\">屋外タンク貯蔵所</span>：指定数量の<span class=\"marker marker-red\" data-marker-id=\"law-012-m019\">200倍</span>以上。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m020\">屋外貯蔵所</span>：指定数量の<span class=\"marker marker-red\" data-marker-id=\"law-012-m021\">100倍</span>以上。</p><p><strong class=\"body-subheading\">時期・記録</strong></p><p>定期点検は、原則として<span class=\"marker marker-red\" data-marker-id=\"law-012-m022\">1年に1回以上</span>実施する。</p><p>点検記録を作成し、<span class=\"marker marker-red\" data-marker-id=\"law-012-m023\">3年間</span>保存する。</p><p><strong class=\"body-subheading\">点検する者</strong></p><p><span class=\"marker marker-red\" data-marker-id=\"law-012-m024\">危険物取扱者</span>または<span class=\"marker marker-red\" data-marker-id=\"law-012-m025\">危険物施設保安員</span>が点検する。</p><p>その他の者が点検する場合は、危険物取扱者の<span class=\"marker marker-red\" data-marker-id=\"law-012-m026\">立会い</span>が必要である。</p><p><strong class=\"body-subheading\">保安検査</strong></p><p>保安検査は、「超巨大な危険施設」を対象に<span class=\"marker marker-red\" data-marker-id=\"law-012-m027\">市町村長等</span>が行う<span class=\"marker marker-blue\" data-marker-id=\"law-012-m028\">行政上の検査</span>である。</p><p><strong class=\"body-subheading\">対象</strong></p><p> 1万kL以上の屋外タンク（巨大な原油タンクなど）</p><p>特定の移送取扱所（長距離のパイプラインなど）</p><p><strong class=\"body-subheading\">時期</strong></p><p>1万kL以上の屋外タンク：<span class=\"marker marker-red\" data-marker-id=\"law-012-m029\">8年に1回</span></p><p>移送取扱所：<span class=\"marker marker-red\" data-marker-id=\"law-012-m030\">1年に1回</span></p><p><strong class=\"body-subheading\">臨時保安検査</strong></p><p>容量<span class=\"marker marker-red\" data-marker-id=\"law-012-m031\">1,000kL以上</span>の<span class=\"marker marker-blue\" data-marker-id=\"law-012-m032\">特定屋外タンク貯蔵所</span>で、タンク直径の<span class=\"marker marker-blue\" data-marker-id=\"law-012-m033\">100分の1以上の不等沈下</span>が生じたときは、臨時保安検査の対象となる。</p>",
+    "body": "<p>維持管理・定期点検・保安検査は、誰が、何を、いつ確認する制度かを区別する。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">維持管理</mark></strong></p><p><span class=\"marker marker-red\" data-marker-id=\"law-012-m001\">所有者・管理者・占有者</span>は、製造所等の位置・構造・設備を<span class=\"marker marker-blue\" data-marker-id=\"law-012-m002\">技術上の基準</span>に適合するよう維持する。</p><p>基準に適合しない製造所等について、<span class=\"marker marker-red\" data-marker-id=\"law-012-m003\">市町村長等</span>は、<span class=\"marker marker-blue\" data-marker-id=\"law-012-m004\">修理・改造・移転を命じる</span>ことができる。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">定期点検</mark></strong></p><p><strong class=\"body-subheading\">主な対象</strong></p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m005\">地下タンク貯蔵所</span>・<span class=\"marker marker-blue\" data-marker-id=\"law-012-m006\">移動タンク貯蔵所</span>：<span class=\"marker marker-red\" data-marker-id=\"law-012-m007\">すべて対象</span>。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m008\">移送取扱所</span>：<span class=\"marker marker-red\" data-marker-id=\"law-012-m009\">原則対象</span>。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m010\">給油取扱所</span>：<span class=\"marker marker-red\" data-marker-id=\"law-012-m011\">地下タンク</span>を有するもの。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m012\">製造所</span>・<span class=\"marker marker-blue\" data-marker-id=\"law-012-m013\">一般取扱所</span>：指定数量の<span class=\"marker marker-red\" data-marker-id=\"law-012-m014\">10倍</span>以上、または<span class=\"marker marker-red\" data-marker-id=\"law-012-m015\">地下タンク</span>を有するもの。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m016\">屋内貯蔵所</span>：指定数量の<span class=\"marker marker-red\" data-marker-id=\"law-012-m017\">150倍</span>以上。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m018\">屋外タンク貯蔵所</span>：指定数量の<span class=\"marker marker-red\" data-marker-id=\"law-012-m019\">200倍</span>以上。</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-012-m020\">屋外貯蔵所</span>：指定数量の<span class=\"marker marker-red\" data-marker-id=\"law-012-m021\">100倍</span>以上。</p><p><strong class=\"body-subheading\">時期・記録</strong></p><p>定期点検は、原則として<span class=\"marker marker-red\" data-marker-id=\"law-012-m022\">1年に1回以上</span>実施する。</p><p>点検記録を作成し、<span class=\"marker marker-red\" data-marker-id=\"law-012-m023\">3年間</span>保存する。</p><p><strong class=\"body-subheading\">点検する者</strong></p><p><span class=\"marker marker-red\" data-marker-id=\"law-012-m024\">危険物取扱者</span>または<span class=\"marker marker-red\" data-marker-id=\"law-012-m025\">危険物施設保安員</span>が点検する。</p><p>その他の者が点検する場合は、危険物取扱者の<span class=\"marker marker-red\" data-marker-id=\"law-012-m026\">立会い</span>が必要である。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">保安検査</mark></strong></p><p>保安検査は、「超巨大な危険施設」を対象に<span class=\"marker marker-red\" data-marker-id=\"law-012-m027\">市町村長等</span>が行う<span class=\"marker marker-blue\" data-marker-id=\"law-012-m028\">行政上の検査</span>である。</p><p><strong class=\"body-subheading\">対象</strong></p><p> 1万kL以上の屋外タンク（巨大な原油タンクなど）</p><p>特定の移送取扱所（長距離のパイプラインなど）</p><p><strong class=\"body-subheading\">時期</strong></p><p>1万kL以上の屋外タンク：<span class=\"marker marker-red\" data-marker-id=\"law-012-m029\">8年に1回</span></p><p>移送取扱所：<span class=\"marker marker-red\" data-marker-id=\"law-012-m030\">1年に1回</span></p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">臨時保安検査</mark></strong></p><p>容量<span class=\"marker marker-red\" data-marker-id=\"law-012-m031\">1,000kL以上</span>の<span class=\"marker marker-blue\" data-marker-id=\"law-012-m032\">特定屋外タンク貯蔵所</span>で、タンク直径の<span class=\"marker marker-blue\" data-marker-id=\"law-012-m033\">100分の1以上の不等沈下</span>が生じたときは、臨時保安検査の対象となる。</p>",
     "questions": [
       {
         "id": "law-012-q001",
         "questionNo": 66,
-        "question": "<p>製造所等の位置・構造・設備の維持管理に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所等の位置・構造・設備の維持管理に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "所有者等は、技術上の基準に適合するように維持する義務はない。",
           "所有者等は、技術上の基準に適合するように維持する義務がある。",
@@ -1014,7 +1014,7 @@
       {
         "id": "law-012-q002",
         "questionNo": 67,
-        "question": "<p>定期点検が義務付けられる施設として、正しいものはどれか。</p>",
+        "question": "<p><strong>定期点検が義務付けられる施設として、正しいものはどれか。</strong></p>",
         "choices": [
           "指定数量の倍数が5の屋内貯蔵所",
           "指定数量の倍数を問わない移動タンク貯蔵所",
@@ -1027,7 +1027,7 @@
       {
         "id": "law-012-q003",
         "questionNo": 68,
-        "question": "<p>定期点検記録の保存期間として、正しいものはどれか（原則の場合）。</p>",
+        "question": "<p><strong>定期点検記録の保存期間として、正しいものはどれか（原則の場合）。</strong></p>",
         "choices": [
           "1年間",
           "3年間",
@@ -1040,7 +1040,7 @@
       {
         "id": "law-012-q004",
         "questionNo": 69,
-        "question": "<p>定期点検における立会いに関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>定期点検における立会いに関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "丙種危険物取扱者は、定期点検の立会いをすることができない。",
           "丙種危険物取扱者は、定期点検の立会いをすることができる。",
@@ -1053,7 +1053,7 @@
       {
         "id": "law-012-q005",
         "questionNo": 70,
-        "question": "<p>保安検査の対象施設として、正しいものはどれか。</p>",
+        "question": "<p><strong>保安検査の対象施設として、正しいものはどれか。</strong></p>",
         "choices": [
           "容量1,000kL以上の屋外タンク貯蔵所、及び移送取扱所",
           "すべての屋内貯蔵所",
@@ -1066,7 +1066,7 @@
       {
         "id": "law-012-q006",
         "questionNo": 71,
-        "question": "<p>屋外タンク貯蔵所における臨時保安検査が行われる場合として、正しいものはどれか。</p>",
+        "question": "<p><strong>屋外タンク貯蔵所における臨時保安検査が行われる場合として、正しいものはどれか。</strong></p>",
         "choices": [
           "定期的に8年に1回、自動的に実施される。",
           "不等沈下等、特定の事由が生じた場合に実施される。",
@@ -1087,12 +1087,12 @@
     "intro": "<p><strong>まず押さえる：</strong>保安距離は、危険物施設と住居、学校、病院などの保安対象物との間に保つ距離です。一方、保有空地は、消火活動や延焼防止のために施設の周囲へ確保する空間です。目的が異なるため、同じものではありません。</p><p><strong>試験では：</strong>保安距離が必要な施設、相手方に応じた代表的な距離、保有空地との違いを問います。</p><p><strong>本文の焦点：</strong>まず目的の違いで保安距離と保有空地を区別し、その後で施設と相手方を距離に結び付けます。</p>",
     "introImage": "images/law-013.png",
     "introImageAlt": "保安距離・保有空地を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\">保安距離と保有空地の違い</strong></p><p>保安距離は、危険物施設と<span class=\"marker marker-blue\" data-marker-id=\"law-013-m001\">周囲の保安対象物との間</span>に保つ距離である。</p><p>保有空地は、危険物施設の<span class=\"marker marker-blue\" data-marker-id=\"law-013-m002\">周囲に確保する空地</span>であり、消火活動・延焼防止のために設ける。</p><p>保安距離な5施設</p><p>　製造所、屋内貯蔵所、屋外タンク貯蔵所、屋外貯蔵所、一般取扱所</p><p>保有空地は上記の5つに次の2施設を足して7施設</p><p>　屋外の簡易タンク貯蔵所、地上の移送取扱所</p><p><strong class=\"body-subheading\">保安距離</strong></p><p>保安距離は、危険物施設と<span class=\"marker marker-blue\" data-marker-id=\"law-013-m003\">周囲の保安対象物との間</span>に保つ距離である。</p><p>保安距離化必要な施設は、<span class=\"marker marker-red\" data-marker-id=\"law-013-m004\">製造所</span>・<span class=\"marker marker-red\" data-marker-id=\"law-013-m005\">屋内貯蔵所</span>・<span class=\"marker marker-red\" data-marker-id=\"law-013-m006\">屋外タンク貯蔵所</span>・<span class=\"marker marker-red\" data-marker-id=\"law-013-m007\">屋外貯蔵所</span>・<span class=\"marker marker-red\" data-marker-id=\"law-013-m008\">一般取扱所</span>である。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-013-m009\">給油取扱所</span>、<span class=\"marker marker-red\" data-marker-id=\"law-013-m010\">地下タンク貯蔵所</span>、<span class=\"marker marker-red\" data-marker-id=\"law-013-m011\">移動タンク貯蔵所</span>については、保安距離は不要である。</p><p><strong class=\"body-subheading\">主な距離</strong></p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m012\">特別高圧架空電線（7,000V 〜 35,000V）</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m013\">3m</span> 以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m014\">特別高圧架空電線（35,000V 超）</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m015\">5m </span>以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m016\">住居</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m017\">10m</span> 以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m018\">高圧ガス施設等</span> ： <span class=\"marker marker-red\" data-marker-id=\"law-013-m019\">20m</span> 以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m020\">学校</span><span class=\"marker marker-blue\" data-marker-id=\"law-013-m021\">（大学は含まない）</span><span class=\"marker marker-blue\" data-marker-id=\"law-013-m022\">・病院・劇場など（多数収容）</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m023\">30m</span> 以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m024\">重要文化財など</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m025\">50m</span> 以上</p><p><strong class=\"body-subheading\">保有空地</strong></p><p>保有空地は、危険物施設の<span class=\"marker marker-blue\" data-marker-id=\"law-013-m026\">周囲に確保する空地</span>であり、消火活動・延焼防止のために設ける。</p><p>保有空地が必要な施設は、保安距離が必要な５施設に、<span class=\"marker marker-blue\" data-marker-id=\"law-013-m027\">屋外に設置する簡易タンク貯蔵所</span>と、<span class=\"marker marker-blue\" data-marker-id=\"law-013-m028\">地上に設置する移送取扱所</span>を加えたものである。</p><p>保有空地は、指定数量の倍数が<span class=\"marker marker-red\" data-marker-id=\"law-013-m029\">10以下</span>なら<span class=\"marker marker-red\" data-marker-id=\"law-013-m030\">3m</span>以上、<span class=\"marker marker-red\" data-marker-id=\"law-013-m031\">10</span>を超えるなら<span class=\"marker marker-red\" data-marker-id=\"law-013-m032\">5m</span>以上である。</p>",
+    "body": "<p><strong class=\"body-subheading\">保安距離と保有空地の違い</strong></p><p>保安距離は、危険物施設と<span class=\"marker marker-blue\" data-marker-id=\"law-013-m001\">周囲の保安対象物との間</span>に保つ距離である。</p><p>保有空地は、危険物施設の<span class=\"marker marker-blue\" data-marker-id=\"law-013-m002\">周囲に確保する空地</span>であり、消火活動・延焼防止のために設ける。</p><p>保安距離な5施設</p><p>　製造所、屋内貯蔵所、屋外タンク貯蔵所、屋外貯蔵所、一般取扱所</p><p>保有空地は上記の5つに次の2施設を足して7施設</p><p>　屋外の簡易タンク貯蔵所、地上の移送取扱所</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">保安距離</mark></strong></p><p>保安距離は、危険物施設と<span class=\"marker marker-blue\" data-marker-id=\"law-013-m003\">周囲の保安対象物との間</span>に保つ距離である。</p><p>保安距離化必要な施設は、<span class=\"marker marker-red\" data-marker-id=\"law-013-m004\">製造所</span>・<span class=\"marker marker-red\" data-marker-id=\"law-013-m005\">屋内貯蔵所</span>・<span class=\"marker marker-red\" data-marker-id=\"law-013-m006\">屋外タンク貯蔵所</span>・<span class=\"marker marker-red\" data-marker-id=\"law-013-m007\">屋外貯蔵所</span>・<span class=\"marker marker-red\" data-marker-id=\"law-013-m008\">一般取扱所</span>である。</p><p><span class=\"marker marker-red\" data-marker-id=\"law-013-m009\">給油取扱所</span>、<span class=\"marker marker-red\" data-marker-id=\"law-013-m010\">地下タンク貯蔵所</span>、<span class=\"marker marker-red\" data-marker-id=\"law-013-m011\">移動タンク貯蔵所</span>については、保安距離は不要である。</p><p><strong class=\"body-subheading\">主な距離</strong></p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m012\">特別高圧架空電線（7,000V 〜 35,000V）</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m013\">3m</span> 以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m014\">特別高圧架空電線（35,000V 超）</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m015\">5m </span>以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m016\">住居</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m017\">10m</span> 以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m018\">高圧ガス施設等</span> ： <span class=\"marker marker-red\" data-marker-id=\"law-013-m019\">20m</span> 以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m020\">学校</span><span class=\"marker marker-blue\" data-marker-id=\"law-013-m021\">（大学は含まない）</span><span class=\"marker marker-blue\" data-marker-id=\"law-013-m022\">・病院・劇場など（多数収容）</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m023\">30m</span> 以上</p><p><span class=\"marker marker-blue\" data-marker-id=\"law-013-m024\">重要文化財など</span>： <span class=\"marker marker-red\" data-marker-id=\"law-013-m025\">50m</span> 以上</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">保有空地</mark></strong></p><p>保有空地は、危険物施設の<span class=\"marker marker-blue\" data-marker-id=\"law-013-m026\">周囲に確保する空地</span>であり、消火活動・延焼防止のために設ける。</p><p>保有空地が必要な施設は、保安距離が必要な５施設に、<span class=\"marker marker-blue\" data-marker-id=\"law-013-m027\">屋外に設置する簡易タンク貯蔵所</span>と、<span class=\"marker marker-blue\" data-marker-id=\"law-013-m028\">地上に設置する移送取扱所</span>を加えたものである。</p><p>保有空地は、指定数量の倍数が<span class=\"marker marker-red\" data-marker-id=\"law-013-m029\">10以下</span>なら<span class=\"marker marker-red\" data-marker-id=\"law-013-m030\">3m</span>以上、<span class=\"marker marker-red\" data-marker-id=\"law-013-m031\">10</span>を超えるなら<span class=\"marker marker-red\" data-marker-id=\"law-013-m032\">5m</span>以上である。</p>",
     "questions": [
       {
         "id": "law-013-q001",
         "questionNo": 72,
-        "question": "<p>保安距離に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>保安距離に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "すべての製造所等に保安距離の規定が適用される。",
           "製造所、屋内貯蔵所、屋外タンク貯蔵所、屋外貯蔵所、一般取扱所に保安距離の規定が適用される。",
@@ -1105,7 +1105,7 @@
       {
         "id": "law-013-q002",
         "questionNo": 73,
-        "question": "<p>製造所と学校・病院との間に確保すべき保安距離として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所と学校・病院との間に確保すべき保安距離として、正しいものはどれか。</strong></p>",
         "choices": [
           "10m以上",
           "20m以上",
@@ -1118,7 +1118,7 @@
       {
         "id": "law-013-q003",
         "questionNo": 74,
-        "question": "<p>製造所と重要文化財との間に確保すべき保安距離として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所と重要文化財との間に確保すべき保安距離として、正しいものはどれか。</strong></p>",
         "choices": [
           "10m以上",
           "20m以上",
@@ -1131,7 +1131,7 @@
       {
         "id": "law-013-q004",
         "questionNo": 75,
-        "question": "<p>保有空地が必要な施設として、誤っているものはどれか。</p>",
+        "question": "<p><strong>保有空地が必要な施設として、誤っているものはどれか。</strong></p>",
         "choices": [
           "製造所",
           "屋外タンク貯蔵所",
@@ -1144,7 +1144,7 @@
       {
         "id": "law-013-q005",
         "questionNo": 76,
-        "question": "<p>指定数量の倍数が15の製造所における保有空地の幅として、正しいものはどれか。</p>",
+        "question": "<p><strong>指定数量の倍数が15の製造所における保有空地の幅として、正しいものはどれか。</strong></p>",
         "choices": [
           "3m以上",
           "5m以上",
@@ -1157,7 +1157,7 @@
       {
         "id": "law-013-q006",
         "questionNo": 77,
-        "question": "<p>保有空地と保安距離の違いに関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>保有空地と保安距離の違いに関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "保有空地は周辺の住民への影響を軽減するための距離であり、保安距離は消火活動のための空間である。",
           "保有空地は消火活動のための空間であり、保安距離は周辺の保安対象物との距離である。",
@@ -1183,7 +1183,7 @@
       {
         "id": "law-014-q001",
         "questionNo": 78,
-        "question": "<p>製造所等の標識の大きさに関する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所等の標識の大きさに関する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "0.2m平方以上0.3m平方以下",
           "0.3m平方以上0.4m平方以下",
@@ -1196,7 +1196,7 @@
       {
         "id": "law-014-q002",
         "questionNo": 79,
-        "question": "<p>第3類危険物（自然発火性物質）を貯蔵する施設の注意事項を表示する掲示板として、正しいものはどれか。</p>",
+        "question": "<p><strong>第3類危険物（自然発火性物質）を貯蔵する施設の注意事項を表示する掲示板として、正しいものはどれか。</strong></p>",
         "choices": [
           "「火気注意」、地は赤色、文字は白色",
           "「火気厳禁」、地は赤色、文字は白色",
@@ -1209,7 +1209,7 @@
       {
         "id": "law-014-q003",
         "questionNo": 80,
-        "question": "<p>危険物保安監督者の選任が必要な施設の掲示板に表示すべき事項として、誤っているものはどれか。</p>",
+        "question": "<p><strong>危険物保安監督者の選任が必要な施設の掲示板に表示すべき事項として、誤っているものはどれか。</strong></p>",
         "choices": [
           "危険物の類、品名",
           "貯蔵最大数量または取扱最大数量",
@@ -1222,7 +1222,7 @@
       {
         "id": "law-014-q004",
         "questionNo": 81,
-        "question": "<p>危険物の貯蔵の基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物の貯蔵の基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "許可された数量を超えて貯蔵してもよい場合がある。",
           "許可・届出された数量または指定数量の倍数を超えて貯蔵してはならない。",
@@ -1235,7 +1235,7 @@
       {
         "id": "law-014-q005",
         "questionNo": 82,
-        "question": "<p>危険物の取扱いの基準として、誤っているものはどれか。</p>",
+        "question": "<p><strong>危険物の取扱いの基準として、誤っているものはどれか。</strong></p>",
         "choices": [
           "みだりに蒸気を発生させたり、危険物を漏出・流出させたりしない。",
           "危険物を加熱・乾燥する場合は、直火を用いない。",
@@ -1248,7 +1248,7 @@
       {
         "id": "law-014-q006",
         "questionNo": 83,
-        "question": "<p>屋内貯蔵所における同一の貯蔵倉庫内で類を異にする危険物を貯蔵する場合の基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>屋内貯蔵所における同一の貯蔵倉庫内で類を異にする危険物を貯蔵する場合の基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "いかなる場合も類を異にする危険物の同時貯蔵は禁止される。",
           "原則として1m以上の間隔を置けば、一定の条件下で貯蔵できる場合がある。",
@@ -1261,7 +1261,7 @@
       {
         "id": "law-014-q007",
         "questionNo": 84,
-        "question": "<p>運搬容器の外部に表示すべき事項として、誤っているものはどれか。</p>",
+        "question": "<p><strong>運搬容器の外部に表示すべき事項として、誤っているものはどれか。</strong></p>",
         "choices": [
           "品名",
           "危険等級",
@@ -1274,7 +1274,7 @@
       {
         "id": "law-014-q008",
         "questionNo": 85,
-        "question": "<p>危険物の運搬時の混載に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物の運搬時の混載に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "すべての類の危険物は自由に混載できる。",
           "第4類は、混載が禁止されている組み合わせ（第1類・第6類等）を除き、一定の類と混載可能である。",
@@ -1287,7 +1287,7 @@
       {
         "id": "law-014-q009",
         "questionNo": 86,
-        "question": "<p>運搬容器を積み重ねる場合の高さの基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>運搬容器を積み重ねる場合の高さの基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "1m以下",
           "3m以下",
@@ -1300,7 +1300,7 @@
       {
         "id": "law-014-q010",
         "questionNo": 87,
-        "question": "<p>指定数量以上の危険物を車両で運搬する場合に掲げる標識として、正しいものはどれか。</p>",
+        "question": "<p><strong>指定数量以上の危険物を車両で運搬する場合に掲げる標識として、正しいものはどれか。</strong></p>",
         "choices": [
           "0.3m平方以上の板に、黒地に黄色の反射塗料等で「危」と表示する。",
           "0.1m平方の板に、白地に黒色で「危」と表示する。",
@@ -1313,7 +1313,7 @@
       {
         "id": "law-014-q011",
         "questionNo": 88,
-        "question": "<p>危険物の運搬に関する法令上の基準は、どの範囲に適用されるか。</p>",
+        "question": "<p><strong>危険物の運搬に関する法令上の基準は、どの範囲に適用されるか。</strong></p>",
         "choices": [
           "指定数量以上を運搬する場合に限って適用される。",
           "指定数量の10倍以上を運搬する場合に限って適用される。",
@@ -1326,7 +1326,7 @@
       {
         "id": "law-014-q012",
         "questionNo": 89,
-        "question": "<p>危険物の『運搬』と『移送』の区別として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物の『運搬』と『移送』の区別として、正しいものはどれか。</strong></p>",
         "choices": [
           "運搬は移動タンク貯蔵所で運ぶことで、危険物取扱者の乗車が必要である。",
           "移送は容器をトラックで運ぶことで、危険物取扱者の乗車は不要である。",
@@ -1339,7 +1339,7 @@
       {
         "id": "law-014-q013",
         "questionNo": 90,
-        "question": "<p>液体の危険物を運搬容器に収納する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>液体の危険物を運搬容器に収納する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "内容積の98％以下とし、55℃でも漏れない空間を残す。",
           "内容積の100％まで満たし、空間を残さない。",
@@ -1352,7 +1352,7 @@
       {
         "id": "law-014-q014",
         "questionNo": 91,
-        "question": "<p>第4類危険物の危険等級の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>第4類危険物の危険等級の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "特殊引火物は危険等級I、第1石油類・アルコール類はII、第2石油類以降はIIIである。",
           "特殊引火物は危険等級III、第1石油類・アルコール類はII、第2石油類以降はIである。",
@@ -1378,7 +1378,7 @@
       {
         "id": "law-015-q001",
         "questionNo": 92,
-        "question": "<p>消火設備の種別に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>消火設備の種別に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "第1種：大型消火器",
           "第2種：スプリンクラー設備",
@@ -1391,7 +1391,7 @@
       {
         "id": "law-015-q002",
         "questionNo": 93,
-        "question": "<p>危険物の指定数量に基づく所要単位の算定方法として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物の指定数量に基づく所要単位の算定方法として、正しいものはどれか。</strong></p>",
         "choices": [
           "指定数量の1倍を1所要単位とする。",
           "指定数量の10倍を1所要単位とする。",
@@ -1404,7 +1404,7 @@
       {
         "id": "law-015-q003",
         "questionNo": 94,
-        "question": "<p>警報設備の種類として、誤っているものはどれか。</p>",
+        "question": "<p><strong>警報設備の種類として、誤っているものはどれか。</strong></p>",
         "choices": [
           "自動火災報知設備",
           "拡声装置",
@@ -1417,7 +1417,7 @@
       {
         "id": "law-015-q004",
         "questionNo": 95,
-        "question": "<p>市町村長等が行うことができる命令として、誤っているものはどれか。</p>",
+        "question": "<p><strong>市町村長等が行うことができる命令として、誤っているものはどれか。</strong></p>",
         "choices": [
           "基準に適合しない製造所等への修理・改造・移転命令",
           "危険物の貯蔵・取扱基準遵守命令",
@@ -1430,7 +1430,7 @@
       {
         "id": "law-015-q005",
         "questionNo": 96,
-        "question": "<p>製造所等の許可の取消し、または使用停止命令の対象となる事由として、誤っているものはどれか。</p>",
+        "question": "<p><strong>製造所等の許可の取消し、または使用停止命令の対象となる事由として、誤っているものはどれか。</strong></p>",
         "choices": [
           "完成検査済証の交付前に製造所等を使用したとき（仮使用の承認を受けた場合を除く）",
           "保安検査を受けないとき",
@@ -1443,7 +1443,7 @@
       {
         "id": "law-015-q006",
         "questionNo": 97,
-        "question": "<p>消火困難性に応じた消火設備の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>消火困難性に応じた消火設備の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "著しく消火困難な製造所等には、第4種と第5種だけを設ける。",
           "著しく消火困難な製造所等には、第1種から第3種までのいずれかに加え、第4種と第5種を設ける。",
@@ -1456,7 +1456,7 @@
       {
         "id": "law-015-q007",
         "questionNo": 98,
-        "question": "<p>第3種消火設備だけをすべて挙げたものはどれか。</p>",
+        "question": "<p><strong>第3種消火設備だけをすべて挙げたものはどれか。</strong></p>",
         "choices": [
           "屋内消火栓設備、屋外消火栓設備",
           "スプリンクラー設備、大型消火器",
@@ -1482,7 +1482,7 @@
       {
         "id": "law-016-q001",
         "questionNo": 99,
-        "question": "<p>製造所等における危険物の流出事故発生時の措置として、正しいものはどれか。</p>",
+        "question": "<p><strong>製造所等における危険物の流出事故発生時の措置として、正しいものはどれか。</strong></p>",
         "choices": [
           "まず保険会社に連絡し、その後対応を検討する。",
           "直ちに引き続く危険物の流出及び拡散の防止措置を講じ、消防署等へ通報する。",
@@ -1495,7 +1495,7 @@
       {
         "id": "law-016-q002",
         "questionNo": 100,
-        "question": "<p>市町村長等が、災害発生防止のため緊急の必要があると認める場合に行うことができる措置として、正しいものはどれか。</p>",
+        "question": "<p><strong>市町村長等が、災害発生防止のため緊急の必要があると認める場合に行うことができる措置として、正しいものはどれか。</strong></p>",
         "choices": [
           "製造所等の所有者等に対し、危険物の除去その他災害防止のための必要な措置を講じることを命じることができる。",
           "危険物取扱者免状を直ちに無効にすることができる。",

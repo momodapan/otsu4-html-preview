@@ -14,7 +14,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-001-q001",
         "questionNo": 1,
-        "question": "<p>第４類危険物の燃焼形式として、最も重要なものはどれか。</p>",
+        "question": "<p><strong>第４類危険物の燃焼形式として、最も重要なものはどれか。</strong></p>",
         "choices": [
           "表面燃焼",
           "分解燃焼",
@@ -27,7 +27,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-001-q002",
         "questionNo": 2,
-        "question": "<p>第４類危険物の危険性に関する一般的な判断として、正しいものはどれか。</p>",
+        "question": "<p><strong>第４類危険物の危険性に関する一般的な判断として、正しいものはどれか。</strong></p>",
         "choices": [
           "引火点が低いほど危険性が高い。",
           "引火点が低いほど危険性が低い。",
@@ -40,7 +40,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-001-q003",
         "questionNo": 3,
-        "question": "<p>第４類危険物の蒸気に関する一般的性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>第４類危険物の蒸気に関する一般的性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "多くは空気より軽く、高所に滞留しやすい。",
           "多くは空気より重く、低所に滞留しやすい。",
@@ -53,7 +53,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-001-q004",
         "questionNo": 4,
-        "question": "<p>第４類危険物の静電気対策として、適切なものはどれか。</p>",
+        "question": "<p><strong>第４類危険物の静電気対策として、適切なものはどれか。</strong></p>",
         "choices": [
           "流速をできるだけ速くして短時間で注入する。",
           "設備・容器・配管を接地し、静電気を逃がす。",
@@ -79,7 +79,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-002-q001",
         "questionNo": 5,
-        "question": "<p>第４類危険物火災の基本的な消火方法として、正しいものはどれか。</p>",
+        "question": "<p><strong>第４類危険物火災の基本的な消火方法として、正しいものはどれか。</strong></p>",
         "choices": [
           "液面を覆い、酸素供給と蒸気発生を妨げる窒息消火が中心となる。",
           "棒状の水を大量にかける方法だけが有効である。",
@@ -92,7 +92,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-002-q002",
         "questionNo": 6,
-        "question": "<p>アルコール類など水溶性液体の火災に通常の泡消火剤を使う場合の問題として、正しいものはどれか。</p>",
+        "question": "<p><strong>アルコール類など水溶性液体の火災に通常の泡消火剤を使う場合の問題として、正しいものはどれか。</strong></p>",
         "choices": [
           "泡が液体に溶けて破壊され、十分な効果を得にくい。",
           "泡が必ず爆発する。",
@@ -105,7 +105,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-002-q003",
         "questionNo": 7,
-        "question": "<p>動植物油類の火災への対応として、適切なものはどれか。</p>",
+        "question": "<p><strong>動植物油類の火災への対応として、適切なものはどれか。</strong></p>",
         "choices": [
           "高温の油に棒状の水を直接かける。",
           "ふた等で覆う、または適切な消火器を使用する。",
@@ -126,12 +126,12 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
     "intro": "<p><strong>まず押さえる：</strong>第4類危険物は、危険性の近いものを品名というグループに分け、品名ごとに規制の基準となる指定数量を定めています。名前や用途の印象だけではなく、引火点や水溶性などの性質と数値で分類します。</p><p><strong>試験では：</strong>物質名、引火点、水溶性などから品名を判断し、指定数量を選ぶ問題が出ます。水溶性か非水溶性かで指定数量が変わる品名にも注意が必要です。</p><p><strong>本文の焦点：</strong>代表物質・品名・指定数量を一組で押さえ、数値だけを孤立させずに判断できるようにします。</p>",
     "introImage": "images/properties-003.png",
     "introImageAlt": "品名区分と指定数量を示すイラスト",
-    "body": "<p>指定数量は、危険物の品名ごとに定められた法令上の基準量（リットル）である。</p><p>法定区分の引火点・発火点・沸点は、原則として1気圧での値。</p><p>第3石油類、第4石油類、動植物油類は、1気圧・20℃で<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m001\">液状</span>であるものに限られる。</p><p>また、組成や貯蔵・保管の条件により、省令で危険物の品名から除かれる物品がある。</p><p><strong class=\"body-subheading\">特殊引火物</strong></p><p>定義：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m002\">ジエチルエーテル</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m003\">二硫化炭素</span>、その他1気圧で次のいずれかに当てはまるもの。</p><p>発火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m004\">100℃</span>以下</p><p>引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m005\">-20℃</span>以下<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m006\">かつ</span>沸点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m007\">40℃</span>以下</p><p>指定数量：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m008\">50 L</span></p><p>代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m009\">ジエチルエーテル</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m010\">二硫化炭素</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m011\">アセトアルデヒド</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m012\">酸化プロピレン</span></p><p>「発火点<span class=\"marker marker-red\" data-marker-id=\"properties-003-m013\">100℃</span>以下」と「引火点<span class=\"marker marker-red\" data-marker-id=\"properties-003-m014\">-20℃</span>以下かつ沸点<span class=\"marker marker-red\" data-marker-id=\"properties-003-m015\">40℃</span>以下」は、「または」で結ばれる。</p><p>例えば、二硫化炭素は沸点が約46℃でも、発火点が約90℃のため特殊引火物である。</p><p><strong class=\"body-subheading\">第1石油類</strong></p><p>定義：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m016\">アセトン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m017\">ガソリン</span>、その他1気圧で引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m018\">21℃</span>未満のもの</p><p>指定数量：非水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m019\">200 L</span>、水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m020\">400 L</span></p><p>非水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m021\">ガソリン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m022\">ベンゼン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m023\">トルエン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m024\">酢酸エチル</span></p><p>水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m025\">アセトン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m026\">ピリジン</span></p><p><strong class=\"body-subheading\">アルコール類</strong></p><p>定義：1分子を構成する炭素原子が<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m027\">1～3</span>個の飽和一価アルコール。変性アルコールを含む。</p><p>飽和は炭素同士の結合が単結合だけであること、一価は1分子にヒドロキシ基（-OH）が1個あることを示す。</p><p>アルコール含有量<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m028\">60％</span>（重量％）未満の水溶液など、省令で定めるものは除かれる。</p><p>指定数量：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m029\">400 L</span></p><p>代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m030\">メタノール</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m031\">エタノール</span></p><p><strong class=\"body-subheading\">第2石油類</strong></p><p>定義：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m032\">灯油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m033\">軽油</span>、その他1気圧で引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m034\">21℃</span>以上<span class=\"marker marker-red\" data-marker-id=\"properties-003-m035\">70℃</span>未満のもの</p><p>指定数量：非水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m036\">1,000 L</span>、水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m037\">2,000 L</span></p><p>非水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m038\">灯油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m039\">軽油</span>、<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m040\">キシレン</span></p><p>水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m041\">酢酸</span></p><p><strong class=\"body-subheading\">第3石油類</strong></p><p>定義：重油、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m042\">クレオソート油</span>、その他1気圧で引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m043\">70℃</span>以上<span class=\"marker marker-red\" data-marker-id=\"properties-003-m044\">200℃</span>未満のもの</p><p>指定数量：非水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m045\">2,000 L</span>、水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m046\">4,000 L</span></p><p>非水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m047\">重油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m048\">クレオソート油</span>、<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m049\">ニトロベンゼン</span>、<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m050\">アニリン</span></p><p>水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m051\">グリセリン</span></p><p><strong class=\"body-subheading\">第4石油類</strong></p><p>定義：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m052\">ギヤー油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m053\">シリンダー油</span>、その他1気圧で引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m054\">200℃</span>以上<span class=\"marker marker-red\" data-marker-id=\"properties-003-m055\">250℃</span>未満のもの</p><p>指定数量：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m056\">6,000 L</span></p><p>代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m057\">ギヤー油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m058\">シリンダー油</span></p><p><strong class=\"body-subheading\">動植物油類</strong></p><p>定義：動物の脂肉など、または植物の種子・果肉から抽出したもので、1気圧で引火点が250℃未満のもの</p><p>省令の基準に従い、一定のタンクや容器に常温・非加圧などの条件で貯蔵・保管されるものは、動植物油類から除かれる。</p><p>指定数量：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m059\">10,000 L</span></p><p>代表例：<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m060\">乾性油</span>の<span class=\"marker marker-red\" data-marker-id=\"properties-003-m061\">アマニ油</span>、半乾性油の<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m062\">ナタネ油</span>、不乾性油の<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m063\">オリーブ油</span></p>",
+    "body": "<p>指定数量は、危険物の品名ごとに定められた法令上の基準量（リットル）である。</p><p>法定区分の引火点・発火点・沸点は、原則として1気圧での値。</p><p>第3石油類、第4石油類、動植物油類は、1気圧・20℃で<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m001\">液状</span>であるものに限られる。</p><p>また、組成や貯蔵・保管の条件により、省令で危険物の品名から除かれる物品がある。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">特殊引火物</mark></strong></p><p>定義：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m002\">ジエチルエーテル</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m003\">二硫化炭素</span>、その他1気圧で次のいずれかに当てはまるもの。</p><p>発火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m004\">100℃</span>以下</p><p>引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m005\">-20℃</span>以下<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m006\">かつ</span>沸点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m007\">40℃</span>以下</p><p>指定数量：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m008\">50 L</span></p><p>代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m009\">ジエチルエーテル</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m010\">二硫化炭素</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m011\">アセトアルデヒド</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m012\">酸化プロピレン</span></p><p>「発火点<span class=\"marker marker-red\" data-marker-id=\"properties-003-m013\">100℃</span>以下」と「引火点<span class=\"marker marker-red\" data-marker-id=\"properties-003-m014\">-20℃</span>以下かつ沸点<span class=\"marker marker-red\" data-marker-id=\"properties-003-m015\">40℃</span>以下」は、「または」で結ばれる。</p><p>例えば、二硫化炭素は沸点が約46℃でも、発火点が約90℃のため特殊引火物である。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">第1石油類</mark></strong></p><p>定義：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m016\">アセトン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m017\">ガソリン</span>、その他1気圧で引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m018\">21℃</span>未満のもの</p><p>指定数量：非水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m019\">200 L</span>、水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m020\">400 L</span></p><p>非水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m021\">ガソリン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m022\">ベンゼン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m023\">トルエン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m024\">酢酸エチル</span></p><p>水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m025\">アセトン</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m026\">ピリジン</span></p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">アルコール類</mark></strong></p><p>定義：1分子を構成する炭素原子が<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m027\">1～3</span>個の飽和一価アルコール。変性アルコールを含む。</p><p>飽和は炭素同士の結合が単結合だけであること、一価は1分子にヒドロキシ基（-OH）が1個あることを示す。</p><p>アルコール含有量<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m028\">60％</span>（重量％）未満の水溶液など、省令で定めるものは除かれる。</p><p>指定数量：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m029\">400 L</span></p><p>代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m030\">メタノール</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m031\">エタノール</span></p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">第2石油類</mark></strong></p><p>定義：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m032\">灯油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m033\">軽油</span>、その他1気圧で引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m034\">21℃</span>以上<span class=\"marker marker-red\" data-marker-id=\"properties-003-m035\">70℃</span>未満のもの</p><p>指定数量：非水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m036\">1,000 L</span>、水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m037\">2,000 L</span></p><p>非水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m038\">灯油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m039\">軽油</span>、<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m040\">キシレン</span></p><p>水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m041\">酢酸</span></p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">第3石油類</mark></strong></p><p>定義：重油、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m042\">クレオソート油</span>、その他1気圧で引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m043\">70℃</span>以上<span class=\"marker marker-red\" data-marker-id=\"properties-003-m044\">200℃</span>未満のもの</p><p>指定数量：非水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m045\">2,000 L</span>、水溶性液体<span class=\"marker marker-red\" data-marker-id=\"properties-003-m046\">4,000 L</span></p><p>非水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m047\">重油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m048\">クレオソート油</span>、<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m049\">ニトロベンゼン</span>、<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m050\">アニリン</span></p><p>水溶性の代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m051\">グリセリン</span></p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">第4石油類</mark></strong></p><p>定義：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m052\">ギヤー油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m053\">シリンダー油</span>、その他1気圧で引火点が<span class=\"marker marker-red\" data-marker-id=\"properties-003-m054\">200℃</span>以上<span class=\"marker marker-red\" data-marker-id=\"properties-003-m055\">250℃</span>未満のもの</p><p>指定数量：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m056\">6,000 L</span></p><p>代表例：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m057\">ギヤー油</span>、<span class=\"marker marker-red\" data-marker-id=\"properties-003-m058\">シリンダー油</span></p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">動植物油類</mark></strong></p><p>定義：動物の脂肉など、または植物の種子・果肉から抽出したもので、1気圧で引火点が250℃未満のもの</p><p>省令の基準に従い、一定のタンクや容器に常温・非加圧などの条件で貯蔵・保管されるものは、動植物油類から除かれる。</p><p>指定数量：<span class=\"marker marker-red\" data-marker-id=\"properties-003-m059\">10,000 L</span></p><p>代表例：<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m060\">乾性油</span>の<span class=\"marker marker-red\" data-marker-id=\"properties-003-m061\">アマニ油</span>、半乾性油の<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m062\">ナタネ油</span>、不乾性油の<span class=\"marker marker-blue\" data-marker-id=\"properties-003-m063\">オリーブ油</span></p>",
     "questions": [
       {
         "id": "properties-003-q001",
         "questionNo": 8,
-        "question": "<p>第４類危険物の品名と引火点の関係として、正しいものはどれか。</p>",
+        "question": "<p><strong>第４類危険物の品名と引火点の関係として、正しいものはどれか。</strong></p>",
         "choices": [
           "第１石油類は引火点21℃未満、第２石油類は21℃以上70℃未満である。",
           "第２石油類は引火点70℃以上200℃未満である。",
@@ -144,7 +144,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-003-q002",
         "questionNo": 9,
-        "question": "<p>指定数量の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>指定数量の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "特殊引火物50L、第１石油類非水溶性200L、アルコール類400L",
           "特殊引火物400L、第１石油類非水溶性50L、アルコール類200L",
@@ -157,7 +157,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-003-q003",
         "questionNo": 10,
-        "question": "<p>指定数量の小さい順、すなわち危険性が高い順として、最も適切なものはどれか。</p>",
+        "question": "<p><strong>指定数量の小さい順、すなわち危険性が高い順として、最も適切なものはどれか。</strong></p>",
         "choices": [
           "動植物油類 ＞ 第４石油類 ＞ 第３石油類 ＞ 特殊引火物",
           "特殊引火物 ＞ 第１石油類非水溶性 ＞ 第１石油類水溶性・アルコール類 ＞ 第２石油類非水溶性",
@@ -170,7 +170,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-003-q004",
         "questionNo": 11,
-        "question": "<p>第4類危険物の品名区分と代表物質の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>第4類危険物の品名区分と代表物質の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "ジエチルエーテル―特殊引火物",
           "ガソリン―第2石油類",
@@ -191,12 +191,12 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
     "intro": "<p><strong>まず押さえる：</strong>特殊引火物は、第4類の中でも特に火がつきやすく、少量でも厳しく規制されるグループです。指定数量が50 Lと小さいことからも、規制上の危険性の高さが分かります。代表物質ごとに、特に注意すべき性質があります。</p><p><strong>試験では：</strong>二硫化炭素、ジエチルエーテル、アセトアルデヒド、酸化プロピレンについて、数値・性質・取扱い上の注意を問います。</p><p><strong>本文の焦点：</strong>四つの代表物質を丸暗記するのではなく、水より重い、過酸化物をつくる、重合しやすいなどの識別ポイントで区別します。</p>",
     "introImage": "images/properties-004.png",
     "introImageAlt": "特殊引火物を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\">ジエチルエーテル</strong></p><p>引火点約<span class=\"marker marker-red\" data-marker-id=\"properties-004-m001\">-45℃</span>、沸点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m002\">35℃</span>、発火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m003\">175℃</span></p><p>水には限られた量が溶ける。液体は水より軽く、蒸気は空気より重い物質である。</p><p>揮発しやすく、蒸気は離れた点火源まで流れることがある。</p><p>光や空気の影響で<span class=\"marker marker-red\" data-marker-id=\"properties-004-m004\">爆発性の過酸化物</span>を生じることがある。<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m005\">遮光し、密栓して冷所</span>に保管する。</p><p>代表用途：有機溶剤、抽出用の溶媒</p><p><strong class=\"body-subheading\">二硫化炭素</strong></p><p>引火点約<span class=\"marker marker-red\" data-marker-id=\"properties-004-m006\">-30℃</span>、沸点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m007\">46℃</span>、発火点約<span class=\"marker marker-red\" data-marker-id=\"properties-004-m008\">90℃</span></p><p>水に<span class=\"marker marker-red\" data-marker-id=\"properties-004-m009\">溶けにくく</span>、水より<span class=\"marker marker-red\" data-marker-id=\"properties-004-m010\">重い</span>物質。蒸気は空気より重く<span class=\"marker marker-red\" data-marker-id=\"properties-004-m011\">有毒である。</span></p><p>沸点は40℃を超えるが、発火点が100℃以下なので特殊引火物である。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-004-m012\">水の下に沈めて</span>貯蔵し、蒸発を抑える。</p><p>代表用途：レーヨン・セロハンの製造、ゴム用溶剤</p><p><strong class=\"body-subheading\">アセトアルデヒド</strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m013\">-38℃</span>、沸点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m014\">20℃</span>、発火点約185℃</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-004-m015\">任意の割合で混ざる</span>。液体は水より軽く、蒸気は空気より重い物質である。</p><p>酸化されやすく、酢酸になる。空気と接触すると<span class=\"marker marker-red\" data-marker-id=\"properties-004-m016\">爆発性の過酸化物</span>を生じることがあり、<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m017\">重合</span>による火災・爆発にも注意する。</p><p>銅、マグネシウム、銀、水銀などとの接触により、<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m018\">重合</span>などの発熱反応が起こり、火災・爆発につながるおそれがあるため、これらを含む設備材料を使用しない。</p><p>代表用途：酢酸、合成樹脂などの原料</p><p><strong class=\"body-subheading\">酸化プロピレン</strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m019\">-37℃</span>、沸点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m020\">34℃</span>、発火点約465℃</p><p>水に溶け、液体は水より軽く、蒸気は空気より重い物質である。</p><p>酸、塩基、金属塩化物などの影響で激しく<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m021\">重合</span>し、<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m022\">火災・爆発</span>を起こすことがある。</p><p>代表用途：プロピレングリコール、ポリウレタン原料の製造</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">ジエチルエーテル</mark></strong></p><p>引火点約<span class=\"marker marker-red\" data-marker-id=\"properties-004-m001\">-45℃</span>、沸点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m002\">35℃</span>、発火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m003\">175℃</span></p><p>水には限られた量が溶ける。液体は水より軽く、蒸気は空気より重い物質である。</p><p>揮発しやすく、蒸気は離れた点火源まで流れることがある。</p><p>光や空気の影響で<span class=\"marker marker-red\" data-marker-id=\"properties-004-m004\">爆発性の過酸化物</span>を生じることがある。<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m005\">遮光し、密栓して冷所</span>に保管する。</p><p>代表用途：有機溶剤、抽出用の溶媒</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">二硫化炭素</mark></strong></p><p>引火点約<span class=\"marker marker-red\" data-marker-id=\"properties-004-m006\">-30℃</span>、沸点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m007\">46℃</span>、発火点約<span class=\"marker marker-red\" data-marker-id=\"properties-004-m008\">90℃</span></p><p>水に<span class=\"marker marker-red\" data-marker-id=\"properties-004-m009\">溶けにくく</span>、水より<span class=\"marker marker-red\" data-marker-id=\"properties-004-m010\">重い</span>物質。蒸気は空気より重く<span class=\"marker marker-red\" data-marker-id=\"properties-004-m011\">有毒である。</span></p><p>沸点は40℃を超えるが、発火点が100℃以下なので特殊引火物である。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-004-m012\">水の下に沈めて</span>貯蔵し、蒸発を抑える。</p><p>代表用途：レーヨン・セロハンの製造、ゴム用溶剤</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">アセトアルデヒド</mark></strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m013\">-38℃</span>、沸点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m014\">20℃</span>、発火点約185℃</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-004-m015\">任意の割合で混ざる</span>。液体は水より軽く、蒸気は空気より重い物質である。</p><p>酸化されやすく、酢酸になる。空気と接触すると<span class=\"marker marker-red\" data-marker-id=\"properties-004-m016\">爆発性の過酸化物</span>を生じることがあり、<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m017\">重合</span>による火災・爆発にも注意する。</p><p>銅、マグネシウム、銀、水銀などとの接触により、<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m018\">重合</span>などの発熱反応が起こり、火災・爆発につながるおそれがあるため、これらを含む設備材料を使用しない。</p><p>代表用途：酢酸、合成樹脂などの原料</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">酸化プロピレン</mark></strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m019\">-37℃</span>、沸点約<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m020\">34℃</span>、発火点約465℃</p><p>水に溶け、液体は水より軽く、蒸気は空気より重い物質である。</p><p>酸、塩基、金属塩化物などの影響で激しく<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m021\">重合</span>し、<span class=\"marker marker-blue\" data-marker-id=\"properties-004-m022\">火災・爆発</span>を起こすことがある。</p><p>代表用途：プロピレングリコール、ポリウレタン原料の製造</p>",
     "questions": [
       {
         "id": "properties-004-q001",
         "questionNo": 12,
-        "question": "<p>特殊引火物の定義として、正しいものはどれか。</p>",
+        "question": "<p><strong>特殊引火物の定義として、正しいものはどれか。</strong></p>",
         "choices": [
           "引火点21℃未満のものすべて。",
           "１気圧で発火点100℃以下、または引火点−20℃以下かつ沸点40℃以下のもの。",
@@ -209,7 +209,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-004-q002",
         "questionNo": 13,
-        "question": "<p>二硫化炭素の貯蔵方法として、正しいものはどれか。</p>",
+        "question": "<p><strong>二硫化炭素の貯蔵方法として、正しいものはどれか。</strong></p>",
         "choices": [
           "水より軽いため、水面上に浮かべて保管する。",
           "水より重い性質を利用し、水中に沈めて貯蔵する。",
@@ -222,7 +222,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-004-q003",
         "questionNo": 14,
-        "question": "<p>アセトアルデヒドの取扱い上の注意として、正しいものはどれか。</p>",
+        "question": "<p><strong>アセトアルデヒドの取扱い上の注意として、正しいものはどれか。</strong></p>",
         "choices": [
           "銅・マグネシウム・銀・水銀等を成分とする設備材料を避ける。",
           "水に全く溶けない安定な物質である。",
@@ -235,7 +235,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-004-q004",
         "questionNo": 15,
-        "question": "<p>日光や空気に長くさらされると、爆発性の過酸化物を生じやすい代表的な物質はどれか。</p>",
+        "question": "<p><strong>日光や空気に長くさらされると、爆発性の過酸化物を生じやすい代表的な物質はどれか。</strong></p>",
         "choices": [
           "ジエチルエーテル",
           "灯油",
@@ -248,7 +248,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-004-q005",
         "questionNo": 16,
-        "question": "<p>水より重く水に溶けず、発火点が約90℃と低いため、水中に貯蔵する代表的な特殊引火物はどれか。</p>",
+        "question": "<p><strong>水より重く水に溶けず、発火点が約90℃と低いため、水中に貯蔵する代表的な特殊引火物はどれか。</strong></p>",
         "choices": [
           "二硫化炭素",
           "アセトン",
@@ -269,12 +269,12 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
     "intro": "<p><strong>まず押さえる：</strong>第1石油類は、低い温度でも可燃性蒸気を発生しやすい液体のグループです。アルコール類は名称が似ていても、炭素数などの条件で法令上の区分が決まります。身近な物質でも、水との関係や蒸気の性質が異なるため、同じ消火方法が使えるとは限りません。</p><p><strong>試験では：</strong>ガソリン・ベンゼン・トルエンと、アセトン・ピリジン・メタノール・エタノールについて、水溶性や比重などを比較します。</p><p><strong>本文の焦点：</strong>分類を確認したうえで、水に溶けるか、蒸気は重いか、毒性はどうか、どの消火剤を使うかを物質ごとに区別します。</p>",
     "introImage": "images/properties-005.png",
     "introImageAlt": "第1石油類・アルコール類を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\">ガソリン</strong></p><p>引火点<span class=\"marker marker-red\" data-marker-id=\"properties-005-m001\">-40℃</span>以下、発火点<span class=\"marker marker-red\" data-marker-id=\"properties-005-m002\">約300℃</span>。</p><p>水に<span class=\"marker marker-red\" data-marker-id=\"properties-005-m003\">溶けず</span>、水より軽い物質。蒸気は空気より重く、低所へ流れる。</p><p>燃焼範囲は、おおむね<span class=\"marker marker-red\" data-marker-id=\"properties-005-m004\">1～8</span>vol％。</p><p>自動車ガソリンは、灯油などと識別するため<span class=\"marker marker-red\" data-marker-id=\"properties-005-m005\">オレンジ色</span>系に着色されている。</p><p>流動で<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m006\">静電気</span>を生じやすいため、接地、流速の抑制、低い位置からの注入が必要である。</p><p>常温でも多量の可燃性蒸気を発生する。</p><p>多種類の炭化水素からなる混合物で、沸騰する温度には幅がある。</p><p><strong class=\"body-subheading\">ベンゼン</strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m007\">-11℃</span>、融点約5.5℃</p><p>水に溶けにくく、水より軽い物質。蒸気は空気より重く、<span class=\"marker marker-red\" data-marker-id=\"properties-005-m008\">有毒である。</span></p><p>すすを出して燃える。</p><p>代表用途：合成樹脂、染料、医薬品などの化学原料</p><p><strong class=\"body-subheading\">トルエン</strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m009\">4℃</span></p><p>水に溶けにくく、水より軽い物質。蒸気は空気より重く、<span class=\"marker marker-red\" data-marker-id=\"properties-005-m010\">有毒である。</span></p><p>すすを出して燃える。</p><p>代表用途：シンナー、塗料・接着剤の溶剤</p><p><strong class=\"body-subheading\">酢酸エチル</strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m011\">-4℃</span></p><p>水には少量溶け、液体は水より軽い物質である。</p><p><span class=\"marker marker-blue\" data-marker-id=\"properties-005-m012\">果実</span>のようなにおいがある。</p><p>代表用途：塗料、接着剤、印刷インキの溶剤</p><p><strong class=\"body-subheading\">アセトン</strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m013\">-20℃</span></p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-005-m014\">任意の割合で混ざり</span>、水より軽い物質である。</p><p>無色で揮発しやすく、特有の刺激臭がある。</p><p>火災には水溶性液体用泡消火剤を使用する。</p><p>代表用途：塗料用溶剤、除光液</p><p><strong class=\"body-subheading\">ピリジン</strong></p><p>引火点約20℃</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-005-m015\">任意の割合で混ざり</span>、水よりわずかに軽い物質である。</p><p>強い不快臭があり、有毒。においを直接嗅いで識別してはならない。</p><p>火災には水溶性液体用泡消火剤を使用する。</p><p>代表用途：医薬品・農薬の原料、有機合成用の溶媒</p><p><strong class=\"body-subheading\">メタノール</strong></p><p>引火点約<span class=\"marker marker-red\" data-marker-id=\"properties-005-m016\">12℃</span>、発火点約464℃</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-005-m017\">任意の割合で混ざる</span>。液体は水より軽く、蒸気は空気よりわずかに重い物質である。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-005-m018\">毒性</span>が強く、飲み込むと<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m019\">失明・死亡</span>のおそれがある。</p><p><span class=\"marker marker-blue\" data-marker-id=\"properties-005-m020\">淡い青色</span>の炎で燃え、明るい場所では炎が見えにくいことがある。</p><p>ナトリウムなどの活性な金属と反応し、可燃性の水素を発生する。</p><p>代表用途：ホルムアルデヒドの原料、溶剤、燃料</p><p><strong class=\"body-subheading\">エタノール</strong></p><p>引火点約13℃、発火点約363℃</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-005-m021\">水と任意の割合</span>で混ざり、水より軽い物質である。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-005-m022\">メタノール</span>より急性毒性は低いが、多量に摂取すると中枢神経に影響を及ぼす。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-005-m023\">青白く淡い</span>炎で燃え、明るい場所では<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m024\">炎が見えにくい</span>ことがある。</p><p>火災には水溶性液体用泡消火剤を使用する。</p><p>代表用途：消毒用アルコール、溶剤、燃料</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">ガソリン</mark></strong></p><p>引火点<span class=\"marker marker-red\" data-marker-id=\"properties-005-m001\">-40℃</span>以下、発火点<span class=\"marker marker-red\" data-marker-id=\"properties-005-m002\">約300℃</span>。</p><p>水に<span class=\"marker marker-red\" data-marker-id=\"properties-005-m003\">溶けず</span>、水より軽い物質。蒸気は空気より重く、低所へ流れる。</p><p>燃焼範囲は、おおむね<span class=\"marker marker-red\" data-marker-id=\"properties-005-m004\">1～8</span>vol％。</p><p>自動車ガソリンは、灯油などと識別するため<span class=\"marker marker-red\" data-marker-id=\"properties-005-m005\">オレンジ色</span>系に着色されている。</p><p>流動で<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m006\">静電気</span>を生じやすいため、接地、流速の抑制、低い位置からの注入が必要である。</p><p>常温でも多量の可燃性蒸気を発生する。</p><p>多種類の炭化水素からなる混合物で、沸騰する温度には幅がある。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">ベンゼン</mark></strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m007\">-11℃</span>、融点約5.5℃</p><p>水に溶けにくく、水より軽い物質。蒸気は空気より重く、<span class=\"marker marker-red\" data-marker-id=\"properties-005-m008\">有毒である。</span></p><p>すすを出して燃える。</p><p>代表用途：合成樹脂、染料、医薬品などの化学原料</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">トルエン</mark></strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m009\">4℃</span></p><p>水に溶けにくく、水より軽い物質。蒸気は空気より重く、<span class=\"marker marker-red\" data-marker-id=\"properties-005-m010\">有毒である。</span></p><p>すすを出して燃える。</p><p>代表用途：シンナー、塗料・接着剤の溶剤</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">酢酸エチル</mark></strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m011\">-4℃</span></p><p>水には少量溶け、液体は水より軽い物質である。</p><p><span class=\"marker marker-blue\" data-marker-id=\"properties-005-m012\">果実</span>のようなにおいがある。</p><p>代表用途：塗料、接着剤、印刷インキの溶剤</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">アセトン</mark></strong></p><p>引火点約<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m013\">-20℃</span></p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-005-m014\">任意の割合で混ざり</span>、水より軽い物質である。</p><p>無色で揮発しやすく、特有の刺激臭がある。</p><p>火災には水溶性液体用泡消火剤を使用する。</p><p>代表用途：塗料用溶剤、除光液</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">ピリジン</mark></strong></p><p>引火点約20℃</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-005-m015\">任意の割合で混ざり</span>、水よりわずかに軽い物質である。</p><p>強い不快臭があり、有毒。においを直接嗅いで識別してはならない。</p><p>火災には水溶性液体用泡消火剤を使用する。</p><p>代表用途：医薬品・農薬の原料、有機合成用の溶媒</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">メタノール</mark></strong></p><p>引火点約<span class=\"marker marker-red\" data-marker-id=\"properties-005-m016\">12℃</span>、発火点約464℃</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-005-m017\">任意の割合で混ざる</span>。液体は水より軽く、蒸気は空気よりわずかに重い物質である。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-005-m018\">毒性</span>が強く、飲み込むと<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m019\">失明・死亡</span>のおそれがある。</p><p><span class=\"marker marker-blue\" data-marker-id=\"properties-005-m020\">淡い青色</span>の炎で燃え、明るい場所では炎が見えにくいことがある。</p><p>ナトリウムなどの活性な金属と反応し、可燃性の水素を発生する。</p><p>代表用途：ホルムアルデヒドの原料、溶剤、燃料</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">エタノール</mark></strong></p><p>引火点約13℃、発火点約363℃</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-005-m021\">水と任意の割合</span>で混ざり、水より軽い物質である。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-005-m022\">メタノール</span>より急性毒性は低いが、多量に摂取すると中枢神経に影響を及ぼす。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-005-m023\">青白く淡い</span>炎で燃え、明るい場所では<span class=\"marker marker-blue\" data-marker-id=\"properties-005-m024\">炎が見えにくい</span>ことがある。</p><p>火災には水溶性液体用泡消火剤を使用する。</p><p>代表用途：消毒用アルコール、溶剤、燃料</p>",
     "questions": [
       {
         "id": "properties-005-q001",
         "questionNo": 17,
-        "question": "<p>ガソリンの性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>ガソリンの性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "識別のため、オレンジ色等に着色されている。",
           "単一の化学式で表される純物質である。",
@@ -287,7 +287,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-005-q002",
         "questionNo": 18,
-        "question": "<p>第１石油類のうち、水溶性に分類される代表的な組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>第１石油類のうち、水溶性に分類される代表的な組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "アセトン、ピリジン",
           "ガソリン、ベンゼン",
@@ -300,7 +300,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-005-q003",
         "questionNo": 19,
-        "question": "<p>ベンゼンとトルエンに関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>ベンゼンとトルエンに関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "いずれも水によく溶ける。",
           "いずれも非水溶性で、ベンゼンは毒性が強い。",
@@ -313,7 +313,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-005-q004",
         "questionNo": 20,
-        "question": "<p>メタノールの性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>メタノールの性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "水にほとんど溶けない。",
           "誤飲により失明や死亡のおそれがあるなど、毒性が強い。",
@@ -326,7 +326,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-005-q005",
         "questionNo": 21,
-        "question": "<p>アルコール類の燃焼時の炎の特徴として、正しいものはどれか。</p>",
+        "question": "<p><strong>アルコール類の燃焼時の炎の特徴として、正しいものはどれか。</strong></p>",
         "choices": [
           "炎の色が薄く、明るい場所では見えにくいことがある。",
           "炎を全く出さずに燃える。",
@@ -339,7 +339,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-005-q006",
         "questionNo": 22,
-        "question": "<p>乙４でいうアルコール類の説明として、正しいものはどれか。</p>",
+        "question": "<p><strong>乙４でいうアルコール類の説明として、正しいものはどれか。</strong></p>",
         "choices": [
           "炭素数１〜３の飽和一価アルコールが中心である。",
           "すべてのアルコールが無条件でアルコール類に分類される。",
@@ -352,7 +352,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-005-q007",
         "questionNo": 23,
-        "question": "<p>アセトン火災の消火に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>アセトン火災の消火に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "アセトンは非水溶性なので、一般の泡消火剤が最も適する。",
           "アセトンは水溶性なので、水溶性液体用泡消火剤を用いる。",
@@ -365,7 +365,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-005-q008",
         "questionNo": 24,
-        "question": "<p>エタノールの性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>エタノールの性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "水に溶けず、第1石油類に分類される。",
           "水と任意の割合で混ざり、青白い炎で燃える。",
@@ -378,7 +378,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-005-q009",
         "questionNo": 25,
-        "question": "<p>ガソリンを扱う場所で、低い位置の換気と静電気対策が必要な主な理由はどれか。</p>",
+        "question": "<p><strong>ガソリンを扱う場所で、低い位置の換気と静電気対策が必要な主な理由はどれか。</strong></p>",
         "choices": [
           "ガソリンの蒸気は空気より重く低所に滞留しやすく、放電火花が点火源になるため。",
           "ガソリンの蒸気は空気より軽く、天井付近だけに滞留するため。",
@@ -399,12 +399,12 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
     "intro": "<p><strong>まず押さえる：</strong>第2石油類は、灯油や軽油などを含む引火性液体のグループです。第1石油類より常温では引火しにくくても、温めたり細かな霧にしたりすると危険が高まります。日常で目にする物質でも、火気や加熱条件によっては十分に危険です。</p><p><strong>試験では：</strong>灯油・軽油・キシレン・酢酸について、水に溶けるか、どのような用途や性質があるかを問います。</p><p><strong>本文の焦点：</strong>代表物質を水溶性・比重・毒性などの観点で比べ、引火点が高いから安全とは判断しないことを押さえます。</p>",
     "introImage": "images/properties-006.png",
     "introImageAlt": "第2石油類を示すイラスト",
-    "body": "<p>石油製品やキシレンの引火点は、製品の組成や異性体、測定条件により幅がある。以下の数値は代表的な目安である。</p><p><strong class=\"body-subheading\">灯油</strong></p><p>引火点は一般に<span class=\"marker marker-red\" data-marker-id=\"properties-006-m001\">40℃</span>以上。製品により値は異なる。</p><p>水に溶けず、水より軽い物質。蒸気は空気より重くなる。</p><p>ガソリンより揮発しにくいものの、ガソリンとは混ざる。</p><p><span class=\"marker marker-blue\" data-marker-id=\"properties-006-m002\">霧状</span>になったり、<span class=\"marker marker-blue\" data-marker-id=\"properties-006-m003\">布に染み込んで</span>表面積が大きくなったりすると、火がつきやすくなる。</p><p>代表用途：石油ストーブ・給湯器の燃料、ジェット燃料の基材</p><p><strong class=\"body-subheading\">軽油</strong></p><p>自動車用軽油の引火点は一般に<span class=\"marker marker-red\" data-marker-id=\"properties-006-m004\">45℃</span>以上。製品により値は異なる。</p><p>水に溶けず、水より軽い物質。蒸気は空気より重くなる。</p><p>灯油より粘度が高いものが一般的。</p><p>代表用途：トラック、バス、建設機械などの<span class=\"marker marker-blue\" data-marker-id=\"properties-006-m005\">ディーゼル燃料</span></p><p><strong class=\"body-subheading\">キシレン</strong></p><p>引火点は異性体や組成により、おおむね25～33℃。</p><p>水に溶けにくく、水より軽い物質。蒸気は空気より重く、有毒である。</p><p>すすを出して燃える。</p><p>代表用途：塗料、印刷インキの溶剤</p><p><strong class=\"body-subheading\">酢酸</strong></p><p>純粋な酢酸の代表的な引火点は約39℃。濃度により物性は変わる。</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-006-m006\">任意の割合で混ざり</span>、水より重い物質である。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-006-m007\">強い刺激臭</span>と<span class=\"marker marker-red\" data-marker-id=\"properties-006-m008\">腐食性</span>がある。多くの金属を侵し、<span class=\"marker marker-blue\" data-marker-id=\"properties-006-m009\">水素</span>を発生することがある。</p><p>火災には水溶性液体用泡消火剤を使用する。</p><p>代表用途：酢酸ビニルなどの化学原料。食酢の酸味成分でもあるが、食酢は酢酸濃度の低い水溶液。</p>",
+    "body": "<p>石油製品やキシレンの引火点は、製品の組成や異性体、測定条件により幅がある。以下の数値は代表的な目安である。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">灯油</mark></strong></p><p>引火点は一般に<span class=\"marker marker-red\" data-marker-id=\"properties-006-m001\">40℃</span>以上。製品により値は異なる。</p><p>水に溶けず、水より軽い物質。蒸気は空気より重くなる。</p><p>ガソリンより揮発しにくいものの、ガソリンとは混ざる。</p><p><span class=\"marker marker-blue\" data-marker-id=\"properties-006-m002\">霧状</span>になったり、<span class=\"marker marker-blue\" data-marker-id=\"properties-006-m003\">布に染み込んで</span>表面積が大きくなったりすると、火がつきやすくなる。</p><p>代表用途：石油ストーブ・給湯器の燃料、ジェット燃料の基材</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">軽油</mark></strong></p><p>自動車用軽油の引火点は一般に<span class=\"marker marker-red\" data-marker-id=\"properties-006-m004\">45℃</span>以上。製品により値は異なる。</p><p>水に溶けず、水より軽い物質。蒸気は空気より重くなる。</p><p>灯油より粘度が高いものが一般的。</p><p>代表用途：トラック、バス、建設機械などの<span class=\"marker marker-blue\" data-marker-id=\"properties-006-m005\">ディーゼル燃料</span></p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">キシレン</mark></strong></p><p>引火点は異性体や組成により、おおむね25～33℃。</p><p>水に溶けにくく、水より軽い物質。蒸気は空気より重く、有毒である。</p><p>すすを出して燃える。</p><p>代表用途：塗料、印刷インキの溶剤</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">酢酸</mark></strong></p><p>純粋な酢酸の代表的な引火点は約39℃。濃度により物性は変わる。</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-006-m006\">任意の割合で混ざり</span>、水より重い物質である。</p><p><span class=\"marker marker-red\" data-marker-id=\"properties-006-m007\">強い刺激臭</span>と<span class=\"marker marker-red\" data-marker-id=\"properties-006-m008\">腐食性</span>がある。多くの金属を侵し、<span class=\"marker marker-blue\" data-marker-id=\"properties-006-m009\">水素</span>を発生することがある。</p><p>火災には水溶性液体用泡消火剤を使用する。</p><p>代表用途：酢酸ビニルなどの化学原料。食酢の酸味成分でもあるが、食酢は酢酸濃度の低い水溶液。</p>",
     "questions": [
       {
         "id": "properties-006-q001",
         "questionNo": 26,
-        "question": "<p>第２石油類の説明として、正しいものはどれか。</p>",
+        "question": "<p><strong>第２石油類の説明として、正しいものはどれか。</strong></p>",
         "choices": [
           "引火点21℃以上70℃未満の液体である。",
           "引火点70℃以上200℃未満の液体である。",
@@ -417,7 +417,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-006-q002",
         "questionNo": 27,
-        "question": "<p>灯油・軽油に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>灯油・軽油に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "ガソリンより引火点が高く、常温では比較的引火しにくいが、加熱や霧化で危険が増す。",
           "水溶性で、通常泡は必ず使用できない。",
@@ -430,7 +430,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-006-q003",
         "questionNo": 28,
-        "question": "<p>第２石油類の水溶性物品として、代表的なものはどれか。</p>",
+        "question": "<p><strong>第２石油類の水溶性物品として、代表的なものはどれか。</strong></p>",
         "choices": [
           "酢酸",
           "ガソリン",
@@ -443,7 +443,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-006-q004",
         "questionNo": 29,
-        "question": "<p>非水溶性で水より軽く、有毒で、すすを出して燃える第2石油類の代表物質はどれか。</p>",
+        "question": "<p><strong>非水溶性で水より軽く、有毒で、すすを出して燃える第2石油類の代表物質はどれか。</strong></p>",
         "choices": [
           "キシレン",
           "酢酸",
@@ -456,7 +456,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-006-q005",
         "questionNo": 30,
-        "question": "<p>水と任意の割合で混ざり、水より重く、刺激臭と腐食性をもつ第2石油類の代表物質はどれか。</p>",
+        "question": "<p><strong>水と任意の割合で混ざり、水より重く、刺激臭と腐食性をもつ第2石油類の代表物質はどれか。</strong></p>",
         "choices": [
           "酢酸",
           "灯油",
@@ -477,12 +477,12 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
     "intro": "<p><strong>まず押さえる：</strong>第3石油類は、重油やクレオソート油など、比較的高い温度で引火する液体のグループです。常温で火がつきにくくても、加熱すれば可燃性蒸気が発生します。重油のように粘りのある油も、温度が上がれば蒸気を出して燃える液体です。</p><p><strong>試験では：</strong>重油、クレオソート油、ニトロベンゼン、アニリン、グリセリンを、水との比重、水溶性、毒性などで見分けます。</p><p><strong>本文の焦点：</strong>引火点による区分を押さえたうえで、水に溶けにくいことと水より軽いことは別の性質であると理解します。</p>",
     "introImage": "images/properties-007.png",
     "introImageAlt": "第3石油類を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\">重油</strong></p><p>引火点は製品の種類や組成によって異なり、一般に約60～150℃。</p><p>消防法では重油そのものが第3石油類として掲げられているため、引火点が70℃未満の製品もある。</p><p>水に溶けず、水より<span class=\"marker marker-blue\" data-marker-id=\"properties-007-m001\">軽い</span>物質である。</p><p>粘度が<span class=\"marker marker-red\" data-marker-id=\"properties-007-m002\">高く</span>、加熱して移送・使用することがある。引火点が高くても、加熱中や霧状になったときは危険性が高まる。</p><p>代表用途：工場ボイラー、船舶などの燃料</p><p><strong class=\"body-subheading\">クレオソート油</strong></p><p>引火点約75℃以上。</p><p>水に溶けにくく、水より<span class=\"marker marker-red\" data-marker-id=\"properties-007-m003\">重い</span>物質である。</p><p>有毒で刺激性がある。</p><p>代表用途：木材・まくら木の防腐処理</p><p><strong class=\"body-subheading\">ニトロベンゼン</strong></p><p>引火点約88℃</p><p>水には少量しか溶けず、水より<span class=\"marker marker-red\" data-marker-id=\"properties-007-m004\">重い</span>物質である。</p><p>淡黄色で毒性が強く、皮膚からも吸収されるため注意が必要である。</p><p>代表用途：アニリン、染料などの原料</p><p><strong class=\"body-subheading\">アニリン</strong></p><p>引火点は約70～76℃</p><p>水には少量溶け、水より<span class=\"marker marker-red\" data-marker-id=\"properties-007-m005\">重い</span>物質である。</p><p>有毒。無色から淡黄色だが、空気や光にさらされると褐色へ変化する。</p><p>代表用途：染料、ゴム薬品、ポリウレタン原料の製造</p><p><strong class=\"body-subheading\">グリセリン</strong></p><p>引火点約160℃</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-007-m006\">任意の割合で混ざり</span>、水より<span class=\"marker marker-red\" data-marker-id=\"properties-007-m007\">重い</span>物質である。</p><p><span class=\"marker marker-blue\" data-marker-id=\"properties-007-m008\">無色</span>でほぼ<span class=\"marker marker-blue\" data-marker-id=\"properties-007-m009\">無臭</span>の粘り気がある液体。吸湿性が大きく、水分を吸収する。</p><p>代表用途：化粧品・医薬品の保湿剤</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">重油</mark></strong></p><p>引火点は製品の種類や組成によって異なり、一般に約60～150℃。</p><p>消防法では重油そのものが第3石油類として掲げられているため、引火点が70℃未満の製品もある。</p><p>水に溶けず、水より<span class=\"marker marker-blue\" data-marker-id=\"properties-007-m001\">軽い</span>物質である。</p><p>粘度が<span class=\"marker marker-red\" data-marker-id=\"properties-007-m002\">高く</span>、加熱して移送・使用することがある。引火点が高くても、加熱中や霧状になったときは危険性が高まる。</p><p>代表用途：工場ボイラー、船舶などの燃料</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">クレオソート油</mark></strong></p><p>引火点約75℃以上。</p><p>水に溶けにくく、水より<span class=\"marker marker-red\" data-marker-id=\"properties-007-m003\">重い</span>物質である。</p><p>有毒で刺激性がある。</p><p>代表用途：木材・まくら木の防腐処理</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">ニトロベンゼン</mark></strong></p><p>引火点約88℃</p><p>水には少量しか溶けず、水より<span class=\"marker marker-red\" data-marker-id=\"properties-007-m004\">重い</span>物質である。</p><p>淡黄色で毒性が強く、皮膚からも吸収されるため注意が必要である。</p><p>代表用途：アニリン、染料などの原料</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">アニリン</mark></strong></p><p>引火点は約70～76℃</p><p>水には少量溶け、水より<span class=\"marker marker-red\" data-marker-id=\"properties-007-m005\">重い</span>物質である。</p><p>有毒。無色から淡黄色だが、空気や光にさらされると褐色へ変化する。</p><p>代表用途：染料、ゴム薬品、ポリウレタン原料の製造</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">グリセリン</mark></strong></p><p>引火点約160℃</p><p>水と<span class=\"marker marker-red\" data-marker-id=\"properties-007-m006\">任意の割合で混ざり</span>、水より<span class=\"marker marker-red\" data-marker-id=\"properties-007-m007\">重い</span>物質である。</p><p><span class=\"marker marker-blue\" data-marker-id=\"properties-007-m008\">無色</span>でほぼ<span class=\"marker marker-blue\" data-marker-id=\"properties-007-m009\">無臭</span>の粘り気がある液体。吸湿性が大きく、水分を吸収する。</p><p>代表用途：化粧品・医薬品の保湿剤</p>",
     "questions": [
       {
         "id": "properties-007-q001",
         "questionNo": 31,
-        "question": "<p>第３石油類の説明として、正しいものはどれか。</p>",
+        "question": "<p><strong>第３石油類の説明として、正しいものはどれか。</strong></p>",
         "choices": [
           "引火点70℃以上200℃未満の液体である。",
           "引火点21℃未満の液体である。",
@@ -495,7 +495,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-007-q002",
         "questionNo": 32,
-        "question": "<p>重油の性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>重油の性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "引火点は20℃前後で、常温で極めて引火しやすい。",
           "常温では比較的引火しにくいが、加熱時や火災時には消火が困難になることがある。",
@@ -508,7 +508,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-007-q003",
         "questionNo": 33,
-        "question": "<p>ニトロベンゼンとアニリンに共通する性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>ニトロベンゼンとアニリンに共通する性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "いずれも水より重く、毒性が強い。",
           "いずれも水によく溶ける。",
@@ -529,12 +529,12 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
     "intro": "<p><strong>まず押さえる：</strong>第4石油類は、ギヤー油やシリンダー油などを含む、引火点が比較的高い液体です。動植物油類では、油が酸化するときに生じる熱がたまり、自然発火につながることがあります。引火点が高いことと、火災や自然発火の危険がないことは別です。</p><p><strong>試験では：</strong>引火点が高い物質の危険性、乾性油が染みた布の自然発火、代表的な物質の性質を問います。</p><p><strong>本文の焦点：</strong>加熱や霧化による引火の危険と、油を含んだ布に熱をためない保管方法を、理由と結び付けて押さえます。</p>",
     "introImage": "images/properties-008.png",
     "introImageAlt": "第4石油類・動植物油類を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\">第4石油類</strong></p><p>ギヤー油・シリンダー油は、第4石油類の法定定義に物質名が掲げられている。</p><p>常温での引火危険は比較的低いが、高温設備で加熱された場合や、細かい霧になった場合は危険性が高まる。</p><p>タービン油などの潤滑油は、製品の引火点が200℃以上250℃未満の場合に第4石油類となる。</p><p><strong class=\"body-subheading\">動植物油類</strong></p><p><strong><span class=\"marker marker-red\" data-marker-id=\"properties-008-m001\">乾性油</span></strong>は、空気中の酸素を取り込んで<span class=\"marker marker-red\" data-marker-id=\"properties-008-m002\">酸化</span>し、膜を作って乾きやすい油。代表例は<span class=\"marker marker-red\" data-marker-id=\"properties-008-m003\">アマニ油である。</span></p><p><strong><span class=\"marker marker-blue\" data-marker-id=\"properties-008-m004\">半乾性油</span></strong>は乾性油と不乾性油の中間で、代表例はナタネ油である。</p><p><strong><span class=\"marker marker-blue\" data-marker-id=\"properties-008-m005\">不乾性油</span></strong>は酸化して乾きにくい油で、代表例はオリーブ油である。</p><p><strong><span class=\"marker marker-red\" data-marker-id=\"properties-008-m006\">ヨウ素価</span></strong>は、油脂100gが吸収するヨウ素のグラム数。油脂の不飽和度を示し、値が大きい油ほど一般に<span class=\"marker marker-red\" data-marker-id=\"properties-008-m007\">酸化しやすく</span>なる。</p><p><strong class=\"body-subheading\">油が染みた布の自然発火</strong></p><p>油が布に染みると、空気に触れる<span class=\"marker marker-blue\" data-marker-id=\"properties-008-m008\">表面積</span>が大きくなる。</p><p>油が酸化し、熱を発生する。</p><p>布を積み重ねると熱が逃げにくくなる。</p><p>発生する熱が逃げる熱を上回ると、温度が上がる。</p><p>温度が発火点に達すると、点火源がなくても<span class=\"marker marker-red\" data-marker-id=\"properties-008-m009\">自然発火</span>する。</p><p>油が染みた布は放置せず、水に十分浸すか、ふた付きの不燃性容器など、定められた方法で回収する。</p><p>高温の動植物油火災へ水を直接かけると、水が急激に気化して油を飛散させるため、直接注水しない。</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">第4石油類</mark></strong></p><p>ギヤー油・シリンダー油は、第4石油類の法定定義に物質名が掲げられている。</p><p>常温での引火危険は比較的低いが、高温設備で加熱された場合や、細かい霧になった場合は危険性が高まる。</p><p>タービン油などの潤滑油は、製品の引火点が200℃以上250℃未満の場合に第4石油類となる。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">動植物油類</mark></strong></p><p><strong><span class=\"marker marker-red\" data-marker-id=\"properties-008-m001\">乾性油</span></strong>は、空気中の酸素を取り込んで<span class=\"marker marker-red\" data-marker-id=\"properties-008-m002\">酸化</span>し、膜を作って乾きやすい油。代表例は<span class=\"marker marker-red\" data-marker-id=\"properties-008-m003\">アマニ油である。</span></p><p><strong><span class=\"marker marker-blue\" data-marker-id=\"properties-008-m004\">半乾性油</span></strong>は乾性油と不乾性油の中間で、代表例はナタネ油である。</p><p><strong><span class=\"marker marker-blue\" data-marker-id=\"properties-008-m005\">不乾性油</span></strong>は酸化して乾きにくい油で、代表例はオリーブ油である。</p><p><strong><span class=\"marker marker-red\" data-marker-id=\"properties-008-m006\">ヨウ素価</span></strong>は、油脂100gが吸収するヨウ素のグラム数。油脂の不飽和度を示し、値が大きい油ほど一般に<span class=\"marker marker-red\" data-marker-id=\"properties-008-m007\">酸化しやすく</span>なる。</p><p><strong class=\"body-subheading\">油が染みた布の自然発火</strong></p><p>油が布に染みると、空気に触れる<span class=\"marker marker-blue\" data-marker-id=\"properties-008-m008\">表面積</span>が大きくなる。</p><p>油が酸化し、熱を発生する。</p><p>布を積み重ねると熱が逃げにくくなる。</p><p>発生する熱が逃げる熱を上回ると、温度が上がる。</p><p>温度が発火点に達すると、点火源がなくても<span class=\"marker marker-red\" data-marker-id=\"properties-008-m009\">自然発火</span>する。</p><p>油が染みた布は放置せず、水に十分浸すか、ふた付きの不燃性容器など、定められた方法で回収する。</p><p>高温の動植物油火災へ水を直接かけると、水が急激に気化して油を飛散させるため、直接注水しない。</p>",
     "questions": [
       {
         "id": "properties-008-q001",
         "questionNo": 34,
-        "question": "<p>第４石油類の引火点の範囲として、正しいものはどれか。</p>",
+        "question": "<p><strong>第４石油類の引火点の範囲として、正しいものはどれか。</strong></p>",
         "choices": [
           "70℃以上200℃未満",
           "100℃以上150℃未満",
@@ -547,7 +547,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-008-q002",
         "questionNo": 35,
-        "question": "<p>ギヤー油・シリンダー油・タービン油に共通する性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>ギヤー油・シリンダー油・タービン油に共通する性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "主に潤滑油として使われ、粘性が高いものが多い。",
           "常温で極めて揮発しやすい。",
@@ -560,7 +560,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-008-q003",
         "questionNo": 36,
-        "question": "<p>動植物油類の定義として、正しいものはどれか。</p>",
+        "question": "<p><strong>動植物油類の定義として、正しいものはどれか。</strong></p>",
         "choices": [
           "動物の脂肉等または植物の種子・果肉から抽出したもので、引火点が250℃未満のもの。",
           "鉱物油のうち、引火点が250℃未満のもの。",
@@ -573,7 +573,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-008-q004",
         "questionNo": 37,
-        "question": "<p>ヨウ素価に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>ヨウ素価に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "油脂の比重を表す指標である。",
           "油脂100gに吸収されるヨウ素のグラム数を表し、不飽和度の指標となる。",
@@ -586,7 +586,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-008-q005",
         "questionNo": 38,
-        "question": "<p>アマニ油を染み込ませた布の取扱いとして、適切なものはどれか。</p>",
+        "question": "<p><strong>アマニ油を染み込ませた布の取扱いとして、適切なものはどれか。</strong></p>",
         "choices": [
           "積み重ねて放置する。",
           "密閉した金属製容器に保管し、自然発火を防ぐ。",
@@ -612,7 +612,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-009-q001",
         "questionNo": 39,
-        "question": "<p>第４類危険物のうち、比重が１以上で水に沈む代表例の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>第４類危険物のうち、比重が１以上で水に沈む代表例の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "二硫化炭素、酢酸、グリセリン",
           "ガソリン、灯油、軽油",
@@ -625,7 +625,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-009-q002",
         "questionNo": 40,
-        "question": "<p>第４類危険物のうち、水溶性に分類される代表例の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>第４類危険物のうち、水溶性に分類される代表例の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "アセトン、ピリジン、メタノール、エタノール、酢酸、グリセリン",
           "ガソリン、灯油、軽油、重油",
@@ -638,7 +638,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-009-q003",
         "questionNo": 41,
-        "question": "<p>第４類危険物のうち、毒性が強い代表例の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>第４類危険物のうち、毒性が強い代表例の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "灯油、軽油",
           "メタノール、ベンゼン、ニトロベンゼン",
@@ -651,7 +651,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-009-q004",
         "questionNo": 42,
-        "question": "<p>代表物質を引火点の低いものから高いものへ並べた順として、正しいものはどれか。</p>",
+        "question": "<p><strong>代表物質を引火点の低いものから高いものへ並べた順として、正しいものはどれか。</strong></p>",
         "choices": [
           "ガソリン→灯油→重油→ギヤー油",
           "ギヤー油→重油→灯油→ガソリン",
@@ -664,7 +664,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-009-q005",
         "questionNo": 43,
-        "question": "<p>水溶性液体用泡消火剤を用いる代表物質だけの組合せはどれか。</p>",
+        "question": "<p><strong>水溶性液体用泡消火剤を用いる代表物質だけの組合せはどれか。</strong></p>",
         "choices": [
           "アセトン、メタノール、エタノール、酢酸",
           "ガソリン、ベンゼン、灯油、軽油",
@@ -690,7 +690,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-010-q001",
         "questionNo": 44,
-        "question": "<p>第４類危険物の貯蔵方法として、正しいものはどれか。</p>",
+        "question": "<p><strong>第４類危険物の貯蔵方法として、正しいものはどれか。</strong></p>",
         "choices": [
           "容器のふたを開けたまま、蒸気を自由に逃がす。",
           "容器を密栓し、直射日光を避けた冷暗所に保管する。",
@@ -703,7 +703,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-010-q002",
         "questionNo": 45,
-        "question": "<p>第４類危険物を扱う作業場の換気設備として、適切なものはどれか。</p>",
+        "question": "<p><strong>第４類危険物を扱う作業場の換気設備として、適切なものはどれか。</strong></p>",
         "choices": [
           "蒸気が低所にたまりやすいため、低い位置から排気できるようにする。",
           "蒸気は軽いため、天井だけに換気口を設ければよい。",
@@ -716,7 +716,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-010-q003",
         "questionNo": 46,
-        "question": "<p>地下の作業場所で可燃性蒸気が滞留し、電気スイッチの火花で引火する事故を防ぐ対策として、適切なものはどれか。</p>",
+        "question": "<p><strong>地下の作業場所で可燃性蒸気が滞留し、電気スイッチの火花で引火する事故を防ぐ対策として、適切なものはどれか。</strong></p>",
         "choices": [
           "換気せず、火気だけを禁止する。",
           "低所換気を行い、火花を発するおそれのある電気設備は防爆構造にする。",
@@ -729,7 +729,7 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       {
         "id": "properties-010-q004",
         "questionNo": 47,
-        "question": "<p>危険物を布に染み込ませた場合に引火しやすくなる主な理由として、正しいものはどれか。</p>",
+        "question": "<p><strong>危険物を布に染み込ませた場合に引火しやすくなる主な理由として、正しいものはどれか。</strong></p>",
         "choices": [
           "液体の引火点が必ず大幅に上昇するため。",
           "表面積が増え、蒸発しやすくなるため。",

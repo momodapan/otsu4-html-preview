@@ -13,7 +13,7 @@
       {
         "id": "physics-chemistry-001-q001",
         "questionNo": 1,
-        "question": "<p>燃焼の三要素のうち、いずれか１つを取り除くことで消火が成立する理由として、正しいものはどれか。</p>",
+        "question": "<p><strong>燃焼の三要素のうち、いずれか１つを取り除くことで消火が成立する理由として、正しいものはどれか。</strong></p>",
         "choices": [
           "三要素はすべて同時に存在しなくても燃焼が継続するため。",
           "三要素のいずれか１つでも欠けると、燃焼反応自体が成立しなくなるため。",
@@ -26,7 +26,7 @@
       {
         "id": "physics-chemistry-001-q002",
         "questionNo": 2,
-        "question": "<p>燃焼の三要素に加え、第４の要素として扱われることがあるものはどれか。</p>",
+        "question": "<p><strong>燃焼の三要素に加え、第４の要素として扱われることがあるものはどれか。</strong></p>",
         "choices": [
           "燃焼範囲",
           "燃焼の継続（連鎖反応）",
@@ -52,7 +52,7 @@
       {
         "id": "physics-chemistry-002-q001",
         "questionNo": 3,
-        "question": "<p>拡散燃焼と予混合燃焼の違いに関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>拡散燃焼と予混合燃焼の違いに関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "拡散燃焼は、可燃性ガスと空気があらかじめ混合された状態で燃焼する。",
           "予混合燃焼は、可燃性ガスが空気中に拡散しながら燃焼する。",
@@ -65,7 +65,7 @@
       {
         "id": "physics-chemistry-002-q002",
         "questionNo": 4,
-        "question": "<p>第４類危険物の液体の燃え方として、最も重要なものはどれか。</p>",
+        "question": "<p><strong>第４類危険物の液体の燃え方として、最も重要なものはどれか。</strong></p>",
         "choices": [
           "表面燃焼",
           "分解燃焼",
@@ -78,7 +78,7 @@
       {
         "id": "physics-chemistry-002-q003",
         "questionNo": 5,
-        "question": "<p>固体の燃焼形式のうち、木炭の燃焼に該当するものとして、正しいものはどれか。</p>",
+        "question": "<p><strong>固体の燃焼形式のうち、木炭の燃焼に該当するものとして、正しいものはどれか。</strong></p>",
         "choices": [
           "分解燃焼",
           "表面燃焼",
@@ -91,7 +91,7 @@
       {
         "id": "physics-chemistry-002-q004",
         "questionNo": 6,
-        "question": "<p>物質と主な燃焼形態の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>物質と主な燃焼形態の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "ガソリン－蒸発燃焼、木材－分解燃焼、木炭－表面燃焼",
           "ガソリン－表面燃焼、木材－蒸発燃焼、木炭－分解燃焼",
@@ -117,7 +117,7 @@
       {
         "id": "physics-chemistry-003-q001",
         "questionNo": 7,
-        "question": "<p>物質が燃えにくくなる条件として、正しいものはどれか。</p>",
+        "question": "<p><strong>物質が燃えにくくなる条件として、正しいものはどれか。</strong></p>",
         "choices": [
           "比表面積が大きいこと",
           "周囲の温度が高いこと",
@@ -130,7 +130,7 @@
       {
         "id": "physics-chemistry-003-q002",
         "questionNo": 8,
-        "question": "<p>比表面積が燃焼の難易に与える影響として、正しいものはどれか。</p>",
+        "question": "<p><strong>比表面積が燃焼の難易に与える影響として、正しいものはどれか。</strong></p>",
         "choices": [
           "比表面積が大きいほど、空気との接触面積が小さくなり燃えにくい。",
           "比表面積が大きいほど、空気との接触面積が大きくなり燃えやすい。",
@@ -156,7 +156,7 @@
       {
         "id": "physics-chemistry-004-q001",
         "questionNo": 9,
-        "question": "<p>引火点の定義として、正しいものはどれか。</p>",
+        "question": "<p><strong>引火点の定義として、正しいものはどれか。</strong></p>",
         "choices": [
           "点火源がなくても自然に燃焼を開始する最低の温度",
           "可燃性液体の表面から発生する蒸気が、点火源によって燃焼することができる最低の液温",
@@ -169,7 +169,7 @@
       {
         "id": "physics-chemistry-004-q002",
         "questionNo": 10,
-        "question": "<p>発火点に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>発火点に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "点火源がなくても自ら発火する最低温度である。",
           "点火源があれば燃え始める最低の液温である。",
@@ -195,7 +195,7 @@
       {
         "id": "physics-chemistry-005-q001",
         "questionNo": 11,
-        "question": "<p>燃焼範囲が広い物質ほど危険性が高いとされる理由として、正しいものはどれか。</p>",
+        "question": "<p><strong>燃焼範囲が広い物質ほど危険性が高いとされる理由として、正しいものはどれか。</strong></p>",
         "choices": [
           "燃焼が起こり得る濃度の幅が広く、さまざまな状況で燃焼条件が成立しやすいため。",
           "燃焼範囲が広いほど、引火点が必ず高くなるため。",
@@ -208,7 +208,7 @@
       {
         "id": "physics-chemistry-005-q002",
         "questionNo": 12,
-        "question": "<p>燃焼下限値が低い物質の危険性に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>燃焼下限値が低い物質の危険性に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "燃焼下限値が低いほど、わずかな蒸気でも燃焼条件が成立しやすく危険性が高い。",
           "燃焼下限値が低いほど、燃焼条件が成立しにくく危険性が低い。",
@@ -221,7 +221,7 @@
       {
         "id": "physics-chemistry-005-q003",
         "questionNo": 13,
-        "question": "<p>引火点と燃焼範囲の関係として、正しいものはどれか。</p>",
+        "question": "<p><strong>引火点と燃焼範囲の関係として、正しいものはどれか。</strong></p>",
         "choices": [
           "液温が引火点に達すると、蒸気濃度は燃焼下限値に達する。",
           "液温が引火点に達すると、蒸気濃度は燃焼上限値を必ず超える。",
@@ -242,12 +242,12 @@
     "intro": "<p><strong>まず押さえる：</strong>自然発火は、物質の内部で生じた熱が逃げずにたまり、外から火をつけなくても燃え出す現象です。粉じん爆発は、細かな可燃性粉末が空気中に舞い、火花などで急激に燃える現象です。 どちらも見えにくい熱や粉が事故につながるため、日常の保管・清掃・換気が重要になります。</p><p><strong>試験では：</strong>起こりやすい条件、原因となる熱、防止策を自然発火と粉じん爆発で分けて問います。</p><p><strong>本文の焦点：</strong>自然発火では熱をためないこと、粉じん爆発では粉を舞わせず点火源をなくすことを、理由と結び付けて押さえます。</p>",
     "introImage": "images/physics-chemistry-006.png",
     "introImageAlt": "自然発火と粉じん爆発を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\"><strong>自然発火</strong></strong></p><p>外部から直接加熱されなくても、物質内部で生じた<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m001\">熱が蓄積し</span>、発火する現象。</p><p>原因となる熱には、次のようなものがある。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m002\">酸化熱</span>：<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m003\">乾性油</span>が付いた布、石炭、ゴム粉など。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m004\">分解熱</span>：<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m005\">セルロイド</span>、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m006\">ニトロセルロース</span>など。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m007\">吸着熱</span>：<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m008\">活性炭</span>など。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m009\">発酵熱</span>：堆肥など。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m010\">重合熱</span>：一部のモノマーなど。</p><p>防止の基本は、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m011\">熱をためない</span>こと。通気・換気、低温保管、堆積量を減らすことなどが有効。</p><p>油が染みた布は放置せず、ふたのできる不燃性の金属容器などに入れて管理する。</p><p><strong class=\"body-subheading\">粉じん爆発</strong></p><p>可燃性の微粉が<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m012\">空気中に浮遊</span>し、点火源に触れて<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m013\">急激に燃焼</span>する現象。</p><p>爆発が起こり得る濃度範囲があり、薄すぎても濃すぎても爆発は起こりにくい。</p><p><span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m014\">粒子が細かい</span>、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m015\">乾燥している</span>、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m016\">空間が閉鎖されている</span>などの条件で起こりやすい。</p><p>防止策は、粉じんを<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m017\">堆積・浮遊</span>させないこと、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m018\">点火源</span>をなくすこと、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m019\">換気や集じん</span>を行うこと。</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\"><strong>自然発火</strong></mark></strong></p><p>外部から直接加熱されなくても、物質内部で生じた<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m001\">熱が蓄積し</span>、発火する現象。</p><p>原因となる熱には、次のようなものがある。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m002\">酸化熱</span>：<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m003\">乾性油</span>が付いた布、石炭、ゴム粉など。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m004\">分解熱</span>：<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m005\">セルロイド</span>、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m006\">ニトロセルロース</span>など。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m007\">吸着熱</span>：<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m008\">活性炭</span>など。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m009\">発酵熱</span>：堆肥など。</p><p><span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-006-m010\">重合熱</span>：一部のモノマーなど。</p><p>防止の基本は、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m011\">熱をためない</span>こと。通気・換気、低温保管、堆積量を減らすことなどが有効。</p><p>油が染みた布は放置せず、ふたのできる不燃性の金属容器などに入れて管理する。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">粉じん爆発</mark></strong></p><p>可燃性の微粉が<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m012\">空気中に浮遊</span>し、点火源に触れて<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m013\">急激に燃焼</span>する現象。</p><p>爆発が起こり得る濃度範囲があり、薄すぎても濃すぎても爆発は起こりにくい。</p><p><span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m014\">粒子が細かい</span>、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m015\">乾燥している</span>、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m016\">空間が閉鎖されている</span>などの条件で起こりやすい。</p><p>防止策は、粉じんを<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m017\">堆積・浮遊</span>させないこと、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m018\">点火源</span>をなくすこと、<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-006-m019\">換気や集じん</span>を行うこと。</p>",
     "questions": [
       {
         "id": "physics-chemistry-006-q001",
         "questionNo": 14,
-        "question": "<p>自然発火の原因のうち、「分解熱」が原因となる物質として、正しいものはどれか。</p>",
+        "question": "<p><strong>自然発火の原因のうち、「分解熱」が原因となる物質として、正しいものはどれか。</strong></p>",
         "choices": [
           "アマニ油",
           "セルロイド",
@@ -260,7 +260,7 @@
       {
         "id": "physics-chemistry-006-q002",
         "questionNo": 15,
-        "question": "<p>自然発火を防止する方法として、誤っているものはどれか。</p>",
+        "question": "<p><strong>自然発火を防止する方法として、誤っているものはどれか。</strong></p>",
         "choices": [
           "通気・換気をよくして、熱が蓄積しないようにする。",
           "油の染みた布等は、密閉した金属製容器に入れて保管する。",
@@ -273,7 +273,7 @@
       {
         "id": "physics-chemistry-006-q003",
         "questionNo": 16,
-        "question": "<p>粉じん爆発に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>粉じん爆発に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "粉じんの水分が多いほど爆発しやすい。",
           "粉じんの濃度が高ければ高いほど、常に爆発しやすくなる。",
@@ -294,12 +294,12 @@
     "intro": "<p><strong>まず押さえる：</strong>火を消す方法は、燃えるものをなくす、酸素を断つ、冷やす、燃焼の連鎖反応を止めるという四つに分けられます。これが除去・窒息・冷却・抑制の四原理です。 消火器を選ぶ問題でも、消火剤の名前より先に、火を消すために何を断つのかを考えると判断しやすくなります。</p><p><strong>試験では：</strong>消火器や消火剤の働きが、どの原理に当たるかを問います。</p><p><strong>本文の焦点：</strong>「何を取り除くか」を軸に四原理を理解し、代表例と主な消火作用を結び付けます。</p>",
     "introImage": "images/physics-chemistry-007.png",
     "introImageAlt": "消火の四原理を示すイラスト",
-    "body": "<p><strong class=\"body-subheading\">除去消火</strong></p><p>可燃物を取り除き、<span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-007-m001\">燃料の供給</span>を断つ。</p><p>ガスの元栓を閉める、周囲の可燃物を移すなどが例である。</p><p><strong class=\"body-subheading\">窒息消火</strong></p><p>酸素の供給を断つか、周囲の<span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-007-m002\">酸素濃度</span>を下げる。</p><p><span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-007-m003\">泡消火剤</span>や<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-007-m004\">二酸化炭素消火剤</span>などが、主にこの作用を利用する。</p><p><strong class=\"body-subheading\">冷却消火</strong></p><p>燃焼物を、燃焼が継続できない温度まで<span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-007-m005\">冷やす</span>。</p><p>水は大きな冷却作用をもつ。</p><p><strong class=\"body-subheading\">抑制消火</strong></p><p>燃焼の<span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-007-m006\">連鎖反応</span>を抑える。</p><p><span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-007-m007\">粉末消火剤</span>や<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-007-m008\">ハロゲン化物消火剤</span>などが、主にこの作用を利用する。</p>",
+    "body": "<p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">除去消火</mark></strong></p><p>可燃物を取り除き、<span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-007-m001\">燃料の供給</span>を断つ。</p><p>ガスの元栓を閉める、周囲の可燃物を移すなどが例である。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">窒息消火</mark></strong></p><p>酸素の供給を断つか、周囲の<span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-007-m002\">酸素濃度</span>を下げる。</p><p><span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-007-m003\">泡消火剤</span>や<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-007-m004\">二酸化炭素消火剤</span>などが、主にこの作用を利用する。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">冷却消火</mark></strong></p><p>燃焼物を、燃焼が継続できない温度まで<span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-007-m005\">冷やす</span>。</p><p>水は大きな冷却作用をもつ。</p><p><strong class=\"body-subheading\"><mark class=\"marker-yellow\">抑制消火</mark></strong></p><p>燃焼の<span class=\"marker marker-red\" data-marker-id=\"physics-chemistry-007-m006\">連鎖反応</span>を抑える。</p><p><span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-007-m007\">粉末消火剤</span>や<span class=\"marker marker-blue\" data-marker-id=\"physics-chemistry-007-m008\">ハロゲン化物消火剤</span>などが、主にこの作用を利用する。</p>",
     "questions": [
       {
         "id": "physics-chemistry-007-q001",
         "questionNo": 17,
-        "question": "<p>消火の三要素に当たらないものはどれか。</p>",
+        "question": "<p><strong>消火の三要素に当たらないものはどれか。</strong></p>",
         "choices": [
           "除去消火",
           "窒息消火",
@@ -312,7 +312,7 @@
       {
         "id": "physics-chemistry-007-q002",
         "questionNo": 18,
-        "question": "<p>第４の消火法として位置付けられるものはどれか。</p>",
+        "question": "<p><strong>第４の消火法として位置付けられるものはどれか。</strong></p>",
         "choices": [
           "希釈消火",
           "抑制消火（負触媒消火）",
@@ -338,7 +338,7 @@
       {
         "id": "physics-chemistry-008-q001",
         "questionNo": 19,
-        "question": "<p>電圧10V、抵抗5Ωの回路に流れる電流として、正しいものはどれか。</p>",
+        "question": "<p><strong>電圧10V、抵抗5Ωの回路に流れる電流として、正しいものはどれか。</strong></p>",
         "choices": [
           "0.5A",
           "2A",
@@ -351,7 +351,7 @@
       {
         "id": "physics-chemistry-008-q002",
         "questionNo": 20,
-        "question": "<p>電力10W、電圧5Vの回路に流れる電流として、正しいものはどれか。</p>",
+        "question": "<p><strong>電力10W、電圧5Vの回路に流れる電流として、正しいものはどれか。</strong></p>",
         "choices": [
           "0.5A",
           "2A",
@@ -377,7 +377,7 @@
       {
         "id": "physics-chemistry-009-q001",
         "questionNo": 21,
-        "question": "<p>静電気が発生しやすい状況として、誤っているものはどれか。</p>",
+        "question": "<p><strong>静電気が発生しやすい状況として、誤っているものはどれか。</strong></p>",
         "choices": [
           "危険物を高速で流動・移送させるとき",
           "危険物をろ過するとき",
@@ -390,7 +390,7 @@
       {
         "id": "physics-chemistry-009-q002",
         "questionNo": 22,
-        "question": "<p>タンクへの危険物の注入時における静電気対策として、正しいものはどれか。</p>",
+        "question": "<p><strong>タンクへの危険物の注入時における静電気対策として、正しいものはどれか。</strong></p>",
         "choices": [
           "注入管の先端を液面の高い位置に保持し、落差をつけて注入する。",
           "注入管の先端をタンクの底部付近に保持し、流速を遅くする。",
@@ -403,7 +403,7 @@
       {
         "id": "physics-chemistry-009-q003",
         "questionNo": 23,
-        "question": "<p>静電気の蓄積を抑えるための対策として、誤っているものはどれか。</p>",
+        "question": "<p><strong>静電気の蓄積を抑えるための対策として、誤っているものはどれか。</strong></p>",
         "choices": [
           "設備を接地する。",
           "導電性の高い帯電防止靴を使用する。",
@@ -416,7 +416,7 @@
       {
         "id": "physics-chemistry-009-q004",
         "questionNo": 24,
-        "question": "<p>物体が帯電する仕組みに関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>物体が帯電する仕組みに関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "物体間を主に移動するのは陽子である。",
           "物体間を電子が移動しても、電気量の総和は保存される。",
@@ -442,7 +442,7 @@
       {
         "id": "physics-chemistry-010-q001",
         "questionNo": 25,
-        "question": "<p>気体から固体への状態変化の名称として、正しいものはどれか。</p>",
+        "question": "<p><strong>気体から固体への状態変化の名称として、正しいものはどれか。</strong></p>",
         "choices": [
           "融解",
           "蒸発",
@@ -455,7 +455,7 @@
       {
         "id": "physics-chemistry-010-q002",
         "questionNo": 26,
-        "question": "<p>状態変化と熱の出入りに関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>状態変化と熱の出入りに関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "液体が気体になる気化では、周囲から熱を吸収する。",
           "気体が液体になる凝縮では、周囲から熱を吸収する。",
@@ -481,7 +481,7 @@
       {
         "id": "physics-chemistry-011-q001",
         "questionNo": 27,
-        "question": "<p>飽和蒸気圧に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>飽和蒸気圧に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "液温が高くなるほど、飽和蒸気圧は小さくなる。",
           "液温が高くなるほど、飽和蒸気圧は大きくなる。",
@@ -494,7 +494,7 @@
       {
         "id": "physics-chemistry-011-q002",
         "questionNo": 28,
-        "question": "<p>高山で水の沸点が100℃より低くなる理由として、正しいものはどれか。</p>",
+        "question": "<p><strong>高山で水の沸点が100℃より低くなる理由として、正しいものはどれか。</strong></p>",
         "choices": [
           "高山では気圧が高くなるため。",
           "高山では気圧が低くなるため。",
@@ -520,7 +520,7 @@
       {
         "id": "physics-chemistry-012-q001",
         "questionNo": 29,
-        "question": "<p>比重が１未満の液体について、正しいものはどれか。</p>",
+        "question": "<p><strong>比重が１未満の液体について、正しいものはどれか。</strong></p>",
         "choices": [
           "水より重く、水に沈む。",
           "水より軽く、水に浮く。",
@@ -533,7 +533,7 @@
       {
         "id": "physics-chemistry-012-q002",
         "questionNo": 30,
-        "question": "<p>蒸気比重が１より大きいことが意味する内容として、正しいものはどれか。</p>",
+        "question": "<p><strong>蒸気比重が１より大きいことが意味する内容として、正しいものはどれか。</strong></p>",
         "choices": [
           "その蒸気は空気より軽く、高所に滞留しやすい。",
           "その蒸気は空気より重く、低所に滞留しやすい。",
@@ -559,7 +559,7 @@
       {
         "id": "physics-chemistry-013-q001",
         "questionNo": 31,
-        "question": "<p>圧力が一定のとき、気体の体積と絶対温度の関係を表す法則として、正しいものはどれか。</p>",
+        "question": "<p><strong>圧力が一定のとき、気体の体積と絶対温度の関係を表す法則として、正しいものはどれか。</strong></p>",
         "choices": [
           "ボイルの法則",
           "シャルルの法則",
@@ -572,7 +572,7 @@
       {
         "id": "physics-chemistry-013-q002",
         "questionNo": 32,
-        "question": "<p>気体・液体・固体の熱膨張率の大小関係として、正しいものはどれか。</p>",
+        "question": "<p><strong>気体・液体・固体の熱膨張率の大小関係として、正しいものはどれか。</strong></p>",
         "choices": [
           "気体＞液体＞固体",
           "固体＞液体＞気体",
@@ -598,7 +598,7 @@
       {
         "id": "physics-chemistry-014-q001",
         "questionNo": 33,
-        "question": "<p>比熱が大きい物質の性質に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>比熱が大きい物質の性質に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "同じ熱量を加えた場合、温度が上昇しやすい。",
           "同じ熱量を加えた場合、温度が上昇しにくい。",
@@ -611,7 +611,7 @@
       {
         "id": "physics-chemistry-014-q002",
         "questionNo": 34,
-        "question": "<p>熱の伝導に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>熱の伝導に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "流体の移動によって熱が運ばれる現象である。",
           "物質を構成する分子・原子の振動が伝わることで熱が移動する現象である。",
@@ -637,7 +637,7 @@
       {
         "id": "physics-chemistry-015-q001",
         "questionNo": 35,
-        "question": "<p>次のうち、物理変化に分類されるものとして、正しいものはどれか。</p>",
+        "question": "<p><strong>次のうち、物理変化に分類されるものとして、正しいものはどれか。</strong></p>",
         "choices": [
           "鉄が錆びる。",
           "紙が燃える。",
@@ -650,7 +650,7 @@
       {
         "id": "physics-chemistry-015-q002",
         "questionNo": 36,
-        "question": "<p>物理変化と化学変化を区別する基準として、正しいものはどれか。</p>",
+        "question": "<p><strong>物理変化と化学変化を区別する基準として、正しいものはどれか。</strong></p>",
         "choices": [
           "物質の色が変化するかどうかで判断する。",
           "物質の分子構造が変化し、新しい物質が生成するかどうかで判断する。",
@@ -676,7 +676,7 @@
       {
         "id": "physics-chemistry-016-q001",
         "questionNo": 37,
-        "question": "<p>次のうち、化合物に分類されるものとして、正しいものはどれか。</p>",
+        "question": "<p><strong>次のうち、化合物に分類されるものとして、正しいものはどれか。</strong></p>",
         "choices": [
           "空気",
           "ガソリン",
@@ -689,7 +689,7 @@
       {
         "id": "physics-chemistry-016-q002",
         "questionNo": 38,
-        "question": "<p>単体に分類されるものとして、正しいものはどれか。</p>",
+        "question": "<p><strong>単体に分類されるものとして、正しいものはどれか。</strong></p>",
         "choices": [
           "二酸化炭素",
           "硫黄",
@@ -702,7 +702,7 @@
       {
         "id": "physics-chemistry-016-q003",
         "questionNo": 39,
-        "question": "<p>ガソリンが単一の沸点を持たず、沸騰範囲を持つ理由として、正しいものはどれか。</p>",
+        "question": "<p><strong>ガソリンが単一の沸点を持たず、沸騰範囲を持つ理由として、正しいものはどれか。</strong></p>",
         "choices": [
           "ガソリンが化合物であるため。",
           "ガソリンが多種類の炭化水素からなる混合物であるため。",
@@ -715,7 +715,7 @@
       {
         "id": "physics-chemistry-016-q004",
         "questionNo": 40,
-        "question": "<p>次のうち、炭素を含むが無機化合物として扱われるものはどれか。</p>",
+        "question": "<p><strong>次のうち、炭素を含むが無機化合物として扱われるものはどれか。</strong></p>",
         "choices": [
           "メタノール",
           "二酸化炭素",
@@ -728,7 +728,7 @@
       {
         "id": "physics-chemistry-016-q005",
         "questionNo": 41,
-        "question": "<p>芳香族炭化水素に分類される物質として、正しいものはどれか。</p>",
+        "question": "<p><strong>芳香族炭化水素に分類される物質として、正しいものはどれか。</strong></p>",
         "choices": [
           "メタン",
           "プロパン",
@@ -754,7 +754,7 @@
       {
         "id": "physics-chemistry-017-q001",
         "questionNo": 42,
-        "question": "<p>原子・分子・イオンに関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>原子・分子・イオンに関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "原子が電子を失うと陰イオンになる。",
           "原子が電子を得ると陽イオンになる。",
@@ -767,7 +767,7 @@
       {
         "id": "physics-chemistry-017-q002",
         "questionNo": 43,
-        "question": "<p>化学反応式における質量保存の法則に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>化学反応式における質量保存の法則に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "反応前と反応後で、各原子の数は変化しない。",
           "反応前と反応後で、各原子の数は必ず増加する。",
@@ -780,7 +780,7 @@
       {
         "id": "physics-chemistry-017-q003",
         "questionNo": 44,
-        "question": "<p>水H2Oのモル質量を18g/molとすると、水36gの物質量として、正しいものはどれか。</p>",
+        "question": "<p><strong>水H2Oのモル質量を18g/molとすると、水36gの物質量として、正しいものはどれか。</strong></p>",
         "choices": [
           "0.5mol",
           "1mol",
@@ -793,7 +793,7 @@
       {
         "id": "physics-chemistry-017-q004",
         "questionNo": 45,
-        "question": "<p>メタノールの完全燃焼を表す化学反応式として、正しいものはどれか。</p>",
+        "question": "<p><strong>メタノールの完全燃焼を表す化学反応式として、正しいものはどれか。</strong></p>",
         "choices": [
           "CH3OH＋O2→CO＋2H2O",
           "2CH3OH＋3O2→2CO2＋4H2O",
@@ -806,7 +806,7 @@
       {
         "id": "physics-chemistry-017-q005",
         "questionNo": 46,
-        "question": "<p>2molのメタノールを完全燃焼させるために必要な酸素は何molか。反応式は、2CH3OH＋3O2→2CO2＋4H2Oとする。</p>",
+        "question": "<p><strong>2molのメタノールを完全燃焼させるために必要な酸素は何molか。反応式は、2CH3OH＋3O2→2CO2＋4H2Oとする。</strong></p>",
         "choices": [
           "1mol",
           "2mol",
@@ -819,7 +819,7 @@
       {
         "id": "physics-chemistry-017-q006",
         "questionNo": 47,
-        "question": "<p>標準状態で11.2Lの一酸化炭素COの質量は何gか。1mol＝22.4L、C＝12、O＝16とする。</p>",
+        "question": "<p><strong>標準状態で11.2Lの一酸化炭素COの質量は何gか。1mol＝22.4L、C＝12、O＝16とする。</strong></p>",
         "choices": [
           "7g",
           "14g",
@@ -832,7 +832,7 @@
       {
         "id": "physics-chemistry-017-q007",
         "questionNo": 48,
-        "question": "<p>メタン1molを完全燃焼させるために必要な酸素は何molか。反応式は、CH4＋2O2→CO2＋2H2Oとする。</p>",
+        "question": "<p><strong>メタン1molを完全燃焼させるために必要な酸素は何molか。反応式は、CH4＋2O2→CO2＋2H2Oとする。</strong></p>",
         "choices": [
           "0.5mol",
           "1mol",
@@ -858,7 +858,7 @@
       {
         "id": "physics-chemistry-018-q001",
         "questionNo": 49,
-        "question": "<p>中和反応に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>中和反応に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "酸と塩基が反応して、塩と水を生成する反応である。",
           "酸と酸化剤が反応して、新たな酸を生成する反応である。",
@@ -871,7 +871,7 @@
       {
         "id": "physics-chemistry-018-q002",
         "questionNo": 50,
-        "question": "<p>pHが７の水溶液の性質として、正しいものはどれか。</p>",
+        "question": "<p><strong>pHが７の水溶液の性質として、正しいものはどれか。</strong></p>",
         "choices": [
           "強い酸性を示す。",
           "中性を示す。",
@@ -897,7 +897,7 @@
       {
         "id": "physics-chemistry-019-q001",
         "questionNo": 51,
-        "question": "<p>還元反応の説明として、正しいものはどれか。</p>",
+        "question": "<p><strong>還元反応の説明として、正しいものはどれか。</strong></p>",
         "choices": [
           "物質が酸素と結合する反応である。",
           "物質が水素を失う反応である。",
@@ -910,7 +910,7 @@
       {
         "id": "physics-chemistry-019-q002",
         "questionNo": 52,
-        "question": "<p>燃焼が酸化還元反応の一種であるとされる理由として、正しいものはどれか。</p>",
+        "question": "<p><strong>燃焼が酸化還元反応の一種であるとされる理由として、正しいものはどれか。</strong></p>",
         "choices": [
           "燃焼では、可燃物が還元され、酸素が酸化されるため。",
           "燃焼では、可燃物が酸化され、酸素が還元されるため。",
@@ -923,7 +923,7 @@
       {
         "id": "physics-chemistry-019-q003",
         "questionNo": 53,
-        "question": "<p>電気分解における陽極での反応として、正しいものはどれか。</p>",
+        "question": "<p><strong>電気分解における陽極での反応として、正しいものはどれか。</strong></p>",
         "choices": [
           "還元反応が起こる。",
           "酸化反応が起こる。",
@@ -949,7 +949,7 @@
       {
         "id": "physics-chemistry-020-q001",
         "questionNo": 54,
-        "question": "<p>禁水性物質と水の接触によって生じる危険として、正しいものはどれか。</p>",
+        "question": "<p><strong>禁水性物質と水の接触によって生じる危険として、正しいものはどれか。</strong></p>",
         "choices": [
           "中和反応により、無害な塩が生成される。",
           "可燃性ガスの発生や発火が起こるおそれがある。",
@@ -962,7 +962,7 @@
       {
         "id": "physics-chemistry-020-q002",
         "questionNo": 55,
-        "question": "<p>異種金属の接触によって生じる腐食に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>異種金属の接触によって生じる腐食に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "異種金属を接触させても、腐食には影響しない。",
           "電解質を介して異種金属が接触すると、イオン化傾向の大きい金属が早く腐食する。",
@@ -975,7 +975,7 @@
       {
         "id": "physics-chemistry-020-q003",
         "questionNo": 56,
-        "question": "<p>地下タンク・配管の腐食対策として、正しいものはどれか。</p>",
+        "question": "<p><strong>地下タンク・配管の腐食対策として、正しいものはどれか。</strong></p>",
         "choices": [
           "防食塗装や電気防食を施す。",
           "腐食対策は不要であり、自然に放置してよい。",
@@ -1001,7 +1001,7 @@
       {
         "id": "physics-chemistry-021-q001",
         "questionNo": 57,
-        "question": "<p>空気の組成に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>空気の組成に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "窒素が約78vol％、酸素が約21vol％を占める。",
           "酸素が約78vol％、窒素が約21vol％を占める。",
@@ -1014,7 +1014,7 @@
       {
         "id": "physics-chemistry-021-q002",
         "questionNo": 58,
-        "question": "<p>二酸化炭素消火剤が消火に用いられる理由として、正しいものはどれか。</p>",
+        "question": "<p><strong>二酸化炭素消火剤が消火に用いられる理由として、正しいものはどれか。</strong></p>",
         "choices": [
           "二酸化炭素が可燃性であり、燃焼を助けるため。",
           "二酸化炭素が不燃性・不活性であり、酸素濃度を低下させて窒息効果を発揮するため。",
@@ -1027,7 +1027,7 @@
       {
         "id": "physics-chemistry-021-q003",
         "questionNo": 59,
-        "question": "<p>酸素の性質に関する記述として、正しいものはどれか。</p>",
+        "question": "<p><strong>酸素の性質に関する記述として、正しいものはどれか。</strong></p>",
         "choices": [
           "酸素は可燃性で、それ自体が激しく燃える。",
           "酸素は支燃性をもち、他の物質の燃焼を助ける。",
@@ -1040,7 +1040,7 @@
       {
         "id": "physics-chemistry-021-q004",
         "questionNo": 60,
-        "question": "<p>一酸化炭素と二酸化炭素の性質の組合せとして、正しいものはどれか。</p>",
+        "question": "<p><strong>一酸化炭素と二酸化炭素の性質の組合せとして、正しいものはどれか。</strong></p>",
         "choices": [
           "一酸化炭素は可燃性・有毒、二酸化炭素は不燃性である。",
           "一酸化炭素は不燃性、二酸化炭素は可燃性である。",
