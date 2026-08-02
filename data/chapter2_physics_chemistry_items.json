@@ -1,5 +1,4 @@
-window.INTEGRATED_CHAPTER_DATA = window.INTEGRATED_CHAPTER_DATA || {};
-window.INTEGRATED_CHAPTER_DATA["physics-chemistry"] = [
+[
   {
     "id": "physics-chemistry-001",
     "chapter": 2,
@@ -1053,4 +1052,4 @@ window.INTEGRATED_CHAPTER_DATA["physics-chemistry"] = [
       }
     ]
   }
-];
+]

@@ -1,5 +1,4 @@
-window.INTEGRATED_CHAPTER_DATA = window.INTEGRATED_CHAPTER_DATA || {};
-window.INTEGRATED_CHAPTER_DATA["law"] = [
+[
   {
     "id": "law-001",
     "chapter": 1,
@@ -1508,4 +1507,4 @@ window.INTEGRATED_CHAPTER_DATA["law"] = [
       }
     ]
   }
-];
+]

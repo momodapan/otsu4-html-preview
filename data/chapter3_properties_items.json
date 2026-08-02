@@ -1,5 +1,4 @@
-window.INTEGRATED_CHAPTER_DATA = window.INTEGRATED_CHAPTER_DATA || {};
-window.INTEGRATED_CHAPTER_DATA["properties"] = [
+[
   {
     "id": "properties-001",
     "chapter": 3,
@@ -741,4 +740,4 @@ window.INTEGRATED_CHAPTER_DATA["properties"] = [
       }
     ]
   }
-];
+]

@@ -1,4 +1,4 @@
-window.INTEGRATED_CHAPTERS = [
+[
   {
     "id": "law",
     "chapter": 1,
@@ -17,5 +17,4 @@ window.INTEGRATED_CHAPTERS = [
     "title": "危険物の性質・火災予防・消火",
     "dataFile": "chapter3_properties_items.json"
   }
-];
-window.INTEGRATED_CHAPTER_DATA = window.INTEGRATED_CHAPTER_DATA || {};
+]
