@@ -1,66 +1,28 @@
 <!doctype html>
 <html lang="ja">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>乙4マーカー 統合HTMLプレビュー（0801 章間の統一）</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <button id="menuButton" class="menu-button" type="button" aria-label="メニューを開く" aria-expanded="false">
-      ☰
-    </button>
-
-    <div id="menuOverlay" class="menu-overlay" hidden></div>
-
-    <aside id="sideMenu" class="side-menu" aria-hidden="true">
-      <div class="side-menu-header">
-        <h2>章・項目</h2>
-        <button id="menuCloseButton" type="button" aria-label="メニューを閉じる">×</button>
-      </div>
-      <nav id="chapterItemNav" class="chapter-item-nav" aria-label="章・項目一覧"></nav>
-    </aside>
-
-    <header class="topbar">
-      <div class="title-block">
-        <p class="chapter" id="chapterLabel">章を読み込み中</p>
-        <h1 id="chapterTitle">乙4マーカー</h1>
-      </div>
-      <div class="counter" id="counter"></div>
-    </header>
-
-    <main class="layout">
-      <section class="reader">
-        <div class="reader-head">
-          <div>
-            <p class="item-no" id="itemNo"></p>
-            <h2 id="itemTitle"></h2>
-          </div>
-          <div class="pager">
-            <button type="button" id="prevBtn" title="前の項目" aria-label="前の項目へ">↑</button>
-            <button type="button" id="nextBtn" title="次の項目" aria-label="次の項目へ">↓</button>
-          </div>
-        </div>
-
-        <div class="tabs" role="tablist" aria-label="表示切替">
-          <button type="button" class="active" data-tab="intro">導入</button>
-          <button type="button" data-tab="body">本文</button>
-          <button type="button" data-tab="questions">参考問題</button>
-        </div>
-
-        <div class="tools" aria-label="マーカー操作">
-          <button type="button" id="redMarkerToggle">赤を隠す</button>
-          <button type="button" id="blueMarkerToggle">青を隠す</button>
-        </div>
-
-        <article id="content" class="content" aria-live="polite"></article>
-      </section>
-    </main>
-
-    <script src="data/chapters.js"></script>
-    <script src="data/chapter1_law_items.js"></script>
-    <script src="data/chapter2_physics_chemistry_items.js"></script>
-    <script src="data/chapter3_properties_items.js"></script>
-    <script src="script.js"></script>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="乙種第4類危険物取扱者 学習プレビュー">
+  <title>乙4 学習プレビュー</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="site-header"><a class="brand" href="#" aria-label="教材の先頭へ">乙4 学習プレビュー</a></header>
+    <section id="chapter-selector" class="chapter-selector" aria-label="章を選択"></section>
+    <section id="item-header" class="item-header" aria-live="polite"></section>
+    <section class="tabs" role="tablist" aria-label="表示内容">
+      <button type="button" role="tab" id="tab-intro" aria-controls="panel" aria-selected="true" data-view="intro">導入</button>
+      <button type="button" role="tab" id="tab-body" aria-controls="panel" aria-selected="false" data-view="body">本文</button>
+      <button type="button" role="tab" id="tab-questions" aria-controls="panel" aria-selected="false" data-view="questions">問題演習</button>
+    </section>
+    <section id="panel" class="panel" role="tabpanel" aria-labelledby="tab-intro"></section>
+  </main>
+  <script src="data/chapters.js"></script>
+  <script src="data/chapter1_law_items.js"></script>
+  <script src="data/chapter2_physics_chemistry_items.js"></script>
+  <script src="data/chapter3_properties_items.js"></script>
+  <script src="script.js"></script>
+</body>
 </html>
