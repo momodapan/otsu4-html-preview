@@ -3,21 +3,26 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="乙種第4類危険物取扱者 学習プレビュー">
-  <title>乙4 学習プレビュー</title>
+  <meta name="description" content="乙種第4類危険物取扱者試験 学習教材">
+  <title>乙4 マーカー教材</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <button id="menu-button" class="menu-button" type="button" aria-label="章・項目メニューを開く" aria-expanded="false" aria-controls="side-menu">☰</button>
+  <header class="site-header"><div id="chapter-header" class="chapter-header" aria-live="polite"></div></header>
+  <div id="menu-overlay" class="menu-overlay" hidden></div>
+  <aside id="side-menu" class="side-menu" aria-label="章・項目メニュー" aria-hidden="true">
+    <div class="menu-heading"><h2>章・項目</h2><button id="menu-close" type="button" aria-label="メニューを閉じる">×</button></div>
+    <nav id="menu-list"></nav>
+  </aside>
   <main class="app-shell">
-    <header class="site-header"><a class="brand" href="#" aria-label="教材の先頭へ">乙4 学習プレビュー</a></header>
-    <section id="chapter-selector" class="chapter-selector" aria-label="章を選択"></section>
-    <section id="item-header" class="item-header" aria-live="polite"></section>
-    <section class="tabs" role="tablist" aria-label="表示内容">
-      <button type="button" role="tab" id="tab-intro" aria-controls="panel" aria-selected="true" data-view="intro">導入</button>
-      <button type="button" role="tab" id="tab-body" aria-controls="panel" aria-selected="false" data-view="body">本文</button>
-      <button type="button" role="tab" id="tab-questions" aria-controls="panel" aria-selected="false" data-view="questions">問題演習</button>
+    <section id="item-heading" class="item-heading" aria-live="polite"></section>
+    <section class="tab-row" role="tablist" aria-label="表示内容">
+      <button id="tab-intro" type="button" role="tab" data-view="intro" aria-controls="content-region" aria-selected="true">導入</button>
+      <button id="tab-body" type="button" role="tab" data-view="body" aria-controls="content-region" aria-selected="false">本文</button>
+      <button id="tab-questions" type="button" role="tab" data-view="questions" aria-controls="content-region" aria-selected="false">参考問題</button>
     </section>
-    <section id="panel" class="panel" role="tabpanel" aria-labelledby="tab-intro"></section>
+    <section id="content-region" class="content-region" role="tabpanel" aria-labelledby="tab-intro" aria-live="polite"></section>
   </main>
   <script src="data/chapters.js"></script>
   <script src="data/chapter1_law_items.js"></script>
