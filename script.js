@@ -57,7 +57,7 @@
   }
   function markerTools() { return `<div class="marker-tools"><button type="button" class="red-tool" data-marker-colour="red">赤ON</button><button type="button" class="blue-tool" data-marker-colour="blue">青ON</button></div>`; }
   function contentFor(item) {
-    if (app.view === 'intro') return `${item.intro || ''}${item.introImage ? `<img class="illustration" src="${item.introImage}" alt="${item.introImageAlt || ''}">` : ''}`;
+    if (app.view === 'intro') return `${item.introImage ? `<img class="illustration" src="${item.introImage}" alt="${item.introImageAlt || ''}">` : ''}${item.intro || ''}`;
     if (app.view === 'body') return item.body || '';
     if (!item.questions || !item.questions.length) return '<p>この項目には参考問題がありません。</p>';
     const saved = qState();
