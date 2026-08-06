@@ -57,7 +57,7 @@
   }
   function markerTools() { return `<div class="marker-tools"><button type="button" class="red-tool" data-marker-colour="red">赤ON</button><button type="button" class="blue-tool" data-marker-colour="blue">青ON</button></div>`; }
   function contentFor(item) {
-    if (app.view === 'intro') return `${item.introImage ? `<img class="illustration" src="${item.introImage}" alt="${item.introImageAlt || ''}">` : ''}${item.intro || ''}`;
+    if (app.view === 'intro') return `<section class="overview-content">${item.introImage ? `<figure class="overview-image-wrap"><img class="overview-image" src="${item.introImage}" alt="${item.introImageAlt || ''}"></figure>` : ''}<div class="overview-text">${item.intro || ''}</div></section>`;
     if (app.view === 'body') return item.body || '';
     if (!item.questions || !item.questions.length) return '<p>この項目には参考問題がありません。</p>';
     const saved = qState();
@@ -74,7 +74,7 @@
       if (answered && number === selected && number !== question.answer) classes.push('incorrect');
       return `<button type="button" class="${classes.join(' ')}" data-question="${question.id}" data-choice="${number}" aria-label="選択肢${number}: ${htmlText(choice)}" aria-pressed="${number === selected}" ${answered ? 'disabled' : ''}>${number}. ${choice}</button>`;
     }).join('');
-    const feedback = answered ? `<div class="result ${selected === question.answer ? 'correct' : 'incorrect'}" aria-live="polite">${selected === question.answer ? '◯ 正解' : '× 不正解'}</div><div class="answer-detail">正解：${question.answer}. ${question.choices[question.answer - 1]}<br>${question.explanation}</div><button type="button" class="retry" data-retry="${question.id}">もう一度解く</button>` : '';
+    const feedback = answered ? `<div class="result ${selected === question.answer ? 'correct' : 'incorrect'}" aria-live="polite">${selected === question.answer ? '○ 正解' : '× 不正解'}</div><div class="answer-detail">正解：${question.answer}. ${question.choices[question.answer - 1]}<br>${question.explanation}</div><button type="button" class="retry" data-retry="${question.id}">もう一度解く</button>` : '';
     return `<article class="question"><h3>問題${question.questionNo}</h3><div>${question.question}</div><div class="choices">${choices}</div>${feedback}</article>`;
   }
   function drawContent() {
