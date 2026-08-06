@@ -55,7 +55,12 @@
     const available = app.itemIndex + direction >= 0 && app.itemIndex + direction < currentItems().length;
     return `<button type="button" class="item-nav${lower ? ' bottom' : ''}" data-item-move="${direction}" ${available ? '' : 'disabled'}>${direction < 0 ? '↑ 前の項目へ' : '↓ 次の項目へ'}</button>`;
   }
-  function markerTools() { return `<div class="marker-tools"><button type="button" class="red-tool" data-marker-colour="red">赤ON</button><button type="button" class="blue-tool" data-marker-colour="blue">青ON</button></div>`; }
+  function markerTools(markup) {
+    const controls = [];
+    if (markup.includes('marker-red')) controls.push('<button type="button" class="red-tool" data-marker-colour="red">赤ON</button>');
+    if (markup.includes('marker-blue')) controls.push('<button type="button" class="blue-tool" data-marker-colour="blue">青ON</button>');
+    return controls.length ? `<div class="marker-tools">${controls.join('')}</div>` : '';
+  }
   function contentFor(item) {
     if (app.view === 'intro') return `<section class="overview-content">${item.introImage ? `<figure class="overview-image-wrap"><img class="overview-image" src="${item.introImage}" alt="${item.introImageAlt || ''}"></figure>` : ''}<div class="overview-text">${item.intro || ''}</div></section>`;
     if (app.view === 'body') return item.body || '';
@@ -78,7 +83,8 @@
     return `<article class="question"><h3>問題${question.questionNo}</h3><div>${question.question}</div><div class="choices">${choices}</div>${feedback}</article>`;
   }
   function drawContent() {
-    content.innerHTML = `${navButton(-1, false)}${markerTools()}<div class="content">${contentFor(currentItem())}</div>${navButton(1, true)}`;
+    const markup = contentFor(currentItem());
+    content.innerHTML = `${navButton(-1, false)}${markerTools(markup)}<div class="content reading-content">${markup}</div>${navButton(1, true)}`;
     wireContent();
   }
   function updateBulkButtons() {
